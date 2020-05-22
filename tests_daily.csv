@@ -45,7 +45,7 @@ updatetimestamp,totalsamplestested,totalindividualstested,totalpositivecases,tes
 22/04/2020 21:00:00,,,,,,,,,,
 23/04/2020 09:00:00,500542,485172,21797,22.96,22.26,4.35%,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_23Apr2020_9AM_IST.pdf
 24/04/2020 09:00:00,541789,525667,23502,23.05,22.37,4.34%,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_24Apr2020_9AM_IST.pdf
-25/04/2020 09:00:00,579957,,,,,,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_25Apr2020_9AM_IST.pdf
+25/04/2020 09:00:00,579957,,,,,0.00%,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_25Apr2020_9AM_IST.pdf
 26/04/2020 09:00:00,625309,,,,,,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_26Apr2020_9AM_IST.pdf
 27/04/2020 09:00:00,665819,,,,,,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_27Apr2020_9AM_IST.pdf
 28/04/2020 09:00:00,716733,,,,,,,,,https://www.icmr.nic.in/pdf/covid/update/ICMR_testing_update_28Apr2020_9AM_IST.pdf
@@ -70,3 +70,5 @@ updatetimestamp,totalsamplestested,totalindividualstested,totalpositivecases,tes
 17/05/2020 09:00:00,2227642,,,,,,,,,https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17May2020_9AM_IST.pdf
 18/05/2020 09:00:00,2302792,,,,,,,,,https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18May2020_9AM_IST.pdf
 19/05/2020 09:00:00,2404267,,,,,,,,,https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf
+20/05/2020 09:00:00,2512388,,,,,,,,108121,https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20May2020_9AM_IST.pdf
+21/05/2020 09:00:00,2615920,,,,,,,,103532,https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf
