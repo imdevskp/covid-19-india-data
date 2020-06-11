@@ -1,45 +1,45 @@
 state,statecode,lastupdatedtime,confirmed,active,deaths,recovered,deltaconfirmed,deltadeaths,deltarecovered,statenotes
-Total,TT,10/06/2020 10:02:46,275302,133402,7719,134166,522,0,0,
-Maharashtra,MH,09/06/2020 21:54:47,90787,44859,3289,42639,0,0,0,
-Tamil Nadu,TN,09/06/2020 19:13:50,34914,16282,307,18325,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
+Total,TT,11/06/2020 11:12:46,287061,137927,8113,141006,-94,6,27,
+Maharashtra,MH,10/06/2020 20:43:48,94041,46087,3438,44516,0,0,0,
+Tamil Nadu,TN,10/06/2020 19:04:49,36841,17182,326,19333,0,0,0,"2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu"
-Delhi,DL,10/06/2020 06:36:47,29943,17712,874,11357,0,0,0,"[10-May]
+Delhi,DL,10/06/2020 21:45:49,32810,19581,984,12245,0,0,0,"[10-May]
 Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.
 Also, backdated deaths reported are added to the day in which they are announced"
-Gujarat,GJ,09/06/2020 20:15:48,21044,5358,1313,14373,0,0,0,
-Rajasthan,RJ,09/06/2020 22:41:47,11245,2662,255,8328,0,0,0,
-Uttar Pradesh,UP,09/06/2020 22:03:47,11335,4365,301,6669,0,0,0,
-Madhya Pradesh,MP,09/06/2020 23:34:47,9849,2700,420,6729,0,0,0,
-West Bengal,WB,09/06/2020 20:03:51,8985,4950,415,3620,0,0,0,
-State Unassigned,UN,10/06/2020 10:02:48,9227,9227,0,0,516,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states""""
+Gujarat,GJ,10/06/2020 20:20:49,21554,5464,1347,14743,0,0,0,
+Rajasthan,RJ,11/06/2020 11:05:47,11651,2791,264,8596,51,5,27,
+Uttar Pradesh,UP,10/06/2020 21:55:48,11610,4318,321,6971,0,0,0,
+Madhya Pradesh,MP,10/06/2020 21:18:51,10049,2730,427,6892,0,0,0,
+West Bengal,WB,10/06/2020 19:59:49,9328,5117,432,3779,0,0,0,
+State Unassigned,UN,11/06/2020 10:13:48,8931,8931,0,0,-296,0,0,"""MoHFW website reports that these are the """"cases that are being reassigned to states""""
 
 [Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category."""
-Karnataka,KA,09/06/2020 19:22:48,5921,3248,66,2605,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
-Bihar,BR,09/06/2020 20:45:49,5455,2652,33,2770,0,0,0,
-Haryana,HR,09/06/2020 20:45:51,5209,3357,45,1807,0,0,0,
-Andhra Pradesh,AP,09/06/2020 18:34:48,5029,2177,77,2775,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Jammu and Kashmir,JK,09/06/2020 20:03:56,4346,2792,48,1506,0,0,0,
-Telangana,TG,09/06/2020 23:04:47,3920,2030,148,1742,0,0,0,
-Odisha,OR,09/06/2020 16:52:49,3140,996,11,2133,0,0,0,Two non-covid deaths reported in state dashboard are included in the deceased count
-Assam,AS,10/06/2020 00:27:48,3051,1945,5,1098,0,0,0,"Includes one case from Nagaland
+Karnataka,KA,10/06/2020 18:37:49,6041,3108,69,2862,0,0,0,Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons
+Bihar,BR,10/06/2020 20:53:49,5698,2730,34,2934,0,0,0,
+Haryana,HR,10/06/2020 20:43:53,5579,3339,52,2188,0,0,0,
+Andhra Pradesh,AP,10/06/2020 13:36:49,5247,2300,78,2869,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Jammu and Kashmir,JK,10/06/2020 20:53:52,4507,2785,51,1671,0,0,0,
+Telangana,TG,10/06/2020 22:05:48,4111,2138,156,1817,0,0,0,
+Odisha,OR,11/06/2020 11:12:48,3386,1092,12,2282,136,1,0,Two non-covid deaths reported in state dashboard are included in the deceased count
+Assam,AS,11/06/2020 00:45:49,3286,2029,5,1249,0,0,0,"Includes one case from Nagaland
 Total of three* patients who migrated to other states has been reduced from Active count"
-Punjab,PB,09/06/2020 19:22:53,2719,497,55,2167,0,0,0,
-Kerala,KL,09/06/2020 18:05:48,2097,1232,17,848,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Uttarakhand,UT,09/06/2020 23:04:50,1537,762,13,755,0,0,0,Four migrated cases reduced from Active count
-Jharkhand,JH,09/06/2020 23:40:48,1416,849,8,559,0,0,0,
-Chhattisgarh,CT,09/06/2020 19:38:51,1211,859,5,347,0,0,0,
-Tripura,TR,09/06/2020 23:52:48,866,673,1,192,0,0,0,
-Himachal Pradesh,HP,09/06/2020 17:55:49,437,191,6,237,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-Goa,GA,09/06/2020 23:15:52,359,292,0,67,0,0,0,
-Chandigarh,CH,09/06/2020 19:38:53,326,36,5,285,0,0,0,
-Manipur,MN,09/06/2020 23:52:50,304,240,0,64,0,0,0,
-Puducherry,PY,09/06/2020 19:38:55,132,77,0,55,0,0,0,
-Nagaland,NL,10/06/2020 10:02:50,128,118,0,10,1,0,0,
-Ladakh,LA,09/06/2020 18:05:51,108,57,1,50,0,0,0,
-Mizoram,MZ,10/06/2020 10:02:52,93,92,0,1,5,0,0,
-Arunachal Pradesh,AR,09/06/2020 07:37:48,57,55,0,2,0,0,0,
-Meghalaya,ML,09/06/2020 23:52:52,43,29,1,13,0,0,0,
-Andaman and Nicobar Islands,AN,10/06/2020 00:05:51,34,1,0,33,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,DN,08/06/2020 23:54:49,22,20,0,2,0,0,0,
+Punjab,PB,10/06/2020 18:38:49,2805,518,55,2232,0,0,0,
+Kerala,KL,10/06/2020 19:11:50,2162,1239,18,905,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
+Uttarakhand,UT,10/06/2020 21:55:53,1562,709,15,831,0,0,0,Four migrated cases reduced from Active count
+Jharkhand,JH,10/06/2020 23:14:50,1551,951,8,592,0,0,0,
+Chhattisgarh,CT,11/06/2020 01:24:48,1262,854,6,402,0,0,0,
+Tripura,TR,11/06/2020 00:55:51,897,657,1,239,0,0,0,
+Himachal Pradesh,HP,11/06/2020 00:45:55,451,191,7,250,0,0,0,"HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+Goa,GA,10/06/2020 22:05:54,387,320,0,67,0,0,0,
+Chandigarh,CH,11/06/2020 10:55:54,332,38,5,289,4,0,0,
+Manipur,MN,10/06/2020 19:46:13,311,247,0,64,0,0,0,
+Puducherry,PY,10/06/2020 22:33:52,144,84,0,60,0,0,0,
+Nagaland,NL,11/06/2020 09:25:49,130,108,0,22,2,0,0,
+Ladakh,LA,10/06/2020 17:50:49,115,64,1,50,0,0,0,
+Mizoram,MZ,11/06/2020 09:42:50,102,101,0,1,9,0,0,
+Arunachal Pradesh,AR,10/06/2020 22:33:54,61,57,0,4,0,0,0,
+Meghalaya,ML,10/06/2020 14:35:49,44,30,1,13,0,0,0,
+Andaman and Nicobar Islands,AN,10/06/2020 19:25:51,35,2,0,33,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,DN,10/06/2020 23:45:49,27,25,0,2,0,0,0,
 Sikkim,SK,10/06/2020 00:43:48,13,10,0,3,0,0,0,
 Lakshadweep,LD,26/03/2020 07:19:29,0,0,0,0,0,0,0,
