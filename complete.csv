@@ -2852,7 +2852,7 @@ Date,Name of State / UT,Latitude,Longitude,Total Confirmed cases,Death,Cured/Dis
 2020-06-11,Chandigarh,30.7333,76.7794,327,5,286
 2020-06-11,Chhattisgarh,21.2787,81.8661,1262,6,402
 2020-06-11,Dadar Nagar Haveli,20.1809,73.0169,26,0,2
-2020-06-11,Daman & Diu,,,2,0,0
+2020-06-11,Daman & Diu,20.1809,73.0169,2,0,0
 2020-06-11,Delhi,28.7041,77.1025,32810,984,12245
 2020-06-11,Goa,15.2993,74.124,387,0,67
 2020-06-11,Gujarat,22.2587,71.1924,21521,1347,14735
@@ -2887,7 +2887,7 @@ Date,Name of State / UT,Latitude,Longitude,Total Confirmed cases,Death,Cured/Dis
 2020-06-12,Bihar,25.0961,85.3131,5983,36,3266
 2020-06-12,Chandigarh,30.7333,76.7794,332,5,286
 2020-06-12,Chhattisgarh,21.2787,81.8661,1398,6,447
-2020-06-12,Dadra and Nagar Haveli and Daman and Diu,,,30,0,2
+2020-06-12,Dadra and Nagar Haveli and Daman and Diu,20.1809,73.0169,30,0,2
 2020-06-12,Delhi,28.7041,77.1025,34687,1085,12731
 2020-06-12,Goa,15.2993,74.124,417,0,67
 2020-06-12,Gujarat,22.2587,71.1924,22032,1385,15101
@@ -2910,7 +2910,7 @@ Date,Name of State / UT,Latitude,Longitude,Total Confirmed cases,Death,Cured/Dis
 2020-06-12,Rajasthan,27.0238,74.2179,11838,265,8775
 2020-06-12,Sikkim,27.533,88.5122,14,0,2
 2020-06-12,Tamil Nadu,11.1271,78.6569,38716,349,20705
-2020-06-12,Telangana,,,4320,165,1993
+2020-06-12,Telangana,18.1124,79.0193,4320,165,1993
 2020-06-12,Tripura,23.9408,91.9882,913,1,278
 2020-06-12,Uttar Pradesh,26.8467,80.9462,12088,345,7292
 2020-06-12,Uttarakhand,30.0668,79.0193,1643,15,842
