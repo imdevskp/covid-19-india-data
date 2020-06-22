@@ -1,4 +1,4 @@
-Update Time Stamp,Total Samples Tested,Total Individuals Tested,Total Positive Cases,Tests conducted by Private Labs,Sample Reported today,Positive cases from samples reported,Source,Unnamed: 8,Test positivity rate,Individuals Tested Per Confirmed Case,Tests Per Confirmed Case,Tests per million
+Update Time Stamp,Total Samples Tested,Total Individuals Tested,Total Positive Cases,Tests conducted by Private Labs,Sample Reported today,Positive cases from samples reported,Source,Source 1,Test positivity rate,Individuals Tested Per Confirmed Case,Tests Per Confirmed Case,Tests per million
 13/03/2020 00:00:00,6500.0,5900.0,78,,,,Press_Release_ICMR_13March2020.pdf,,1.20%,75.64,83.33,5.0
 18/03/2020 18:00:00,13125.0,12235.0,150,,,,ICMR_website_update_18March_6PM_IST.pdf,,1.14%,81.57,87.5,10.0
 19/03/2020 10:00:00,13316.0,12426.0,168,,,,ICMR_website_update_19March_10AM_IST_V2.pdf,,1.26%,73.96,79.26,10.0
@@ -15,7 +15,7 @@ Update Time Stamp,Total Samples Tested,Total Individuals Tested,Total Positive C
 24/03/2020 20:00:00,22694.0,21804.0,536,,,,ICMR_website_update_24March_8PM_IST.pdf,,2.36%,40.68,42.34,17.0
 25/03/2020 10:00:00,22928.0,22038.0,539,,,,ICMR_website_update_25March_10AM_IST.pdf,,2.35%,40.89,42.54,17.0
 25/03/2020 20:00:00,25144.0,24254.0,581,,,,ICMR_website_update_25March_8PM_IST.pdf,,2.31%,41.75,43.28,19.0
-26/03/2020 10:00:00,,,,,,,,,,,,0.0
+26/03/2020 10:00:00,,,,,,,,,,,,
 27/03/2020 09:00:00,27688.0,26798.0,691,,,,ICMR_website_update_27March_9AM_IST.pdf,,2.50%,38.78,40.07,21.0
 30/03/2020 00:00:00,38442.0,,,1334.0,,,MoH Press conference with Dr. Raman G,,0.00%,,,29.0
 31/03/2020 00:00:00,42788.0,,,1733.0,,,MoH Press conference with Dr. Raman G,,0.00%,,,32.0
@@ -39,9 +39,9 @@ Update Time Stamp,Total Samples Tested,Total Individuals Tested,Total Positive C
 17/04/2020 21:00:00,335123.0,318449.0,14098,,31083,1443.0,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_17April_9PM_IST.pdf,,4.21%,22.59,23.77,251.0
 18/04/2020 21:00:00,372123.0,354969.0,16365,,35494,2154.0,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_18April_9PM_IST.pdf,,4.40%,21.69,22.74,279.0
 19/04/2020 21:00:00,401586.0,383985.0,17615,,27824,1135.0,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_19April_9PM_IST.pdf,,4.39%,21.8,22.8,301.0
-20/04/2020 21:00:00,,,,,,,,,,,,0.0
+20/04/2020 21:00:00,,,,,,,,,,,,
 21/04/2020 21:00:00,462621.0,447812.0,,,26943,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_21April_9PM_IST.pdf,,0.00%,,,347.0
-22/04/2020 21:00:00,,,,,,,,,,,,0.0
+22/04/2020 21:00:00,,,,,,,,,,,,
 23/04/2020 09:00:00,500542.0,485172.0,21797,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_23Apr2020_9AM_IST.pdf,,4.35%,22.26,22.96,376.0
 24/04/2020 09:00:00,541789.0,525667.0,23502,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_24Apr2020_9AM_IST.pdf,,4.34%,22.37,23.05,406.0
 25/04/2020 09:00:00,579957.0,,,,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_25Apr2020_9AM_IST.pdf,,0.00%,,,435.0
@@ -99,7 +99,8 @@ Update Time Stamp,Total Samples Tested,Total Individuals Tested,Total Positive C
 16/06/2020 09:00:00,5921069.0,,,,154935,,https://t.me/Covid19india_Auxiliary_Test_Data/490,,,,,4442.0
 17/06/2020 09:00:00,6084256.0,,,,163187,,https://t.me/Covid19india_Auxiliary_Test_Data/509,,,,,4565.0
 18/06/2020 09:00:00,6249668.0,,,,165412,,https://t.me/Covid19india_Auxiliary_Test_Data/525,,,,,4689.0
-19/06/2020 09:00:00,6426627.0,,,,176959,,https://t.me/Covid19india_Auxiliary_Test_Data/543,,,,,
-20/06/2020 09:00:00,6616496.0,,,,189869,,https://t.me/Covid19india_Auxiliary_Test_Data/562,,,,,
-21/06/2020 09:00:00,6807226.0,,,,190730,,https://t.me/Covid19india_Auxiliary_Test_Data/577,,,,,
-21/06/2020 09:00:00,6950493.0,,,,143267,,https://t.me/Covid19india_Auxiliary_Test_Data/594,https://twitter.com/ICMRDELHI/status/1274913260559577090?s=19,,,,
+19/06/2020 09:00:00,6426627.0,,,,176959,,https://t.me/Covid19india_Auxiliary_Test_Data/543,,,,,4822.0
+20/06/2020 09:00:00,6616496.0,,,,189869,,https://t.me/Covid19india_Auxiliary_Test_Data/562,,,,,4964.0
+21/06/2020 09:00:00,6807226.0,,,,190730,,https://t.me/Covid19india_Auxiliary_Test_Data/577,,,,,5107.0
+22/06/2020 09:00:00,6950493.0,,,,143267,,https://t.me/Covid19india_Auxiliary_Test_Data/594,https://twitter.com/ICMRDELHI/status/1274913260559577090?s=19,,,,5215.0
+23/06/2020 09:00:00,7137716.0,,,,187223,,https://t.me/Covid19india_Auxiliary_Test_Data/610,https://twitter.com/ICMRDELHI/status/1275277617864699906?s=19,,,,5355.0
