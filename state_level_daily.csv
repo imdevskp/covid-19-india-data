@@ -3464,8 +3464,8 @@
 3462,21-Jul-20,SK,25,0,16,Sikkim
 3463,21-Jul-20,TG,1430,7,2062,Telangana
 3464,21-Jul-20,TN,4965,75,4894,Tamil Nadu
-3465,21-Jul-20,TR,254,1,81,Tripura
-3466,21-Jul-20,TT,39172,671,27589,Total
+3465,21-Jul-20,TR,252,1,81,Tripura
+3466,21-Jul-20,TT,39170,671,27589,Total
 3467,21-Jul-20,UN,0,0,0,State Unassigned
 3468,21-Jul-20,UP,2128,37,1024,Uttar Pradesh
 3469,21-Jul-20,UT,207,0,85,Uttarakhand
@@ -3626,1446 +3626,1524 @@
 3624,22-Apr-20,UP,112,0,11,Uttar Pradesh
 3625,22-Apr-20,UT,0,0,4,Uttarakhand
 3626,22-Apr-20,WB,31,0,0,West Bengal
-3627,22-Jun-20,AN,0,0,0,Andaman and Nicobar Islands
-3628,22-Jun-20,AP,443,5,128,Andhra Pradesh
-3629,22-Jun-20,AR,9,0,1,Arunachal Pradesh
-3630,22-Jun-20,AS,267,0,161,Assam
-3631,22-Jun-20,BR,228,1,136,Bihar
-3632,22-Jun-20,CH,5,0,6,Chandigarh
-3633,22-Jun-20,CT,47,1,66,Chhattisgarh
-3634,22-Jun-20,DD,0,0,0,Daman and Diu
-3635,22-Jun-20,DL,2909,58,3589,Delhi
-3636,22-Jun-20,DN,15,0,0,Dadra and Nagar Haveli and Daman and Diu
-3637,22-Jun-20,GA,46,1,17,Goa
-3638,22-Jun-20,GJ,563,21,560,Gujarat
-3639,22-Jun-20,HP,54,0,12,Himachal Pradesh
-3640,22-Jun-20,HR,390,9,359,Haryana
-3641,22-Jun-20,JH,42,0,63,Jharkhand
-3642,22-Jun-20,JK,132,3,149,Jammu and Kashmir
-3643,22-Jun-20,KA,249,5,111,Karnataka
-3644,22-Jun-20,KL,138,0,88,Kerala
-3645,22-Jun-20,LA,10,0,2,Ladakh
-3646,22-Jun-20,LD,0,0,0,Lakshadweep
-3647,22-Jun-20,MH,3721,113,1962,Maharashtra
-3648,22-Jun-20,ML,2,0,0,Meghalaya
-3649,22-Jun-20,MN,57,0,0,Manipur
-3650,22-Jun-20,MP,175,6,200,Madhya Pradesh
-3651,22-Jun-20,MZ,1,0,3,Mizoram
-3652,22-Jun-20,NL,69,0,0,Nagaland
-3653,22-Jun-20,OR,143,2,143,Odisha
-3654,22-Jun-20,PB,161,2,125,Punjab
-3655,22-Jun-20,PY,17,0,9,Puducherry
-3656,22-Jun-20,RJ,302,7,313,Rajasthan
-3657,22-Jun-20,SK,0,0,4,Sikkim
-3658,22-Jun-20,TG,872,7,274,Telangana
-3659,22-Jun-20,TN,2710,37,1358,Tamil Nadu
-3660,22-Jun-20,TR,16,0,23,Tripura
-3661,22-Jun-20,TT,13560,312,10879,Total
-3662,22-Jun-20,UN,-1295,0,0,State Unassigned
-3663,22-Jun-20,UP,591,19,606,Uttar Pradesh
-3664,22-Jun-20,UT,58,1,21,Uttarakhand
-3665,22-Jun-20,WB,413,14,390,West Bengal
-3666,22-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
-3667,22-Mar-20,AP,1,0,0,Andhra Pradesh
-3668,22-Mar-20,AR,0,0,0,Arunachal Pradesh
-3669,22-Mar-20,AS,0,0,0,Assam
-3670,22-Mar-20,BR,2,1,0,Bihar
-3671,22-Mar-20,CH,1,0,0,Chandigarh
-3672,22-Mar-20,CT,0,0,0,Chhattisgarh
-3673,22-Mar-20,DD,0,0,0,Daman and Diu
-3674,22-Mar-20,DL,0,0,0,Delhi
-3675,22-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-3676,22-Mar-20,GA,0,0,0,Goa
-3677,22-Mar-20,GJ,4,1,0,Gujarat
-3678,22-Mar-20,HP,0,0,0,Himachal Pradesh
-3679,22-Mar-20,HR,0,0,0,Haryana
-3680,22-Mar-20,JH,0,0,0,Jharkhand
-3681,22-Mar-20,JK,0,0,0,Jammu and Kashmir
-3682,22-Mar-20,KA,6,0,0,Karnataka
-3683,22-Mar-20,KL,15,0,0,Kerala
-3684,22-Mar-20,LA,0,0,0,Ladakh
-3685,22-Mar-20,LD,0,0,0,Lakshadweep
-3686,22-Mar-20,MH,10,1,0,Maharashtra
-3687,22-Mar-20,ML,0,0,0,Meghalaya
-3688,22-Mar-20,MN,0,0,0,Manipur
-3689,22-Mar-20,MP,2,0,0,Madhya Pradesh
-3690,22-Mar-20,MZ,0,0,0,Mizoram
-3691,22-Mar-20,NL,0,0,0,Nagaland
-3692,22-Mar-20,OR,0,0,0,Odisha
-3693,22-Mar-20,PB,8,0,0,Punjab
-3694,22-Mar-20,PY,0,0,0,Puducherry
-3695,22-Mar-20,RJ,4,0,0,Rajasthan
-3696,22-Mar-20,SK,0,0,0,Sikkim
-3697,22-Mar-20,TG,6,0,0,Telangana
-3698,22-Mar-20,TN,3,0,0,Tamil Nadu
-3699,22-Mar-20,TR,0,0,0,Tripura
-3700,22-Mar-20,TT,67,3,0,Total
-3701,22-Mar-20,UN,0,0,0,State Unassigned
-3702,22-Mar-20,UP,2,0,0,Uttar Pradesh
-3703,22-Mar-20,UT,0,0,0,Uttarakhand
-3704,22-Mar-20,WB,3,0,0,West Bengal
-3705,22-May-20,AN,0,0,0,Andaman and Nicobar Islands
-3706,22-May-20,AP,62,1,26,Andhra Pradesh
-3707,22-May-20,AR,0,0,0,Arunachal Pradesh
-3708,22-May-20,AS,15,0,0,Assam
-3709,22-May-20,BR,179,2,58,Bihar
-3710,22-May-20,CH,1,0,0,Chandigarh
-3711,22-May-20,CT,44,0,3,Chhattisgarh
-3712,22-May-20,DD,0,0,0,Daman and Diu
-3713,22-May-20,DL,660,14,330,Delhi
-3714,22-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-3715,22-May-20,GA,2,0,9,Goa
-3716,22-May-20,GJ,363,29,392,Gujarat
-3717,22-May-20,HP,16,0,0,Himachal Pradesh
-3718,22-May-20,HR,37,2,25,Haryana
-3719,22-May-20,JH,20,0,0,Jharkhand
-3720,22-May-20,JK,40,0,36,Jammu and Kashmir
-3721,22-May-20,KA,138,0,26,Karnataka
-3722,22-May-20,KL,42,1,2,Kerala
-3723,22-May-20,LA,2,0,0,Ladakh
-3724,22-May-20,LD,0,0,0,Lakshadweep
-3725,22-May-20,MH,2940,63,857,Maharashtra
-3726,22-May-20,ML,0,0,0,Meghalaya
-3727,22-May-20,MN,1,0,0,Manipur
-3728,22-May-20,MP,189,1,245,Madhya Pradesh
-3729,22-May-20,MZ,0,0,0,Mizoram
-3730,22-May-20,NL,0,0,0,Nagaland
-3731,22-May-20,OR,86,0,43,Odisha
-3732,22-May-20,PB,1,0,28,Punjab
-3733,22-May-20,PY,3,0,0,Puducherry
-3734,22-May-20,RJ,267,2,195,Rajasthan
-3735,22-May-20,SK,0,0,0,Sikkim
-3736,22-May-20,TG,62,3,7,Telangana
-3737,22-May-20,TN,786,4,846,Tamil Nadu
-3738,22-May-20,TR,0,0,4,Tripura
-3739,22-May-20,TT,6536,142,3280,Total
-3740,22-May-20,UN,217,0,0,State Unassigned
-3741,22-May-20,UP,220,14,120,Uttar Pradesh
-3742,22-May-20,UT,8,0,0,Uttarakhand
-3743,22-May-20,WB,135,6,28,West Bengal
-3744,23-Apr-20,AN,4,0,0,Andaman and Nicobar Islands
-3745,23-Apr-20,AP,80,3,21,Andhra Pradesh
-3746,23-Apr-20,AR,0,0,0,Arunachal Pradesh
-3747,23-Apr-20,AS,1,0,0,Assam
-3748,23-Apr-20,BR,27,0,2,Bihar
-3749,23-Apr-20,CH,0,0,0,Chandigarh
-3750,23-Apr-20,CT,0,0,2,Chhattisgarh
-3751,23-Apr-20,DD,0,0,0,Daman and Diu
-3752,23-Apr-20,DL,128,2,84,Delhi
-3753,23-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-3754,23-Apr-20,GA,0,0,0,Goa
-3755,23-Apr-20,GJ,217,9,79,Gujarat
-3756,23-Apr-20,HP,1,0,2,Himachal Pradesh
-3757,23-Apr-20,HR,6,0,12,Haryana
-3758,23-Apr-20,JH,7,1,4,Jharkhand
-3759,23-Apr-20,JK,27,0,0,Jammu and Kashmir
-3760,23-Apr-20,KA,18,0,14,Karnataka
-3761,23-Apr-20,KL,10,0,8,Kerala
-3762,23-Apr-20,LA,0,0,2,Ladakh
-3763,23-Apr-20,LD,0,0,0,Lakshadweep
-3764,23-Apr-20,MH,778,14,51,Maharashtra
-3765,23-Apr-20,ML,0,0,0,Meghalaya
-3766,23-Apr-20,MN,0,0,0,Manipur
-3767,23-Apr-20,MP,100,3,51,Madhya Pradesh
-3768,23-Apr-20,MZ,0,0,0,Mizoram
-3769,23-Apr-20,NL,0,0,0,Nagaland
-3770,23-Apr-20,OR,6,0,1,Odisha
-3771,23-Apr-20,PB,5,1,13,Punjab
-3772,23-Apr-20,PY,0,0,0,Puducherry
-3773,23-Apr-20,RJ,76,1,107,Rajasthan
-3774,23-Apr-20,SK,0,0,0,Sikkim
-3775,23-Apr-20,TG,27,1,58,Telangana
-3776,23-Apr-20,TN,54,2,90,Tamil Nadu
-3777,23-Apr-20,TR,0,0,1,Tripura
-3778,23-Apr-20,TT,1667,40,642,Total
-3779,23-Apr-20,UN,0,0,0,State Unassigned
-3780,23-Apr-20,UP,61,3,33,Uttar Pradesh
-3781,23-Apr-20,UT,1,0,1,Uttarakhand
-3782,23-Apr-20,WB,33,0,6,West Bengal
-3783,23-Jun-20,AN,2,0,3,Andaman and Nicobar Islands
-3784,23-Jun-20,AP,462,8,157,Andhra Pradesh
-3785,23-Jun-20,AR,10,0,16,Arunachal Pradesh
-3786,23-Jun-20,AS,203,0,197,Assam
-3787,23-Jun-20,BR,157,2,260,Bihar
-3788,23-Jun-20,CH,7,0,0,Chandigarh
-3789,23-Jun-20,CT,83,0,40,Chhattisgarh
-3790,23-Jun-20,DD,0,0,0,Daman and Diu
-3791,23-Jun-20,DL,3947,68,2711,Delhi
-3792,23-Jun-20,DN,9,0,0,Dadra and Nagar Haveli and Daman and Diu
-3793,23-Jun-20,GA,45,1,53,Goa
-3794,23-Jun-20,GJ,549,26,604,Gujarat
-3795,23-Jun-20,HP,48,0,3,Himachal Pradesh
-3796,23-Jun-20,HR,495,9,582,Haryana
-3797,23-Jun-20,JH,53,0,51,Jharkhand
-3798,23-Jun-20,JK,148,2,111,Jammu and Kashmir
-3799,23-Jun-20,KA,322,8,274,Karnataka
-3800,23-Jun-20,KL,141,1,60,Kerala
-3801,23-Jun-20,LA,85,0,12,Ladakh
-3802,23-Jun-20,LD,0,0,0,Lakshadweep
-3803,23-Jun-20,MH,3214,248,1925,Maharashtra
-3804,23-Jun-20,ML,1,0,4,Meghalaya
-3805,23-Jun-20,MN,23,0,8,Manipur
-3806,23-Jun-20,MP,183,4,120,Madhya Pradesh
-3807,23-Jun-20,MZ,0,0,7,Mizoram
-3808,23-Jun-20,NL,50,0,0,Nagaland
-3809,23-Jun-20,OR,167,3,125,Odisha
-3810,23-Jun-20,PB,162,4,222,Punjab
-3811,23-Jun-20,PY,19,1,16,Puducherry
-3812,23-Jun-20,RJ,395,9,303,Rajasthan
-3813,23-Jun-20,SK,1,0,0,Sikkim
-3814,23-Jun-20,TG,879,3,219,Telangana
-3815,23-Jun-20,TN,2516,39,1227,Tamil Nadu
-3816,23-Jun-20,TR,23,0,25,Tripura
-3817,23-Jun-20,TT,15656,468,10462,Total
-3818,23-Jun-20,UN,183,0,0,State Unassigned
-3819,23-Jun-20,UP,571,19,515,Uttar Pradesh
-3820,23-Jun-20,UT,133,2,81,Uttarakhand
-3821,23-Jun-20,WB,370,11,531,West Bengal
-3822,23-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
-3823,23-Mar-20,AP,1,0,0,Andhra Pradesh
-3824,23-Mar-20,AR,0,0,0,Arunachal Pradesh
-3825,23-Mar-20,AS,0,0,0,Assam
-3826,23-Mar-20,BR,1,0,0,Bihar
-3827,23-Mar-20,CH,1,0,0,Chandigarh
-3828,23-Mar-20,CT,0,0,0,Chhattisgarh
-3829,23-Mar-20,DD,0,0,0,Daman and Diu
-3830,23-Mar-20,DL,3,0,0,Delhi
-3831,23-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-3832,23-Mar-20,GA,0,0,0,Goa
-3833,23-Mar-20,GJ,12,0,0,Gujarat
-3834,23-Mar-20,HP,1,1,0,Himachal Pradesh
-3835,23-Mar-20,HR,7,0,11,Haryana
-3836,23-Mar-20,JH,0,0,0,Jharkhand
-3837,23-Mar-20,JK,0,0,0,Jammu and Kashmir
-3838,23-Mar-20,KA,7,0,1,Karnataka
-3839,23-Mar-20,KL,28,0,0,Kerala
-3840,23-Mar-20,LA,0,0,0,Ladakh
-3841,23-Mar-20,LD,0,0,0,Lakshadweep
-3842,23-Mar-20,MH,23,0,0,Maharashtra
-3843,23-Mar-20,ML,0,0,0,Meghalaya
-3844,23-Mar-20,MN,0,0,0,Manipur
-3845,23-Mar-20,MP,0,0,0,Madhya Pradesh
-3846,23-Mar-20,MZ,0,0,0,Mizoram
-3847,23-Mar-20,NL,0,0,0,Nagaland
-3848,23-Mar-20,OR,0,0,0,Odisha
-3849,23-Mar-20,PB,2,0,0,Punjab
-3850,23-Mar-20,PY,0,0,0,Puducherry
-3851,23-Mar-20,RJ,4,0,0,Rajasthan
-3852,23-Mar-20,SK,0,0,0,Sikkim
-3853,23-Mar-20,TG,6,0,0,Telangana
-3854,23-Mar-20,TN,3,0,0,Tamil Nadu
-3855,23-Mar-20,TR,0,0,0,Tripura
-3856,23-Mar-20,TT,102,2,12,Total
-3857,23-Mar-20,UN,0,0,0,State Unassigned
-3858,23-Mar-20,UP,2,0,0,Uttar Pradesh
-3859,23-Mar-20,UT,1,0,0,Uttarakhand
-3860,23-Mar-20,WB,0,1,0,West Bengal
-3861,23-May-20,AN,0,0,0,Andaman and Nicobar Islands
-3862,23-May-20,AP,47,1,48,Andhra Pradesh
-3863,23-May-20,AR,0,0,0,Arunachal Pradesh
-3864,23-May-20,AS,121,0,2,Assam
-3865,23-May-20,BR,228,0,24,Bihar
-3866,23-May-20,CH,6,0,1,Chandigarh
-3867,23-May-20,CT,42,0,2,Chhattisgarh
-3868,23-May-20,DD,0,0,0,Daman and Diu
-3869,23-May-20,DL,591,23,370,Delhi
-3870,23-May-20,DN,1,0,0,Dadra and Nagar Haveli and Daman and Diu
-3871,23-May-20,GA,1,0,0,Goa
-3872,23-May-20,GJ,396,27,289,Gujarat
-3873,23-May-20,HP,17,0,2,Himachal Pradesh
-3874,23-May-20,HR,64,0,44,Haryana
-3875,23-May-20,JH,27,0,5,Jharkhand
-3876,23-May-20,JK,80,1,54,Jammu and Kashmir
-3877,23-May-20,KA,216,1,11,Karnataka
-3878,23-May-20,KL,62,0,3,Kerala
-3879,23-May-20,LA,3,0,0,Ladakh
-3880,23-May-20,LD,0,0,0,Lakshadweep
-3881,23-May-20,MH,2608,60,821,Maharashtra
-3882,23-May-20,ML,0,0,0,Meghalaya
-3883,23-May-20,MN,3,0,0,Manipur
-3884,23-May-20,MP,201,9,178,Madhya Pradesh
-3885,23-May-20,MZ,0,0,0,Mizoram
-3886,23-May-20,NL,0,0,0,Nagaland
-3887,23-May-20,OR,80,0,61,Odisha
-3888,23-May-20,PB,16,0,23,Punjab
-3889,23-May-20,PY,0,0,0,Puducherry
-3890,23-May-20,RJ,248,7,106,Rajasthan
-3891,23-May-20,SK,1,0,0,Sikkim
-3892,23-May-20,TG,52,1,25,Telangana
-3893,23-May-20,TN,759,5,363,Tamil Nadu
-3894,23-May-20,TR,16,0,0,Tripura
-3895,23-May-20,TT,6663,142,2576,Total
-3896,23-May-20,UN,279,0,0,State Unassigned
-3897,23-May-20,UP,282,3,82,Uttar Pradesh
-3898,23-May-20,UT,91,0,2,Uttarakhand
-3899,23-May-20,WB,127,4,60,West Bengal
-3900,24-Apr-20,AN,7,0,0,Andaman and Nicobar Islands
-3901,24-Apr-20,AP,62,2,4,Andhra Pradesh
-3902,24-Apr-20,AR,0,0,0,Arunachal Pradesh
-3903,24-Apr-20,AS,0,0,0,Assam
-3904,24-Apr-20,BR,53,0,0,Bihar
-3905,24-Apr-20,CH,0,0,1,Chandigarh
-3906,24-Apr-20,CT,0,0,0,Chhattisgarh
-3907,24-Apr-20,DD,0,0,0,Daman and Diu
-3908,24-Apr-20,DL,138,3,49,Delhi
-3909,24-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-3910,24-Apr-20,GA,0,0,0,Goa
-3911,24-Apr-20,GJ,191,15,7,Gujarat
-3912,24-Apr-20,HP,0,0,0,Himachal Pradesh
-3913,24-Apr-20,HR,5,0,16,Haryana
-3914,24-Apr-20,JH,6,0,0,Jharkhand
-3915,24-Apr-20,JK,20,0,17,Jammu and Kashmir
-3916,24-Apr-20,KA,29,1,7,Karnataka
-3917,24-Apr-20,KL,3,1,15,Kerala
-3918,24-Apr-20,LA,0,0,0,Ladakh
-3919,24-Apr-20,LD,0,0,0,Lakshadweep
-3920,24-Apr-20,MH,390,18,117,Maharashtra
-3921,24-Apr-20,ML,0,0,0,Meghalaya
-3922,24-Apr-20,MN,0,0,0,Manipur
-3923,24-Apr-20,MP,159,9,7,Madhya Pradesh
-3924,24-Apr-20,MZ,0,0,0,Mizoram
-3925,24-Apr-20,NL,0,0,0,Nagaland
-3926,24-Apr-20,OR,5,0,0,Odisha
-3927,24-Apr-20,PB,15,0,4,Punjab
-3928,24-Apr-20,PY,0,0,0,Puducherry
-3929,24-Apr-20,RJ,70,4,42,Rajasthan
-3930,24-Apr-20,SK,0,0,0,Sikkim
-3931,24-Apr-20,TG,13,0,39,Telangana
-3932,24-Apr-20,TN,72,2,114,Tamil Nadu
-3933,24-Apr-20,TR,0,0,0,Tripura
-3934,24-Apr-20,TT,1408,59,484,Total
-3935,24-Apr-20,UN,0,0,0,State Unassigned
-3936,24-Apr-20,UP,111,1,20,Uttar Pradesh
-3937,24-Apr-20,UT,1,0,1,Uttarakhand
-3938,24-Apr-20,WB,58,3,24,West Bengal
-3939,24-Jun-20,AN,6,0,1,Andaman and Nicobar Islands
-3940,24-Jun-20,AP,497,10,187,Andhra Pradesh
-3941,24-Jun-20,AR,2,1,0,Arunachal Pradesh
-3942,24-Jun-20,AS,226,0,196,Assam
-3943,24-Jun-20,BR,223,1,79,Bihar
-3944,24-Jun-20,CH,2,0,0,Chandigarh
-3945,24-Jun-20,CT,34,0,74,Chhattisgarh
-3946,24-Jun-20,DD,0,0,0,Daman and Diu
-3947,24-Jun-20,DL,3788,64,2124,Delhi
-3948,24-Jun-20,DN,13,0,3,Dadra and Nagar Haveli and Daman and Diu
-3949,24-Jun-20,GA,42,0,84,Goa
-3950,24-Jun-20,GJ,572,25,575,Gujarat
-3951,24-Jun-20,HP,31,0,34,Himachal Pradesh
-3952,24-Jun-20,HR,490,10,427,Haryana
-3953,24-Jun-20,JH,26,1,55,Jharkhand
-3954,24-Jun-20,JK,186,1,176,Jammu and Kashmir
-3955,24-Jun-20,KA,397,14,149,Karnataka
-3956,24-Jun-20,KL,152,0,81,Kerala
-3957,24-Jun-20,LA,0,0,126,Ladakh
-3958,24-Jun-20,LD,0,0,0,Lakshadweep
-3959,24-Jun-20,MH,3889,208,4161,Maharashtra
-3960,24-Jun-20,ML,0,0,0,Meghalaya
-3961,24-Jun-20,MN,49,0,70,Manipur
-3962,24-Jun-20,MP,187,9,138,Madhya Pradesh
-3963,24-Jun-20,MZ,3,0,5,Mizoram
-3964,24-Jun-20,NL,17,0,7,Nagaland
-3965,24-Jun-20,OR,282,0,135,Odisha
-3966,24-Jun-20,PB,230,8,52,Punjab
-3967,24-Jun-20,PY,59,0,11,Puducherry
-3968,24-Jun-20,RJ,382,10,398,Rajasthan
-3969,24-Jun-20,SK,4,0,10,Sikkim
-3970,24-Jun-20,TG,891,5,137,Telangana
-3971,24-Jun-20,TN,2865,33,2424,Tamil Nadu
-3972,24-Jun-20,TR,0,0,97,Tripura
-3973,24-Jun-20,TT,16868,424,13089,Total
-3974,24-Jun-20,UN,126,0,0,State Unassigned
-3975,24-Jun-20,UP,664,8,470,Uttar Pradesh
-3976,24-Jun-20,UT,88,5,119,Uttarakhand
-3977,24-Jun-20,WB,445,11,484,West Bengal
-3978,24-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
-3979,24-Mar-20,AP,1,0,0,Andhra Pradesh
-3980,24-Mar-20,AR,0,0,0,Arunachal Pradesh
-3981,24-Mar-20,AS,0,0,0,Assam
-3982,24-Mar-20,BR,0,0,0,Bihar
-3983,24-Mar-20,CH,0,0,0,Chandigarh
-3984,24-Mar-20,CT,0,0,0,Chhattisgarh
-3985,24-Mar-20,DD,0,0,0,Daman and Diu
-3986,24-Mar-20,DL,0,0,1,Delhi
-3987,24-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-3988,24-Mar-20,GA,0,0,0,Goa
-3989,24-Mar-20,GJ,4,0,0,Gujarat
-3990,24-Mar-20,HP,0,0,0,Himachal Pradesh
-3991,24-Mar-20,HR,2,0,0,Haryana
-3992,24-Mar-20,JH,0,0,0,Jharkhand
-3993,24-Mar-20,JK,2,0,0,Jammu and Kashmir
-3994,24-Mar-20,KA,8,0,1,Karnataka
-3995,24-Mar-20,KL,14,0,1,Kerala
-3996,24-Mar-20,LA,0,0,0,Ladakh
-3997,24-Mar-20,LD,0,0,0,Lakshadweep
-3998,24-Mar-20,MH,10,0,0,Maharashtra
-3999,24-Mar-20,ML,0,0,0,Meghalaya
-4000,24-Mar-20,MN,1,0,0,Manipur
-4001,24-Mar-20,MP,1,0,0,Madhya Pradesh
-4002,24-Mar-20,MZ,0,0,0,Mizoram
-4003,24-Mar-20,NL,0,0,0,Nagaland
-4004,24-Mar-20,OR,0,0,0,Odisha
-4005,24-Mar-20,PB,6,0,0,Punjab
-4006,24-Mar-20,PY,0,0,0,Puducherry
-4007,24-Mar-20,RJ,0,0,0,Rajasthan
-4008,24-Mar-20,SK,0,0,0,Sikkim
-4009,24-Mar-20,TG,4,0,0,Telangana
-4010,24-Mar-20,TN,6,1,0,Tamil Nadu
-4011,24-Mar-20,TR,0,0,0,Tripura
-4012,24-Mar-20,TT,64,1,5,Total
-4013,24-Mar-20,UN,0,0,0,State Unassigned
-4014,24-Mar-20,UP,3,0,2,Uttar Pradesh
-4015,24-Mar-20,UT,0,0,0,Uttarakhand
-4016,24-Mar-20,WB,2,0,0,West Bengal
-4017,24-May-20,AN,0,0,0,Andaman and Nicobar Islands
-4018,24-May-20,AP,66,0,62,Andhra Pradesh
-4019,24-May-20,AR,1,0,0,Arunachal Pradesh
-4020,24-May-20,AS,46,0,1,Assam
-4021,24-May-20,BR,180,0,49,Bihar
-4022,24-May-20,CH,37,1,0,Chandigarh
-4023,24-May-20,CT,38,0,0,Chhattisgarh
-4024,24-May-20,DD,0,0,0,Daman and Diu
-4025,24-May-20,DL,508,30,273,Delhi
-4026,24-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4027,24-May-20,GA,11,0,0,Goa
-4028,24-May-20,GJ,394,29,243,Gujarat
-4029,24-May-20,HP,18,0,2,Himachal Pradesh
-4030,24-May-20,HR,53,0,15,Haryana
-4031,24-May-20,JH,20,1,7,Jharkhand
-4032,24-May-20,JK,52,0,35,Jammu and Kashmir
-4033,24-May-20,KA,130,0,46,Karnataka
-4034,24-May-20,KL,53,1,5,Kerala
-4035,24-May-20,LA,3,0,0,Ladakh
-4036,24-May-20,LD,0,0,0,Lakshadweep
-4037,24-May-20,MH,3041,58,1196,Maharashtra
-4038,24-May-20,ML,0,0,0,Meghalaya
-4039,24-May-20,MN,3,0,2,Manipur
-4040,24-May-20,MP,294,9,141,Madhya Pradesh
-4041,24-May-20,MZ,0,0,0,Mizoram
-4042,24-May-20,NL,0,0,0,Nagaland
-4043,24-May-20,OR,67,0,53,Odisha
-4044,24-May-20,PB,15,1,28,Punjab
-4045,24-May-20,PY,15,0,2,Puducherry
-4046,24-May-20,RJ,286,3,62,Rajasthan
-4047,24-May-20,SK,0,0,0,Sikkim
-4048,24-May-20,TG,41,4,24,Telangana
-4049,24-May-20,TN,765,8,833,Tamil Nadu
-4050,24-May-20,TR,3,0,13,Tripura
-4051,24-May-20,TT,7111,156,3285,Total
-4052,24-May-20,UN,439,0,0,State Unassigned
-4053,24-May-20,UP,251,6,132,Uttar Pradesh
-4054,24-May-20,UT,73,2,3,Uttarakhand
-4055,24-May-20,WB,208,3,58,West Bengal
-4056,25-Apr-20,AN,4,0,0,Andaman and Nicobar Islands
-4057,25-Apr-20,AP,61,2,26,Andhra Pradesh
-4058,25-Apr-20,AR,0,0,0,Arunachal Pradesh
-4059,25-Apr-20,AS,0,0,0,Assam
-4060,25-Apr-20,BR,28,0,1,Bihar
-4061,25-Apr-20,CH,1,0,0,Chandigarh
-4062,25-Apr-20,CT,1,0,2,Chhattisgarh
-4063,25-Apr-20,DD,0,0,0,Daman and Diu
-4064,25-Apr-20,DL,111,1,12,Delhi
-4065,25-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4066,25-Apr-20,GA,0,0,0,Goa
-4067,25-Apr-20,GJ,256,6,17,Gujarat
-4068,25-Apr-20,HP,0,0,4,Himachal Pradesh
-4069,25-Apr-20,HR,12,0,5,Haryana
-4070,25-Apr-20,JH,8,0,0,Jharkhand
-4071,25-Apr-20,JK,40,1,3,Jammu and Kashmir
-4072,25-Apr-20,KA,26,0,6,Karnataka
-4073,25-Apr-20,KL,7,0,7,Kerala
-4074,25-Apr-20,LA,2,0,0,Ladakh
-4075,25-Apr-20,LD,0,0,0,Lakshadweep
-4076,25-Apr-20,MH,811,22,119,Maharashtra
-4077,25-Apr-20,ML,0,0,0,Meghalaya
-4078,25-Apr-20,MN,0,0,0,Manipur
-4079,25-Apr-20,MP,99,7,71,Madhya Pradesh
-4080,25-Apr-20,MZ,0,0,0,Mizoram
-4081,25-Apr-20,NL,0,0,0,Nagaland
-4082,25-Apr-20,OR,6,0,1,Odisha
-4083,25-Apr-20,PB,10,0,2,Punjab
-4084,25-Apr-20,PY,1,0,0,Puducherry
-4085,25-Apr-20,RJ,49,2,20,Rajasthan
-4086,25-Apr-20,SK,0,0,0,Sikkim
-4087,25-Apr-20,TG,7,0,16,Telangana
-4088,25-Apr-20,TN,66,1,94,Tamil Nadu
-4089,25-Apr-20,TR,0,0,0,Tripura
-4090,25-Apr-20,TT,1835,44,442,Total
-4091,25-Apr-20,UN,0,0,0,State Unassigned
-4092,25-Apr-20,UP,172,2,35,Uttar Pradesh
-4093,25-Apr-20,UT,0,0,1,Uttarakhand
-4094,25-Apr-20,WB,57,0,0,West Bengal
-4095,25-Jun-20,AN,2,0,0,Andaman and Nicobar Islands
-4096,25-Jun-20,AP,553,7,209,Andhra Pradesh
-4097,25-Jun-20,AR,12,0,4,Arunachal Pradesh
-4098,25-Jun-20,AS,364,0,75,Assam
-4099,25-Jun-20,BR,215,1,374,Bihar
-4100,25-Jun-20,CH,3,0,7,Chandigarh
-4101,25-Jun-20,CT,37,0,128,Chhattisgarh
-4102,25-Jun-20,DD,0,0,0,Daman and Diu
-4103,25-Jun-20,DL,3390,64,3328,Delhi
-4104,25-Jun-20,DN,20,0,8,Dadra and Nagar Haveli and Daman and Diu
-4105,25-Jun-20,GA,44,0,46,Goa
-4106,25-Jun-20,GJ,577,18,410,Gujarat
-4107,25-Jun-20,HP,33,1,8,Himachal Pradesh
-4108,25-Jun-20,HR,453,10,455,Haryana
-4109,25-Jun-20,JH,44,0,30,Jharkhand
-4110,25-Jun-20,JK,127,2,149,Jammu and Kashmir
-4111,25-Jun-20,KA,442,6,519,Karnataka
-4112,25-Jun-20,KL,123,0,53,Kerala
-4113,25-Jun-20,LA,9,0,84,Ladakh
-4114,25-Jun-20,LD,0,0,0,Lakshadweep
-4115,25-Jun-20,MH,4842,192,3661,Maharashtra
-4116,25-Jun-20,ML,0,0,1,Meghalaya
-4117,25-Jun-20,MN,86,0,26,Manipur
-4118,25-Jun-20,MP,147,8,146,Madhya Pradesh
-4119,25-Jun-20,MZ,0,0,6,Mizoram
-4120,25-Jun-20,NL,8,0,12,Nagaland
-4121,25-Jun-20,OR,210,0,168,Odisha
-4122,25-Jun-20,PB,142,7,93,Punjab
-4123,25-Jun-20,PY,41,0,11,Puducherry
-4124,25-Jun-20,RJ,287,4,229,Rajasthan
-4125,25-Jun-20,SK,2,0,0,Sikkim
-4126,25-Jun-20,TG,920,5,327,Telangana
-4127,25-Jun-20,TN,3509,45,2236,Tamil Nadu
-4128,25-Jun-20,TR,32,0,122,Tripura
-4129,25-Jun-20,TT,18205,401,13983,Total
-4130,25-Jun-20,UN,352,0,0,State Unassigned
-4131,25-Jun-20,UP,636,15,533,Uttar Pradesh
-4132,25-Jun-20,UT,68,1,37,Uttarakhand
-4133,25-Jun-20,WB,475,15,488,West Bengal
-4134,25-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
-4135,25-Mar-20,AP,2,0,1,Andhra Pradesh
-4136,25-Mar-20,AR,0,0,0,Arunachal Pradesh
-4137,25-Mar-20,AS,0,0,0,Assam
-4138,25-Mar-20,BR,1,0,0,Bihar
-4139,25-Mar-20,CH,0,0,0,Chandigarh
-4140,25-Mar-20,CT,2,0,0,Chhattisgarh
-4141,25-Mar-20,DD,0,0,0,Daman and Diu
-4142,25-Mar-20,DL,5,0,0,Delhi
-4143,25-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4144,25-Mar-20,GA,3,0,0,Goa
-4145,25-Mar-20,GJ,4,0,0,Gujarat
-4146,25-Mar-20,HP,0,0,0,Himachal Pradesh
-4147,25-Mar-20,HR,1,0,0,Haryana
-4148,25-Mar-20,JH,0,0,0,Jharkhand
-4149,25-Mar-20,JK,5,0,1,Jammu and Kashmir
-4150,25-Mar-20,KA,10,0,0,Karnataka
-4151,25-Mar-20,KL,9,0,0,Kerala
-4152,25-Mar-20,LA,0,0,0,Ladakh
-4153,25-Mar-20,LD,0,0,0,Lakshadweep
-4154,25-Mar-20,MH,15,0,1,Maharashtra
-4155,25-Mar-20,ML,0,0,0,Meghalaya
-4156,25-Mar-20,MN,0,0,0,Manipur
-4157,25-Mar-20,MP,8,1,0,Madhya Pradesh
-4158,25-Mar-20,MZ,1,0,0,Mizoram
-4159,25-Mar-20,NL,0,0,0,Nagaland
-4160,25-Mar-20,OR,0,0,0,Odisha
-4161,25-Mar-20,PB,2,0,0,Punjab
-4162,25-Mar-20,PY,0,0,0,Puducherry
-4163,25-Mar-20,RJ,6,0,0,Rajasthan
-4164,25-Mar-20,SK,0,0,0,Sikkim
-4165,25-Mar-20,TG,4,0,0,Telangana
-4166,25-Mar-20,TN,8,0,0,Tamil Nadu
-4167,25-Mar-20,TR,0,0,0,Tripura
-4168,25-Mar-20,TT,90,1,3,Total
-4169,25-Mar-20,UN,0,0,0,State Unassigned
-4170,25-Mar-20,UP,3,0,0,Uttar Pradesh
-4171,25-Mar-20,UT,1,0,0,Uttarakhand
-4172,25-Mar-20,WB,0,0,0,West Bengal
-4173,25-May-20,AN,0,0,0,Andaman and Nicobar Islands
-4174,25-May-20,AP,106,0,51,Andhra Pradesh
-4175,25-May-20,AR,0,0,0,Arunachal Pradesh
-4176,25-May-20,AS,156,0,5,Assam
-4177,25-May-20,BR,163,2,31,Bihar
-4178,25-May-20,CH,4,0,8,Chandigarh
-4179,25-May-20,CT,40,0,3,Chhattisgarh
-4180,25-May-20,DD,0,0,0,Daman and Diu
-4181,25-May-20,DL,635,15,231,Delhi
-4182,25-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4183,25-May-20,GA,1,0,3,Goa
-4184,25-May-20,GJ,405,30,224,Gujarat
-4185,25-May-20,HP,20,0,4,Himachal Pradesh
-4186,25-May-20,HR,29,0,37,Haryana
-4187,25-May-20,JH,35,0,0,Jharkhand
-4188,25-May-20,JK,47,2,0,Jammu and Kashmir
-4189,25-May-20,KA,93,2,51,Karnataka
-4190,25-May-20,KL,49,0,12,Kerala
-4191,25-May-20,LA,1,0,0,Ladakh
-4192,25-May-20,LD,0,0,0,Lakshadweep
-4193,25-May-20,MH,2436,60,1186,Maharashtra
-4194,25-May-20,ML,1,0,0,Meghalaya
-4195,25-May-20,MN,4,0,0,Manipur
-4196,25-May-20,MP,194,10,163,Madhya Pradesh
-4197,25-May-20,MZ,0,0,0,Mizoram
-4198,25-May-20,NL,3,0,0,Nagaland
-4199,25-May-20,OR,102,0,99,Odisha
-4200,25-May-20,PB,21,0,15,Punjab
-4201,25-May-20,PY,8,0,5,Puducherry
-4202,25-May-20,RJ,272,4,208,Rajasthan
-4203,25-May-20,SK,0,0,0,Sikkim
-4204,25-May-20,TG,66,3,72,Telangana
-4205,25-May-20,TN,805,7,407,Tamil Nadu
-4206,25-May-20,TR,4,0,0,Tripura
-4207,25-May-20,TT,6414,150,3012,Total
-4208,25-May-20,UN,304,0,0,State Unassigned
-4209,25-May-20,UP,229,8,122,Uttar Pradesh
-4210,25-May-20,UT,32,1,0,Uttarakhand
-4211,25-May-20,WB,149,6,75,West Bengal
-4212,26-Apr-20,AN,0,0,0,Andaman and Nicobar Islands
-4213,26-Apr-20,AP,81,0,60,Andhra Pradesh
-4214,26-Apr-20,AR,0,0,0,Arunachal Pradesh
-4215,26-Apr-20,AS,0,0,8,Assam
-4216,26-Apr-20,BR,26,0,11,Bihar
-4217,26-Apr-20,CH,8,0,2,Chandigarh
-4218,26-Apr-20,CT,0,0,0,Chhattisgarh
-4219,26-Apr-20,DD,0,0,0,Daman and Diu
-4220,26-Apr-20,DL,293,0,8,Delhi
-4221,26-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4222,26-Apr-20,GA,0,0,0,Goa
-4223,26-Apr-20,GJ,230,18,31,Gujarat
-4224,26-Apr-20,HP,0,0,0,Himachal Pradesh
-4225,26-Apr-20,HR,9,0,8,Haryana
-4226,26-Apr-20,JH,15,0,5,Jharkhand
-4227,26-Apr-20,JK,29,0,25,Jammu and Kashmir
-4228,26-Apr-20,KA,3,1,24,Karnataka
-4229,26-Apr-20,KL,11,0,4,Kerala
-4230,26-Apr-20,LA,0,0,0,Ladakh
-4231,26-Apr-20,LD,0,0,0,Lakshadweep
-4232,26-Apr-20,MH,440,19,112,Maharashtra
-4233,26-Apr-20,ML,0,0,0,Meghalaya
-4234,26-Apr-20,MN,0,0,0,Manipur
-4235,26-Apr-20,MP,145,4,21,Madhya Pradesh
-4236,26-Apr-20,MZ,0,0,0,Mizoram
-4237,26-Apr-20,NL,0,0,0,Nagaland
-4238,26-Apr-20,OR,3,0,1,Odisha
-4239,26-Apr-20,PB,14,1,12,Punjab
-4240,26-Apr-20,PY,0,0,0,Puducherry
-4241,26-Apr-20,RJ,102,7,116,Rajasthan
-4242,26-Apr-20,SK,0,0,0,Sikkim
-4243,26-Apr-20,TG,11,0,9,Telangana
-4244,26-Apr-20,TN,64,1,60,Tamil Nadu
-4245,26-Apr-20,TR,0,0,0,Tripura
-4246,26-Apr-20,TT,1607,56,585,Total
-4247,26-Apr-20,UN,0,0,0,State Unassigned
-4248,26-Apr-20,UP,80,3,66,Uttar Pradesh
-4249,26-Apr-20,UT,3,0,0,Uttarakhand
-4250,26-Apr-20,WB,40,2,2,West Bengal
-4251,26-Jun-20,AN,14,0,2,Andaman and Nicobar Islands
-4252,26-Jun-20,AP,605,10,208,Andhra Pradesh
-4253,26-Jun-20,AR,2,0,7,Arunachal Pradesh
-4254,26-Jun-20,AS,273,0,214,Assam
-4255,26-Jun-20,BR,190,0,189,Bihar
-4256,26-Jun-20,CH,2,0,6,Chandigarh
-4257,26-Jun-20,CT,89,1,156,Chhattisgarh
-4258,26-Jun-20,DD,0,0,0,Daman and Diu
-4259,26-Jun-20,DL,3460,63,2326,Delhi
-4260,26-Jun-20,DN,15,0,12,Dadra and Nagar Haveli and Daman and Diu
-4261,26-Jun-20,GA,44,0,35,Goa
-4262,26-Jun-20,GJ,580,18,532,Gujarat
-4263,26-Jun-20,HP,25,0,20,Himachal Pradesh
-4264,26-Jun-20,HR,421,13,636,Haryana
-4265,26-Jun-20,JH,31,0,42,Jharkhand
-4266,26-Jun-20,JK,213,1,113,Jammu and Kashmir
-4267,26-Jun-20,KA,445,10,246,Karnataka
-4268,26-Jun-20,KL,150,0,65,Kerala
-4269,26-Jun-20,LA,5,0,109,Ladakh
-4270,26-Jun-20,LD,0,0,0,Lakshadweep
-4271,26-Jun-20,MH,5024,175,2362,Maharashtra
-4272,26-Jun-20,ML,2,0,0,Meghalaya
-4273,26-Jun-20,MN,19,0,39,Manipur
-4274,26-Jun-20,MP,203,4,185,Madhya Pradesh
-4275,26-Jun-20,MZ,2,0,17,Mizoram
-4276,26-Jun-20,NL,16,0,2,Nagaland
-4277,26-Jun-20,OR,218,0,131,Odisha
-4278,26-Jun-20,PB,188,2,9,Punjab
-4279,26-Jun-20,PY,32,0,16,Puducherry
-4280,26-Jun-20,RJ,364,1,222,Rajasthan
-4281,26-Jun-20,SK,2,0,0,Sikkim
-4282,26-Jun-20,TG,985,7,78,Telangana
-4283,26-Jun-20,TN,3645,46,1358,Tamil Nadu
-4284,26-Jun-20,TR,35,0,36,Tripura
-4285,26-Jun-20,TT,18255,381,10246,Total
-4286,26-Jun-20,UN,-370,0,0,State Unassigned
-4287,26-Jun-20,UP,750,19,464,Uttar Pradesh
-4288,26-Jun-20,UT,34,1,64,Uttarakhand
-4289,26-Jun-20,WB,542,10,345,West Bengal
-4290,26-Mar-20,AN,1,0,0,Andaman and Nicobar Islands
-4291,26-Mar-20,AP,1,0,0,Andhra Pradesh
-4292,26-Mar-20,AR,0,0,0,Arunachal Pradesh
-4293,26-Mar-20,AS,0,0,0,Assam
-4294,26-Mar-20,BR,3,0,0,Bihar
-4295,26-Mar-20,CH,0,0,0,Chandigarh
-4296,26-Mar-20,CT,3,0,0,Chhattisgarh
-4297,26-Mar-20,DD,0,0,0,Daman and Diu
-4298,26-Mar-20,DL,1,0,0,Delhi
-4299,26-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4300,26-Mar-20,GA,0,0,0,Goa
-4301,26-Mar-20,GJ,5,2,0,Gujarat
-4302,26-Mar-20,HP,0,0,0,Himachal Pradesh
-4303,26-Mar-20,HR,1,0,0,Haryana
-4304,26-Mar-20,JH,0,0,0,Jharkhand
-4305,26-Mar-20,JK,3,1,0,Jammu and Kashmir
-4306,26-Mar-20,KA,4,1,0,Karnataka
-4307,26-Mar-20,KL,19,0,7,Kerala
-4308,26-Mar-20,LA,0,0,0,Ladakh
-4309,26-Mar-20,LD,0,0,0,Lakshadweep
-4310,26-Mar-20,MH,3,1,0,Maharashtra
-4311,26-Mar-20,ML,0,0,0,Meghalaya
-4312,26-Mar-20,MN,0,0,0,Manipur
-4313,26-Mar-20,MP,5,0,0,Madhya Pradesh
-4314,26-Mar-20,MZ,0,0,0,Mizoram
-4315,26-Mar-20,NL,0,0,0,Nagaland
-4316,26-Mar-20,OR,1,0,0,Odisha
-4317,26-Mar-20,PB,2,0,0,Punjab
-4318,26-Mar-20,PY,0,0,0,Puducherry
-4319,26-Mar-20,RJ,2,0,0,Rajasthan
-4320,26-Mar-20,SK,0,0,0,Sikkim
-4321,26-Mar-20,TG,3,0,0,Telangana
-4322,26-Mar-20,TN,3,0,0,Tamil Nadu
-4323,26-Mar-20,TR,0,0,0,Tripura
-4324,26-Mar-20,TT,65,5,7,Total
-4325,26-Mar-20,UN,0,0,0,State Unassigned
-4326,26-Mar-20,UP,4,0,0,Uttar Pradesh
-4327,26-Mar-20,UT,0,0,0,Uttarakhand
-4328,26-Mar-20,WB,1,0,0,West Bengal
-4329,26-May-20,AN,0,0,0,Andaman and Nicobar Islands
-4330,26-May-20,AP,97,1,125,Andhra Pradesh
-4331,26-May-20,AR,0,0,0,Arunachal Pradesh
-4332,26-May-20,AS,134,0,0,Assam
-4333,26-May-20,BR,231,1,67,Bihar
-4334,26-May-20,CH,12,0,0,Chandigarh
-4335,26-May-20,CT,68,0,12,Chhattisgarh
-4336,26-May-20,DD,0,0,0,Daman and Diu
-4337,26-May-20,DL,412,12,183,Delhi
-4338,26-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4339,26-May-20,GA,0,0,9,Goa
-4340,26-May-20,GJ,361,27,501,Gujarat
-4341,26-May-20,HP,24,0,0,Himachal Pradesh
-4342,26-May-20,HR,92,0,22,Haryana
-4343,26-May-20,JH,21,0,5,Jharkhand
-4344,26-May-20,JK,91,1,24,Jammu and Kashmir
-4345,26-May-20,KA,101,0,59,Karnataka
-4346,26-May-20,KL,67,1,10,Kerala
-4347,26-May-20,LA,0,0,0,Ladakh
-4348,26-May-20,LD,0,0,0,Lakshadweep
-4349,26-May-20,MH,2091,97,1168,Maharashtra
-4350,26-May-20,ML,5,0,0,Meghalaya
-4351,26-May-20,MN,3,0,0,Manipur
-4352,26-May-20,MP,165,5,118,Madhya Pradesh
-4353,26-May-20,MZ,0,0,0,Mizoram
-4354,26-May-20,NL,1,0,0,Nagaland
-4355,26-May-20,OR,79,0,84,Odisha
-4356,26-May-20,PB,25,0,5,Punjab
-4357,26-May-20,PY,0,0,0,Puducherry
-4358,26-May-20,RJ,236,3,220,Rajasthan
-4359,26-May-20,SK,0,0,0,Sikkim
-4360,26-May-20,TG,112,1,120,Telangana
-4361,26-May-20,TN,646,11,611,Tamil Nadu
-4362,26-May-20,TR,34,0,0,Tripura
-4363,26-May-20,TT,5907,173,3585,Total
-4364,26-May-20,UN,328,0,0,State Unassigned
-4365,26-May-20,UP,227,8,164,Uttar Pradesh
-4366,26-May-20,UT,51,0,6,Uttarakhand
-4367,26-May-20,WB,193,5,72,West Bengal
-4368,27-Apr-20,AN,0,0,0,Andaman and Nicobar Islands
-4369,27-Apr-20,AP,80,0,4,Andhra Pradesh
-4370,27-Apr-20,AR,0,0,0,Arunachal Pradesh
-4371,27-Apr-20,AS,0,0,0,Assam
-4372,27-Apr-20,BR,69,0,0,Bihar
-4373,27-Apr-20,CH,9,0,0,Chandigarh
-4374,27-Apr-20,CT,0,0,0,Chhattisgarh
-4375,27-Apr-20,DD,0,0,0,Daman and Diu
-4376,27-Apr-20,DL,190,0,0,Delhi
-4377,27-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4378,27-Apr-20,GA,0,0,0,Goa
-4379,27-Apr-20,GJ,247,11,81,Gujarat
-4380,27-Apr-20,HP,0,0,3,Himachal Pradesh
-4381,27-Apr-20,HR,5,0,14,Haryana
-4382,27-Apr-20,JH,21,0,4,Jharkhand
-4383,27-Apr-20,JK,23,1,27,Jammu and Kashmir
-4384,27-Apr-20,KA,9,1,11,Karnataka
-4385,27-Apr-20,KL,13,0,13,Kerala
-4386,27-Apr-20,LA,0,0,0,Ladakh
-4387,27-Apr-20,LD,0,0,0,Lakshadweep
-4388,27-Apr-20,MH,522,27,94,Maharashtra
-4389,27-Apr-20,ML,0,0,0,Meghalaya
-4390,27-Apr-20,MN,0,0,0,Manipur
-4391,27-Apr-20,MP,75,7,55,Madhya Pradesh
-4392,27-Apr-20,MZ,0,0,0,Mizoram
-4393,27-Apr-20,NL,0,0,0,Nagaland
-4394,27-Apr-20,OR,15,0,2,Odisha
-4395,27-Apr-20,PB,8,1,14,Punjab
-4396,27-Apr-20,PY,0,0,1,Puducherry
-4397,27-Apr-20,RJ,77,9,115,Rajasthan
-4398,27-Apr-20,SK,0,0,0,Sikkim
-4399,27-Apr-20,TG,2,0,16,Telangana
-4400,27-Apr-20,TN,52,0,54,Tamil Nadu
-4401,27-Apr-20,TR,0,0,0,Tripura
-4402,27-Apr-20,TT,1568,58,580,Total
-4403,27-Apr-20,UN,0,0,0,State Unassigned
-4404,27-Apr-20,UP,113,1,72,Uttar Pradesh
-4405,27-Apr-20,UT,0,0,0,Uttarakhand
-4406,27-Apr-20,WB,38,0,0,West Bengal
-4407,27-Jun-20,AN,0,0,0,Andaman and Nicobar Islands
-4408,27-Jun-20,AP,796,11,284,Andhra Pradesh
-4409,27-Jun-20,AR,3,0,5,Arunachal Pradesh
-4410,27-Jun-20,AS,246,1,567,Assam
-4411,27-Jun-20,BR,302,2,261,Bihar
-4412,27-Jun-20,CH,3,0,0,Chandigarh
-4413,27-Jun-20,CT,65,0,52,Chhattisgarh
-4414,27-Jun-20,DD,0,0,0,Daman and Diu
-4415,27-Jun-20,DL,2948,66,2210,Delhi
-4416,27-Jun-20,DN,15,0,6,Dadra and Nagar Haveli and Daman and Diu
-4417,27-Jun-20,GA,89,0,50,Goa
-4418,27-Jun-20,GJ,615,18,379,Gujarat
-4419,27-Jun-20,HP,30,0,7,Himachal Pradesh
-4420,27-Jun-20,HR,543,7,456,Haryana
-4421,27-Jun-20,JH,45,0,77,Jharkhand
-4422,27-Jun-20,JK,204,2,145,Jammu and Kashmir
-4423,27-Jun-20,KA,918,11,371,Karnataka
-4424,27-Jun-20,KL,195,0,102,Kerala
-4425,27-Jun-20,LA,14,0,87,Ladakh
-4426,27-Jun-20,LD,0,0,0,Lakshadweep
-4427,27-Jun-20,MH,6368,167,4430,Maharashtra
-4428,27-Jun-20,ML,0,0,0,Meghalaya
-4429,27-Jun-20,MN,17,0,39,Manipur
-4430,27-Jun-20,MP,167,4,167,Madhya Pradesh
-4431,27-Jun-20,MZ,3,0,8,Mizoram
-4432,27-Jun-20,NL,16,0,2,Nagaland
-4433,27-Jun-20,OR,170,1,184,Odisha
-4434,27-Jun-20,PB,99,6,119,Punjab
-4435,27-Jun-20,PY,85,1,18,Puducherry
-4436,27-Jun-20,RJ,284,11,305,Rajasthan
-4437,27-Jun-20,SK,0,0,10,Sikkim
-4438,27-Jun-20,TG,1087,6,162,Telangana
-4439,27-Jun-20,TN,3713,68,2737,Tamil Nadu
-4440,27-Jun-20,TR,9,0,16,Tripura
-4441,27-Jun-20,TT,20142,414,14229,Total
-4442,27-Jun-20,UN,-100,0,0,State Unassigned
-4443,27-Jun-20,UP,606,19,632,Uttar Pradesh
-4444,27-Jun-20,UT,66,0,87,Uttarakhand
-4445,27-Jun-20,WB,521,13,254,West Bengal
-4446,27-Mar-20,AN,5,0,0,Andaman and Nicobar Islands
-4447,27-Mar-20,AP,2,0,0,Andhra Pradesh
-4448,27-Mar-20,AR,0,0,0,Arunachal Pradesh
-4449,27-Mar-20,AS,0,0,0,Assam
-4450,27-Mar-20,BR,2,0,0,Bihar
-4451,27-Mar-20,CH,1,0,0,Chandigarh
-4452,27-Mar-20,CT,0,0,0,Chhattisgarh
-4453,27-Mar-20,DD,0,0,0,Daman and Diu
-4454,27-Mar-20,DL,4,0,0,Delhi
-4455,27-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4456,27-Mar-20,GA,0,0,0,Goa
-4457,27-Mar-20,GJ,4,0,0,Gujarat
-4458,27-Mar-20,HP,0,0,1,Himachal Pradesh
-4459,27-Mar-20,HR,1,0,0,Haryana
-4460,27-Mar-20,JH,0,0,0,Jharkhand
-4461,27-Mar-20,JK,6,0,0,Jammu and Kashmir
-4462,27-Mar-20,KA,9,1,2,Karnataka
-4463,27-Mar-20,KL,39,0,0,Kerala
-4464,27-Mar-20,LA,0,0,3,Ladakh
-4465,27-Mar-20,LD,0,0,0,Lakshadweep
-4466,27-Mar-20,MH,31,1,18,Maharashtra
-4467,27-Mar-20,ML,0,0,0,Meghalaya
-4468,27-Mar-20,MN,0,0,0,Manipur
-4469,27-Mar-20,MP,9,1,0,Madhya Pradesh
-4470,27-Mar-20,MZ,0,0,0,Mizoram
-4471,27-Mar-20,NL,0,0,0,Nagaland
-4472,27-Mar-20,OR,0,0,0,Odisha
-4473,27-Mar-20,PB,5,0,1,Punjab
-4474,27-Mar-20,PY,0,0,0,Puducherry
-4475,27-Mar-20,RJ,10,0,0,Rajasthan
-4476,27-Mar-20,SK,0,0,0,Sikkim
-4477,27-Mar-20,TG,15,0,0,Telangana
-4478,27-Mar-20,TN,9,0,1,Tamil Nadu
-4479,27-Mar-20,TR,0,0,0,Tripura
-4480,27-Mar-20,TT,164,3,26,Total
-4481,27-Mar-20,UN,0,0,0,State Unassigned
-4482,27-Mar-20,UP,7,0,0,Uttar Pradesh
-4483,27-Mar-20,UT,0,0,0,Uttarakhand
-4484,27-Mar-20,WB,5,0,0,West Bengal
-4485,27-May-20,AN,0,0,0,Andaman and Nicobar Islands
-4486,27-May-20,AP,134,1,48,Andhra Pradesh
-4487,27-May-20,AR,0,0,0,Arunachal Pradesh
-4488,27-May-20,AS,101,0,25,Assam
-4489,27-May-20,BR,68,1,118,Bihar
-4490,27-May-20,CH,1,0,0,Chandigarh
-4491,27-May-20,CT,4,0,4,Chhattisgarh
-4492,27-May-20,DD,0,0,0,Daman and Diu
-4493,27-May-20,DL,792,15,310,Delhi
-4494,27-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4495,27-May-20,GA,1,0,9,Goa
-4496,27-May-20,GJ,376,23,410,Gujarat
-4497,27-May-20,HP,26,2,3,Himachal Pradesh
-4498,27-May-20,HR,76,2,14,Haryana
-4499,27-May-20,JH,7,0,0,Jharkhand
-4500,27-May-20,JK,162,2,21,Jammu and Kashmir
-4501,27-May-20,KA,135,3,17,Karnataka
-4502,27-May-20,KL,40,0,10,Kerala
-4503,27-May-20,LA,1,0,0,Ladakh
-4504,27-May-20,LD,0,0,0,Lakshadweep
-4505,27-May-20,MH,2190,105,964,Maharashtra
-4506,27-May-20,ML,0,0,0,Meghalaya
-4507,27-May-20,MN,5,0,0,Manipur
-4508,27-May-20,MP,237,8,238,Madhya Pradesh
-4509,27-May-20,MZ,0,0,0,Mizoram
-4510,27-May-20,NL,5,0,0,Nagaland
-4511,27-May-20,OR,76,0,79,Odisha
-4512,27-May-20,PB,33,0,0,Punjab
-4513,27-May-20,PY,0,0,0,Puducherry
-4514,27-May-20,RJ,280,3,286,Rajasthan
-4515,27-May-20,SK,0,0,0,Sikkim
-4516,27-May-20,TG,107,6,37,Telangana
-4517,27-May-20,TN,817,6,567,Tamil Nadu
-4518,27-May-20,TR,10,0,0,Tripura
-4519,27-May-20,TT,7246,188,3434,Total
-4520,27-May-20,UN,1043,0,0,State Unassigned
-4521,27-May-20,UP,267,5,167,Uttar Pradesh
-4522,27-May-20,UT,69,0,15,Uttarakhand
-4523,27-May-20,WB,183,6,92,West Bengal
-4524,28-Apr-20,AN,0,0,4,Andaman and Nicobar Islands
-4525,28-Apr-20,AP,82,0,23,Andhra Pradesh
-4526,28-Apr-20,AR,0,0,0,Arunachal Pradesh
-4527,28-Apr-20,AS,2,0,0,Assam
-4528,28-Apr-20,BR,20,0,8,Bihar
-4529,28-Apr-20,CH,11,0,0,Chandigarh
-4530,28-Apr-20,CT,1,0,2,Chhattisgarh
-4531,28-Apr-20,DD,0,0,0,Daman and Diu
-4532,28-Apr-20,DL,206,0,201,Delhi
-4533,28-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4534,28-Apr-20,GA,0,0,0,Goa
-4535,28-Apr-20,GJ,226,19,40,Gujarat
-4536,28-Apr-20,HP,0,0,0,Himachal Pradesh
-4537,28-Apr-20,HR,7,0,11,Haryana
-4538,28-Apr-20,JH,2,0,2,Jharkhand
-4539,28-Apr-20,JK,19,1,12,Jammu and Kashmir
-4540,28-Apr-20,KA,11,0,14,Karnataka
-4541,28-Apr-20,KL,4,0,4,Kerala
-4542,28-Apr-20,LA,2,0,0,Ladakh
-4543,28-Apr-20,LD,0,0,0,Lakshadweep
-4544,28-Apr-20,MH,728,31,106,Maharashtra
-4545,28-Apr-20,ML,0,0,0,Meghalaya
-4546,28-Apr-20,MN,0,0,0,Manipur
-4547,28-Apr-20,MP,222,10,16,Madhya Pradesh
-4548,28-Apr-20,MZ,0,0,0,Mizoram
-4549,28-Apr-20,NL,0,0,0,Nagaland
-4550,28-Apr-20,OR,0,0,1,Odisha
-4551,28-Apr-20,PB,12,0,3,Punjab
-4552,28-Apr-20,PY,0,0,0,Puducherry
-4553,28-Apr-20,RJ,102,2,26,Rajasthan
-4554,28-Apr-20,SK,0,0,0,Sikkim
-4555,28-Apr-20,TG,6,0,42,Telangana
-4556,28-Apr-20,TN,121,1,54,Tamil Nadu
-4557,28-Apr-20,TR,0,0,0,Tripura
-4558,28-Apr-20,TT,1902,69,636,Total
-4559,28-Apr-20,UN,0,0,0,State Unassigned
-4560,28-Apr-20,UP,67,3,63,Uttar Pradesh
-4561,28-Apr-20,UT,3,0,0,Uttarakhand
-4562,28-Apr-20,WB,48,2,4,West Bengal
-4563,28-Jun-20,AN,11,0,2,Andaman and Nicobar Islands
-4564,28-Jun-20,AP,813,12,428,Andhra Pradesh
-4565,28-Jun-20,AR,5,0,6,Arunachal Pradesh
-4566,28-Jun-20,AS,327,1,274,Assam
-4567,28-Jun-20,BR,244,4,226,Bihar
-4568,28-Jun-20,CH,3,0,1,Chandigarh
-4569,28-Jun-20,CT,84,0,125,Chhattisgarh
-4570,28-Jun-20,DD,0,0,0,Daman and Diu
-4571,28-Jun-20,DL,2889,65,3306,Delhi
-4572,28-Jun-20,DN,4,0,13,Dadra and Nagar Haveli and Daman and Diu
-4573,28-Jun-20,GA,70,1,58,Goa
-4574,28-Jun-20,GJ,624,19,391,Gujarat
-4575,28-Jun-20,HP,22,0,17,Himachal Pradesh
-4576,28-Jun-20,HR,402,5,445,Haryana
-4577,28-Jun-20,JH,25,0,69,Jharkhand
-4578,28-Jun-20,JK,127,1,91,Jammu and Kashmir
-4579,28-Jun-20,KA,1267,16,220,Karnataka
-4580,28-Jun-20,KL,118,0,42,Kerala
-4581,28-Jun-20,LA,3,0,32,Ladakh
-4582,28-Jun-20,LD,0,0,0,Lakshadweep
-4583,28-Jun-20,MH,5493,156,2330,Maharashtra
-4584,28-Jun-20,ML,2,0,0,Meghalaya
-4585,28-Jun-20,MN,93,0,23,Manipur
-4586,28-Jun-20,MP,221,7,113,Madhya Pradesh
-4587,28-Jun-20,MZ,1,0,0,Mizoram
-4588,28-Jun-20,NL,28,0,0,Nagaland
-4589,28-Jun-20,OR,264,3,137,Odisha
-4590,28-Jun-20,PB,160,5,206,Punjab
-4591,28-Jun-20,PY,29,1,31,Puducherry
-4592,28-Jun-20,RJ,327,8,244,Rajasthan
-4593,28-Jun-20,SK,1,0,0,Sikkim
-4594,28-Jun-20,TG,983,4,244,Telangana
-4595,28-Jun-20,TN,3940,54,1443,Tamil Nadu
-4596,28-Jun-20,TR,12,0,8,Tripura
-4597,28-Jun-20,TT,19610,384,11631,Total
-4598,28-Jun-20,UN,-184,0,0,State Unassigned
-4599,28-Jun-20,UP,598,11,593,Uttar Pradesh
-4600,28-Jun-20,UT,32,1,109,Uttarakhand
-4601,28-Jun-20,WB,572,10,404,West Bengal
-4602,28-Mar-20,AN,3,0,0,Andaman and Nicobar Islands
-4603,28-Mar-20,AP,6,0,0,Andhra Pradesh
-4604,28-Mar-20,AR,0,0,0,Arunachal Pradesh
-4605,28-Mar-20,AS,0,0,0,Assam
-4606,28-Mar-20,BR,2,0,0,Bihar
-4607,28-Mar-20,CH,0,0,0,Chandigarh
-4608,28-Mar-20,CT,1,0,0,Chhattisgarh
-4609,28-Mar-20,DD,0,0,0,Daman and Diu
-4610,28-Mar-20,DL,9,0,0,Delhi
-4611,28-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4612,28-Mar-20,GA,0,0,0,Goa
-4613,28-Mar-20,GJ,8,1,0,Gujarat
-4614,28-Mar-20,HP,0,0,1,Himachal Pradesh
-4615,28-Mar-20,HR,2,0,0,Haryana
-4616,28-Mar-20,JH,0,0,0,Jharkhand
-4617,28-Mar-20,JK,13,0,0,Jammu and Kashmir
-4618,28-Mar-20,KA,17,0,0,Karnataka
-4619,28-Mar-20,KL,6,1,1,Kerala
-4620,28-Mar-20,LA,0,0,0,Ladakh
-4621,28-Mar-20,LD,0,0,0,Lakshadweep
-4622,28-Mar-20,MH,30,2,6,Maharashtra
-4623,28-Mar-20,ML,0,0,0,Meghalaya
-4624,28-Mar-20,MN,0,0,0,Manipur
-4625,28-Mar-20,MP,10,0,0,Madhya Pradesh
-4626,28-Mar-20,MZ,0,0,0,Mizoram
-4627,28-Mar-20,NL,0,0,0,Nagaland
-4628,28-Mar-20,OR,0,0,0,Odisha
-4629,28-Mar-20,PB,0,0,0,Punjab
-4630,28-Mar-20,PY,0,0,0,Puducherry
-4631,28-Mar-20,RJ,4,0,0,Rajasthan
-4632,28-Mar-20,SK,0,0,0,Sikkim
-4633,28-Mar-20,TG,8,1,0,Telangana
-4634,28-Mar-20,TN,4,0,0,Tamil Nadu
-4635,28-Mar-20,TR,0,0,0,Tripura
-4636,28-Mar-20,TT,143,5,9,Total
-4637,28-Mar-20,UN,0,0,0,State Unassigned
-4638,28-Mar-20,UP,16,0,0,Uttar Pradesh
-4639,28-Mar-20,UT,1,0,1,Uttarakhand
-4640,28-Mar-20,WB,3,0,0,West Bengal
-4641,28-May-20,AN,0,0,0,Andaman and Nicobar Islands
-4642,28-May-20,AP,128,1,68,Andhra Pradesh
-4643,28-May-20,AR,1,0,0,Arunachal Pradesh
-4644,28-May-20,AS,97,0,16,Assam
-4645,28-May-20,BR,149,0,132,Bihar
-4646,28-May-20,CH,10,0,2,Chandigarh
-4647,28-May-20,CT,34,0,0,Chhattisgarh
-4648,28-May-20,DD,0,0,0,Daman and Diu
-4649,28-May-20,DL,1024,13,231,Delhi
-4650,28-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4651,28-May-20,GA,1,0,1,Goa
-4652,28-May-20,GJ,367,22,454,Gujarat
-4653,28-May-20,HP,8,0,7,Himachal Pradesh
-4654,28-May-20,HR,123,1,43,Haryana
-4655,28-May-20,JH,6,0,0,Jharkhand
-4656,28-May-20,JK,115,1,5,Jammu and Kashmir
-4657,28-May-20,KA,115,0,53,Karnataka
-4658,28-May-20,KL,85,1,3,Kerala
-4659,28-May-20,LA,20,0,0,Ladakh
-4660,28-May-20,LD,0,0,0,Lakshadweep
-4661,28-May-20,MH,2598,85,698,Maharashtra
-4662,28-May-20,ML,1,0,0,Meghalaya
-4663,28-May-20,MN,11,0,0,Manipur
-4664,28-May-20,MP,192,8,123,Madhya Pradesh
-4665,28-May-20,MZ,0,0,0,Mizoram
-4666,28-May-20,NL,9,0,0,Nagaland
-4667,28-May-20,OR,67,0,75,Odisha
-4668,28-May-20,PB,19,0,28,Punjab
-4669,28-May-20,PY,4,0,0,Puducherry
-4670,28-May-20,RJ,251,7,253,Rajasthan
-4671,28-May-20,SK,0,0,0,Sikkim
-4672,28-May-20,TG,117,4,24,Telangana
-4673,28-May-20,TN,827,12,639,Tamil Nadu
-4674,28-May-20,TR,2,0,2,Tripura
-4675,28-May-20,TT,7254,176,3171,Total
-4676,28-May-20,UN,319,0,0,State Unassigned
-4677,28-May-20,UP,179,15,224,Uttar Pradesh
-4678,28-May-20,UT,31,0,0,Uttarakhand
-4679,28-May-20,WB,344,6,90,West Bengal
-4680,29-Apr-20,AN,0,0,0,Andaman and Nicobar Islands
-4681,29-Apr-20,AP,73,0,29,Andhra Pradesh
-4682,29-Apr-20,AR,0,0,0,Arunachal Pradesh
-4683,29-Apr-20,AS,0,0,2,Assam
-4684,29-Apr-20,BR,37,0,0,Bihar
-4685,29-Apr-20,CH,12,0,0,Chandigarh
-4686,29-Apr-20,CT,0,0,0,Chhattisgarh
-4687,29-Apr-20,DD,0,0,0,Daman and Diu
-4688,29-Apr-20,DL,125,2,14,Delhi
-4689,29-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4690,29-Apr-20,GA,0,0,0,Goa
-4691,29-Apr-20,GJ,308,16,93,Gujarat
-4692,29-Apr-20,HP,0,0,0,Himachal Pradesh
-4693,29-Apr-20,HR,3,0,1,Haryana
-4694,29-Apr-20,JH,2,0,0,Jharkhand
-4695,29-Apr-20,JK,16,0,16,Jammu and Kashmir
-4696,29-Apr-20,KA,12,1,9,Karnataka
-4697,29-Apr-20,KL,10,0,10,Kerala
-4698,29-Apr-20,LA,0,0,1,Ladakh
-4699,29-Apr-20,LD,0,0,0,Lakshadweep
-4700,29-Apr-20,MH,597,32,205,Maharashtra
-4701,29-Apr-20,ML,0,0,0,Meghalaya
-4702,29-Apr-20,MN,0,0,0,Manipur
-4703,29-Apr-20,MP,173,10,88,Madhya Pradesh
-4704,29-Apr-20,MZ,0,0,0,Mizoram
-4705,29-Apr-20,NL,0,0,0,Nagaland
-4706,29-Apr-20,OR,7,0,1,Odisha
-4707,29-Apr-20,PB,33,0,0,Punjab
-4708,29-Apr-20,PY,0,0,0,Puducherry
-4709,29-Apr-20,RJ,76,3,44,Rajasthan
-4710,29-Apr-20,SK,0,0,0,Sikkim
-4711,29-Apr-20,TG,7,0,35,Telangana
-4712,29-Apr-20,TN,104,2,82,Tamil Nadu
-4713,29-Apr-20,TR,0,0,0,Tripura
-4714,29-Apr-20,TT,1705,71,690,Total
-4715,29-Apr-20,UN,0,0,0,State Unassigned
-4716,29-Apr-20,UP,81,5,48,Uttar Pradesh
-4717,29-Apr-20,UT,1,0,2,Uttarakhand
-4718,29-Apr-20,WB,28,0,10,West Bengal
-4719,29-Jun-20,AN,7,0,0,Andaman and Nicobar Islands
-4720,29-Jun-20,AP,793,11,324,Andhra Pradesh
-4721,29-Jun-20,AR,5,0,1,Arunachal Pradesh
-4722,29-Jun-20,AS,302,0,245,Assam
-4723,29-Jun-20,BR,394,1,218,Bihar
-4724,29-Jun-20,CH,3,0,13,Chandigarh
-4725,29-Jun-20,CT,101,0,88,Chhattisgarh
-4726,29-Jun-20,DD,0,0,0,Daman and Diu
-4727,29-Jun-20,DL,2084,57,3628,Delhi
-4728,29-Jun-20,DN,15,0,6,Dadra and Nagar Haveli and Daman and Diu
-4729,29-Jun-20,GA,53,0,46,Goa
-4730,29-Jun-20,GJ,626,19,440,Gujarat
-4731,29-Jun-20,HP,26,0,38,Himachal Pradesh
-4732,29-Jun-20,HR,381,9,585,Haryana
-4733,29-Jun-20,JH,62,3,56,Jharkhand
-4734,29-Jun-20,JK,144,1,269,Jammu and Kashmir
-4735,29-Jun-20,KA,1105,19,176,Karnataka
-4736,29-Jun-20,KL,122,1,79,Kerala
-4737,29-Jun-20,LA,1,0,30,Ladakh
-4738,29-Jun-20,LD,0,0,0,Lakshadweep
-4739,29-Jun-20,MH,5257,181,2385,Maharashtra
-4740,29-Jun-20,ML,1,0,0,Meghalaya
-4741,29-Jun-20,MN,42,0,39,Manipur
-4742,29-Jun-20,MP,184,7,115,Madhya Pradesh
-4743,29-Jun-20,MZ,0,0,6,Mizoram
-4744,29-Jun-20,NL,36,0,4,Nagaland
-4745,29-Jun-20,OR,245,2,203,Odisha
-4746,29-Jun-20,PB,202,5,238,Punjab
-4747,29-Jun-20,PY,42,0,10,Puducherry
-4748,29-Jun-20,RJ,389,6,310,Rajasthan
-4749,29-Jun-20,SK,0,0,0,Sikkim
-4750,29-Jun-20,TG,975,6,410,Telangana
-4751,29-Jun-20,TN,3949,62,2212,Tamil Nadu
-4752,29-Jun-20,TR,34,0,6,Tripura
-4753,29-Jun-20,TT,18339,417,13497,Total
-4754,29-Jun-20,UN,-554,0,0,State Unassigned
-4755,29-Jun-20,UP,681,12,698,Uttar Pradesh
-4756,29-Jun-20,UT,8,1,93,Uttarakhand
-4757,29-Jun-20,WB,624,14,526,West Bengal
-4758,29-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
-4759,29-Mar-20,AP,2,0,0,Andhra Pradesh
-4760,29-Mar-20,AR,0,0,0,Arunachal Pradesh
-4761,29-Mar-20,AS,0,0,0,Assam
-4762,29-Mar-20,BR,4,0,0,Bihar
-4763,29-Mar-20,CH,0,0,0,Chandigarh
-4764,29-Mar-20,CT,0,0,0,Chhattisgarh
-4765,29-Mar-20,DD,0,0,0,Daman and Diu
-4766,29-Mar-20,DL,23,1,0,Delhi
-4767,29-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4768,29-Mar-20,GA,2,0,0,Goa
-4769,29-Mar-20,GJ,8,1,1,Gujarat
-4770,29-Mar-20,HP,0,0,0,Himachal Pradesh
-4771,29-Mar-20,HR,0,0,0,Haryana
-4772,29-Mar-20,JH,0,0,0,Jharkhand
-4773,29-Mar-20,JK,5,0,0,Jammu and Kashmir
-4774,29-Mar-20,KA,2,0,0,Karnataka
-4775,29-Mar-20,KL,20,0,4,Kerala
-4776,29-Mar-20,LA,0,0,0,Ladakh
-4777,29-Mar-20,LD,0,0,0,Lakshadweep
-4778,29-Mar-20,MH,17,1,0,Maharashtra
-4779,29-Mar-20,ML,0,0,0,Meghalaya
-4780,29-Mar-20,MN,0,0,0,Manipur
-4781,29-Mar-20,MP,0,0,0,Madhya Pradesh
-4782,29-Mar-20,MZ,0,0,0,Mizoram
-4783,29-Mar-20,NL,0,0,0,Nagaland
-4784,29-Mar-20,OR,0,0,0,Odisha
-4785,29-Mar-20,PB,0,0,0,Punjab
-4786,29-Mar-20,PY,0,0,0,Puducherry
-4787,29-Mar-20,RJ,5,0,0,Rajasthan
-4788,29-Mar-20,SK,0,0,0,Sikkim
-4789,29-Mar-20,TG,3,0,0,Telangana
-4790,29-Mar-20,TN,8,0,0,Tamil Nadu
-4791,29-Mar-20,TR,0,0,0,Tripura
-4792,29-Mar-20,TT,110,3,5,Total
-4793,29-Mar-20,UN,0,0,0,State Unassigned
-4794,29-Mar-20,UP,7,0,0,Uttar Pradesh
-4795,29-Mar-20,UT,1,0,0,Uttarakhand
-4796,29-Mar-20,WB,3,0,0,West Bengal
-4797,29-May-20,AN,0,0,0,Andaman and Nicobar Islands
-4798,29-May-20,AP,85,1,101,Andhra Pradesh
-4799,29-May-20,AR,0,0,0,Arunachal Pradesh
-4800,29-May-20,AS,177,0,22,Assam
-4801,29-May-20,BR,174,0,159,Bihar
-4802,29-May-20,CH,0,0,0,Chandigarh
-4803,29-May-20,CT,17,1,17,Chhattisgarh
-4804,29-May-20,DD,0,0,0,Daman and Diu
-4805,29-May-20,DL,1105,82,351,Delhi
-4806,29-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4807,29-May-20,GA,0,0,3,Goa
-4808,29-May-20,GJ,372,20,608,Gujarat
-4809,29-May-20,HP,14,0,10,Himachal Pradesh
-4810,29-May-20,HR,217,0,59,Haryana
-4811,29-May-20,JH,82,1,63,Jharkhand
-4812,29-May-20,JK,128,1,16,Jammu and Kashmir
-4813,29-May-20,KA,248,1,60,Karnataka
-4814,29-May-20,KL,62,1,10,Kerala
-4815,29-May-20,LA,0,0,0,Ladakh
-4816,29-May-20,LD,0,0,0,Lakshadweep
-4817,29-May-20,MH,2682,116,8381,Maharashtra
-4818,29-May-20,ML,6,0,0,Meghalaya
-4819,29-May-20,MN,4,0,2,Manipur
-4820,29-May-20,MP,192,13,219,Madhya Pradesh
-4821,29-May-20,MZ,0,0,0,Mizoram
-4822,29-May-20,NL,7,0,0,Nagaland
-4823,29-May-20,OR,63,2,90,Odisha
-4824,29-May-20,PB,39,2,3,Punjab
-4825,29-May-20,PY,4,0,6,Puducherry
-4826,29-May-20,RJ,298,4,429,Rajasthan
-4827,29-May-20,SK,0,0,0,Sikkim
-4828,29-May-20,TG,169,4,36,Telangana
-4829,29-May-20,TN,874,9,765,Tamil Nadu
-4830,29-May-20,TR,10,0,0,Tripura
-4831,29-May-20,TT,8138,269,11735,Total
-4832,29-May-20,UN,341,0,0,State Unassigned
-4833,29-May-20,UP,275,4,195,Uttar Pradesh
-4834,29-May-20,UT,216,0,23,Uttarakhand
-4835,29-May-20,WB,277,7,107,West Bengal
-4836,30-Apr-20,AN,0,0,1,Andaman and Nicobar Islands
-4837,30-Apr-20,AP,71,0,34,Andhra Pradesh
-4838,30-Apr-20,AR,0,0,0,Arunachal Pradesh
-4839,30-Apr-20,AS,5,0,0,Assam
-4840,30-Apr-20,BR,22,0,20,Bihar
-4841,30-Apr-20,CH,6,0,1,Chandigarh
-4842,30-Apr-20,CT,2,0,2,Chhattisgarh
-4843,30-Apr-20,DD,0,0,0,Daman and Diu
-4844,30-Apr-20,DL,76,3,2,Delhi
-4845,30-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4846,30-Apr-20,GA,0,0,0,Goa
-4847,30-Apr-20,GJ,313,17,86,Gujarat
-4848,30-Apr-20,HP,0,0,3,Himachal Pradesh
-4849,30-Apr-20,HR,28,1,10,Haryana
-4850,30-Apr-20,JH,3,0,0,Jharkhand
-4851,30-Apr-20,JK,33,0,24,Jammu and Kashmir
-4852,30-Apr-20,KA,30,1,13,Karnataka
-4853,30-Apr-20,KL,2,0,14,Kerala
-4854,30-Apr-20,LA,0,0,0,Ladakh
-4855,30-Apr-20,LD,0,0,0,Lakshadweep
-4856,30-Apr-20,MH,583,27,180,Maharashtra
-4857,30-Apr-20,ML,0,0,0,Meghalaya
-4858,30-Apr-20,MN,0,0,0,Manipur
-4859,30-Apr-20,MP,65,7,21,Madhya Pradesh
-4860,30-Apr-20,MZ,0,0,0,Mizoram
-4861,30-Apr-20,NL,0,0,0,Nagaland
-4862,30-Apr-20,OR,18,0,2,Odisha
-4863,30-Apr-20,PB,105,1,3,Punjab
-4864,30-Apr-20,PY,0,0,0,Puducherry
-4865,30-Apr-20,RJ,144,3,79,Rajasthan
-4866,30-Apr-20,SK,0,0,0,Sikkim
-4867,30-Apr-20,TG,22,3,33,Telangana
-4868,30-Apr-20,TN,161,0,48,Tamil Nadu
-4869,30-Apr-20,TR,1,0,0,Tripura
-4870,30-Apr-20,TT,1802,75,630,Total
-4871,30-Apr-20,UN,0,0,0,State Unassigned
-4872,30-Apr-20,UP,77,1,41,Uttar Pradesh
-4873,30-Apr-20,UT,2,0,8,Uttarakhand
-4874,30-Apr-20,WB,33,11,5,West Bengal
-4875,30-Jun-20,AN,7,0,0,Andaman and Nicobar Islands
-4876,30-Jun-20,AP,704,7,279,Andhra Pradesh
-4877,30-Jun-20,AR,4,0,1,Arunachal Pradesh
-4878,30-Jun-20,AS,613,1,314,Assam
-4879,30-Jun-20,BR,370,5,170,Bihar
-4880,30-Jun-20,CH,6,0,15,Chandigarh
-4881,30-Jun-20,CT,63,0,100,Chhattisgarh
-4882,30-Jun-20,DD,0,0,0,Daman and Diu
-4883,30-Jun-20,DL,2199,62,2113,Delhi
-4884,30-Jun-20,DN,10,0,7,Dadra and Nagar Haveli and Daman and Diu
-4885,30-Jun-20,GA,64,0,72,Goa
-4886,30-Jun-20,GJ,620,20,422,Gujarat
-4887,30-Jun-20,HP,11,1,19,Himachal Pradesh
-4888,30-Jun-20,HR,338,4,470,Haryana
-4889,30-Jun-20,JH,64,0,35,Jharkhand
-4890,30-Jun-20,JK,260,6,137,Jammu and Kashmir
-4891,30-Jun-20,KA,947,20,235,Karnataka
-4892,30-Jun-20,KL,131,1,75,Kerala
-4893,30-Jun-20,LA,9,0,32,Ladakh
-4894,30-Jun-20,LD,0,0,0,Lakshadweep
-4895,30-Jun-20,MH,4878,245,1951,Maharashtra
-4896,30-Jun-20,ML,2,0,0,Meghalaya
-4897,30-Jun-20,MN,7,0,59,Manipur
-4898,30-Jun-20,MP,223,8,196,Madhya Pradesh
-4899,30-Jun-20,MZ,9,0,61,Mizoram
-4900,30-Jun-20,NL,8,0,0,Nagaland
-4901,30-Jun-20,OR,206,2,243,Odisha
-4902,30-Jun-20,PB,150,6,103,Punjab
-4903,30-Jun-20,PY,24,1,10,Puducherry
-4904,30-Jun-20,RJ,348,8,299,Rajasthan
-4905,30-Jun-20,SK,0,0,1,Sikkim
-4906,30-Jun-20,TG,945,7,1712,Telangana
-4907,30-Jun-20,TN,3943,60,2325,Tamil Nadu
-4908,30-Jun-20,TR,8,0,0,Tripura
-4909,30-Jun-20,TT,18256,506,12565,Total
-4910,30-Jun-20,UN,-281,0,0,State Unassigned
-4911,30-Jun-20,UP,664,25,578,Uttar Pradesh
-4912,30-Jun-20,UT,50,2,120,Uttarakhand
-4913,30-Jun-20,WB,652,15,411,West Bengal
-4914,30-Mar-20,AN,1,0,0,Andaman and Nicobar Islands
-4915,30-Mar-20,AP,2,0,0,Andhra Pradesh
-4916,30-Mar-20,AR,0,0,0,Arunachal Pradesh
-4917,30-Mar-20,AS,0,0,0,Assam
-4918,30-Mar-20,BR,0,0,0,Bihar
-4919,30-Mar-20,CH,5,0,0,Chandigarh
-4920,30-Mar-20,CT,1,0,0,Chhattisgarh
-4921,30-Mar-20,DD,0,0,0,Daman and Diu
-4922,30-Mar-20,DL,25,0,0,Delhi
-4923,30-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4924,30-Mar-20,GA,0,0,0,Goa
-4925,30-Mar-20,GJ,7,1,2,Gujarat
-4926,30-Mar-20,HP,0,0,0,Himachal Pradesh
-4927,30-Mar-20,HR,1,0,6,Haryana
-4928,30-Mar-20,JH,0,0,0,Jharkhand
-4929,30-Mar-20,JK,11,0,0,Jammu and Kashmir
-4930,30-Mar-20,KA,5,0,1,Karnataka
-4931,30-Mar-20,KL,32,0,4,Kerala
-4932,30-Mar-20,LA,0,0,0,Ladakh
-4933,30-Mar-20,LD,0,0,0,Lakshadweep
-4934,30-Mar-20,MH,17,2,14,Maharashtra
-4935,30-Mar-20,ML,0,0,0,Meghalaya
-4936,30-Mar-20,MN,0,0,0,Manipur
-4937,30-Mar-20,MP,8,2,0,Madhya Pradesh
-4938,30-Mar-20,MZ,0,0,0,Mizoram
-4939,30-Mar-20,NL,0,0,0,Nagaland
-4940,30-Mar-20,OR,0,0,0,Odisha
-4941,30-Mar-20,PB,3,2,0,Punjab
-4942,30-Mar-20,PY,0,0,0,Puducherry
-4943,30-Mar-20,RJ,20,0,0,Rajasthan
-4944,30-Mar-20,SK,0,0,0,Sikkim
-4945,30-Mar-20,TG,7,5,13,Telangana
-4946,30-Mar-20,TN,17,0,2,Tamil Nadu
-4947,30-Mar-20,TR,0,0,0,Tripura
-4948,30-Mar-20,TT,187,13,49,Total
-4949,30-Mar-20,UN,0,0,0,State Unassigned
-4950,30-Mar-20,UP,24,0,6,Uttar Pradesh
-4951,30-Mar-20,UT,0,0,1,Uttarakhand
-4952,30-Mar-20,WB,1,1,0,West Bengal
-4953,30-May-20,AN,0,0,0,Andaman and Nicobar Islands
-4954,30-May-20,AP,131,0,55,Andhra Pradesh
-4955,30-May-20,AR,1,0,0,Arunachal Pradesh
-4956,30-May-20,AS,159,0,38,Assam
-4957,30-May-20,BR,206,6,102,Bihar
-4958,30-May-20,CH,0,0,10,Chandigarh
-4959,30-May-20,CT,32,0,2,Chhattisgarh
-4960,30-May-20,DD,0,0,0,Daman and Diu
-4961,30-May-20,DL,1163,18,229,Delhi
-4962,30-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-4963,30-May-20,GA,1,0,1,Goa
-4964,30-May-20,GJ,412,27,621,Gujarat
-4965,30-May-20,HP,18,0,24,Himachal Pradesh
-4966,30-May-20,HR,202,1,31,Haryana
-4967,30-May-20,JH,73,0,40,Jharkhand
-4968,30-May-20,JK,177,0,33,Jammu and Kashmir
-4969,30-May-20,KA,141,1,103,Karnataka
-4970,30-May-20,KL,58,1,10,Kerala
-4971,30-May-20,LA,3,0,0,Ladakh
-4972,30-May-20,LD,0,0,0,Lakshadweep
-4973,30-May-20,MH,2940,99,1084,Maharashtra
-4974,30-May-20,ML,0,0,0,Meghalaya
-4975,30-May-20,MN,1,0,0,Manipur
-4976,30-May-20,MP,246,9,175,Madhya Pradesh
-4977,30-May-20,MZ,0,0,0,Mizoram
-4978,30-May-20,NL,11,0,0,Nagaland
-4979,30-May-20,OR,96,0,73,Odisha
-4980,30-May-20,PB,36,2,18,Punjab
-4981,30-May-20,PY,0,0,0,Puducherry
-4982,30-May-20,RJ,252,9,495,Rajasthan
-4983,30-May-20,SK,0,0,0,Sikkim
-4984,30-May-20,TG,74,6,31,Telangana
-4985,30-May-20,TN,938,6,687,Tamil Nadu
-4986,30-May-20,TR,17,0,5,Tripura
-4987,30-May-20,TT,8364,205,4303,Total
-4988,30-May-20,UN,370,0,0,State Unassigned
-4989,30-May-20,UP,256,12,241,Uttar Pradesh
-4990,30-May-20,UT,33,1,0,Uttarakhand
-4991,30-May-20,WB,317,7,195,West Bengal
-4992,31-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
-4993,31-Mar-20,AP,21,0,0,Andhra Pradesh
-4994,31-Mar-20,AR,0,0,0,Arunachal Pradesh
-4995,31-Mar-20,AS,1,0,0,Assam
-4996,31-Mar-20,BR,6,0,0,Bihar
-4997,31-Mar-20,CH,2,0,0,Chandigarh
-4998,31-Mar-20,CT,1,0,2,Chhattisgarh
-4999,31-Mar-20,DD,0,0,0,Daman and Diu
-5000,31-Mar-20,DL,23,0,0,Delhi
-5001,31-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-5002,31-Mar-20,GA,0,0,0,Goa
-5003,31-Mar-20,GJ,4,0,2,Gujarat
-5004,31-Mar-20,HP,0,0,0,Himachal Pradesh
-5005,31-Mar-20,HR,7,0,0,Haryana
-5006,31-Mar-20,JH,1,0,0,Jharkhand
-5007,31-Mar-20,JK,6,1,0,Jammu and Kashmir
-5008,31-Mar-20,KA,13,0,2,Karnataka
-5009,31-Mar-20,KL,7,1,4,Kerala
-5010,31-Mar-20,LA,0,0,0,Ladakh
-5011,31-Mar-20,LD,0,0,0,Lakshadweep
-5012,31-Mar-20,MH,82,1,0,Maharashtra
-5013,31-Mar-20,ML,0,0,0,Meghalaya
-5014,31-Mar-20,MN,0,0,0,Manipur
-5015,31-Mar-20,MP,19,1,0,Madhya Pradesh
-5016,31-Mar-20,MZ,0,0,0,Mizoram
-5017,31-Mar-20,NL,0,0,0,Nagaland
-5018,31-Mar-20,OR,1,0,0,Odisha
-5019,31-Mar-20,PB,1,1,0,Punjab
-5020,31-Mar-20,PY,0,0,0,Puducherry
-5021,31-Mar-20,RJ,14,0,0,Rajasthan
-5022,31-Mar-20,SK,0,0,0,Sikkim
-5023,31-Mar-20,TG,20,0,0,Telangana
-5024,31-Mar-20,TN,57,0,2,Tamil Nadu
-5025,31-Mar-20,TR,0,0,0,Tripura
-5026,31-Mar-20,TT,309,6,15,Total
-5027,31-Mar-20,UN,0,0,0,State Unassigned
-5028,31-Mar-20,UP,8,0,0,Uttar Pradesh
-5029,31-Mar-20,UT,0,0,0,Uttarakhand
-5030,31-Mar-20,WB,15,1,3,West Bengal
-5031,31-May-20,AN,0,0,0,Andaman and Nicobar Islands
-5032,31-May-20,AP,110,2,51,Andhra Pradesh
-5033,31-May-20,AR,0,0,0,Arunachal Pradesh
-5034,31-May-20,AS,123,0,22,Assam
-5035,31-May-20,BR,242,2,209,Bihar
-5036,31-May-20,CH,4,0,0,Chandigarh
-5037,31-May-20,CT,51,0,12,Chhattisgarh
-5038,31-May-20,DD,0,0,0,Daman and Diu
-5039,31-May-20,DL,1295,57,403,Delhi
-5040,31-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
-5041,31-May-20,GA,1,0,2,Goa
-5042,31-May-20,GJ,438,31,689,Gujarat
-5043,31-May-20,HP,18,0,9,Himachal Pradesh
-5044,31-May-20,HR,168,0,77,Haryana
-5045,31-May-20,JH,41,0,0,Jharkhand
-5046,31-May-20,JK,105,0,19,Jammu and Kashmir
-5047,31-May-20,KA,299,2,221,Karnataka
-5048,31-May-20,KL,61,0,15,Kerala
-5049,31-May-20,LA,0,0,4,Ladakh
-5050,31-May-20,LD,0,0,0,Lakshadweep
-5051,31-May-20,MH,2487,89,1248,Maharashtra
-5052,31-May-20,ML,0,0,0,Meghalaya
-5053,31-May-20,MN,11,0,5,Manipur
-5054,31-May-20,MP,198,7,398,Madhya Pradesh
-5055,31-May-20,MZ,0,0,0,Mizoram
-5056,31-May-20,NL,7,0,0,Nagaland
-5057,31-May-20,OR,129,0,76,Odisha
-5058,31-May-20,PB,30,1,20,Punjab
-5059,31-May-20,PY,13,0,2,Puducherry
-5060,31-May-20,RJ,214,1,293,Rajasthan
-5061,31-May-20,SK,0,0,0,Sikkim
-5062,31-May-20,TG,199,5,16,Telangana
-5063,31-May-20,TN,1149,13,757,Tamil Nadu
-5064,31-May-20,TR,45,0,1,Tripura
-5065,31-May-20,TT,8789,222,4928,Total
-5066,31-May-20,UN,448,0,0,State Unassigned
-5067,31-May-20,UP,374,4,192,Uttar Pradesh
-5068,31-May-20,UT,158,0,0,Uttarakhand
-5069,31-May-20,WB,371,8,187,West Bengal
+3627,22-Jul-20,AN,9,0,4,Andaman and Nicobar Islands
+3628,22-Jul-20,AP,6045,65,6553,Andhra Pradesh
+3629,22-Jul-20,AR,91,0,11,Arunachal Pradesh
+3630,22-Jul-20,AS,972,2,1317,Assam
+3631,22-Jul-20,BR,1502,10,1135,Bihar
+3632,22-Jul-20,CH,29,1,8,Chandigarh
+3633,22-Jul-20,CT,268,0,116,Chhattisgarh
+3634,22-Jul-20,DD,0,0,0,Daman and Diu
+3635,22-Jul-20,DL,1227,29,1532,Delhi
+3636,22-Jul-20,DN,36,0,15,Dadra and Nagar Haveli and Daman and Diu
+3637,22-Jul-20,GA,149,2,92,Goa
+3638,22-Jul-20,GJ,1020,28,837,Gujarat
+3639,22-Jul-20,HP,61,0,28,Himachal Pradesh
+3640,22-Jul-20,HR,724,8,745,Haryana
+3641,22-Jul-20,JH,487,3,106,Jharkhand
+3642,22-Jul-20,JK,453,10,152,Jammu and Kashmir
+3643,22-Jul-20,KA,4764,55,1780,Karnataka
+3644,22-Jul-20,KL,1038,1,272,Kerala
+3645,22-Jul-20,LA,8,0,8,Ladakh
+3646,22-Jul-20,LD,0,0,0,Lakshadweep
+3647,22-Jul-20,MH,10576,280,5552,Maharashtra
+3648,22-Jul-20,ML,24,0,7,Meghalaya
+3649,22-Jul-20,MN,45,0,34,Manipur
+3650,22-Jul-20,MP,747,14,579,Madhya Pradesh
+3651,22-Jul-20,MZ,20,0,11,Mizoram
+3652,22-Jul-20,NL,54,0,1,Nagaland
+3653,22-Jul-20,OR,1078,6,440,Odisha
+3654,22-Jul-20,PB,412,6,252,Punjab
+3655,22-Jul-20,PY,121,1,51,Puducherry
+3656,22-Jul-20,RJ,961,6,620,Rajasthan
+3657,22-Jul-20,SK,108,0,4,Sikkim
+3658,22-Jul-20,TG,1555,9,1281,Telangana
+3659,22-Jul-20,TN,5849,518,4913,Tamil Nadu
+3660,22-Jul-20,TR,126,1,107,Tripura
+3661,22-Jul-20,TT,45601,1130,31875,Total
+3662,22-Jul-20,UN,0,0,0,State Unassigned
+3663,22-Jul-20,UP,2300,34,1645,Uttar Pradesh
+3664,22-Jul-20,UT,451,2,52,Uttarakhand
+3665,22-Jul-20,WB,2291,39,1615,West Bengal
+3666,22-Jun-20,AN,0,0,0,Andaman and Nicobar Islands
+3667,22-Jun-20,AP,443,5,128,Andhra Pradesh
+3668,22-Jun-20,AR,9,0,1,Arunachal Pradesh
+3669,22-Jun-20,AS,267,0,161,Assam
+3670,22-Jun-20,BR,228,1,136,Bihar
+3671,22-Jun-20,CH,5,0,6,Chandigarh
+3672,22-Jun-20,CT,47,1,66,Chhattisgarh
+3673,22-Jun-20,DD,0,0,0,Daman and Diu
+3674,22-Jun-20,DL,2909,58,3589,Delhi
+3675,22-Jun-20,DN,15,0,0,Dadra and Nagar Haveli and Daman and Diu
+3676,22-Jun-20,GA,46,1,17,Goa
+3677,22-Jun-20,GJ,563,21,560,Gujarat
+3678,22-Jun-20,HP,54,0,12,Himachal Pradesh
+3679,22-Jun-20,HR,390,9,359,Haryana
+3680,22-Jun-20,JH,42,0,63,Jharkhand
+3681,22-Jun-20,JK,132,3,149,Jammu and Kashmir
+3682,22-Jun-20,KA,249,5,111,Karnataka
+3683,22-Jun-20,KL,138,0,88,Kerala
+3684,22-Jun-20,LA,10,0,2,Ladakh
+3685,22-Jun-20,LD,0,0,0,Lakshadweep
+3686,22-Jun-20,MH,3721,113,1962,Maharashtra
+3687,22-Jun-20,ML,2,0,0,Meghalaya
+3688,22-Jun-20,MN,57,0,0,Manipur
+3689,22-Jun-20,MP,175,6,200,Madhya Pradesh
+3690,22-Jun-20,MZ,1,0,3,Mizoram
+3691,22-Jun-20,NL,69,0,0,Nagaland
+3692,22-Jun-20,OR,143,2,143,Odisha
+3693,22-Jun-20,PB,161,2,125,Punjab
+3694,22-Jun-20,PY,17,0,9,Puducherry
+3695,22-Jun-20,RJ,302,7,313,Rajasthan
+3696,22-Jun-20,SK,0,0,4,Sikkim
+3697,22-Jun-20,TG,872,7,274,Telangana
+3698,22-Jun-20,TN,2710,37,1358,Tamil Nadu
+3699,22-Jun-20,TR,16,0,23,Tripura
+3700,22-Jun-20,TT,13560,312,10879,Total
+3701,22-Jun-20,UN,-1295,0,0,State Unassigned
+3702,22-Jun-20,UP,591,19,606,Uttar Pradesh
+3703,22-Jun-20,UT,58,1,21,Uttarakhand
+3704,22-Jun-20,WB,413,14,390,West Bengal
+3705,22-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
+3706,22-Mar-20,AP,1,0,0,Andhra Pradesh
+3707,22-Mar-20,AR,0,0,0,Arunachal Pradesh
+3708,22-Mar-20,AS,0,0,0,Assam
+3709,22-Mar-20,BR,2,1,0,Bihar
+3710,22-Mar-20,CH,1,0,0,Chandigarh
+3711,22-Mar-20,CT,0,0,0,Chhattisgarh
+3712,22-Mar-20,DD,0,0,0,Daman and Diu
+3713,22-Mar-20,DL,0,0,0,Delhi
+3714,22-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+3715,22-Mar-20,GA,0,0,0,Goa
+3716,22-Mar-20,GJ,4,1,0,Gujarat
+3717,22-Mar-20,HP,0,0,0,Himachal Pradesh
+3718,22-Mar-20,HR,0,0,0,Haryana
+3719,22-Mar-20,JH,0,0,0,Jharkhand
+3720,22-Mar-20,JK,0,0,0,Jammu and Kashmir
+3721,22-Mar-20,KA,6,0,0,Karnataka
+3722,22-Mar-20,KL,15,0,0,Kerala
+3723,22-Mar-20,LA,0,0,0,Ladakh
+3724,22-Mar-20,LD,0,0,0,Lakshadweep
+3725,22-Mar-20,MH,10,1,0,Maharashtra
+3726,22-Mar-20,ML,0,0,0,Meghalaya
+3727,22-Mar-20,MN,0,0,0,Manipur
+3728,22-Mar-20,MP,2,0,0,Madhya Pradesh
+3729,22-Mar-20,MZ,0,0,0,Mizoram
+3730,22-Mar-20,NL,0,0,0,Nagaland
+3731,22-Mar-20,OR,0,0,0,Odisha
+3732,22-Mar-20,PB,8,0,0,Punjab
+3733,22-Mar-20,PY,0,0,0,Puducherry
+3734,22-Mar-20,RJ,4,0,0,Rajasthan
+3735,22-Mar-20,SK,0,0,0,Sikkim
+3736,22-Mar-20,TG,6,0,0,Telangana
+3737,22-Mar-20,TN,3,0,0,Tamil Nadu
+3738,22-Mar-20,TR,0,0,0,Tripura
+3739,22-Mar-20,TT,67,3,0,Total
+3740,22-Mar-20,UN,0,0,0,State Unassigned
+3741,22-Mar-20,UP,2,0,0,Uttar Pradesh
+3742,22-Mar-20,UT,0,0,0,Uttarakhand
+3743,22-Mar-20,WB,3,0,0,West Bengal
+3744,22-May-20,AN,0,0,0,Andaman and Nicobar Islands
+3745,22-May-20,AP,62,1,26,Andhra Pradesh
+3746,22-May-20,AR,0,0,0,Arunachal Pradesh
+3747,22-May-20,AS,15,0,0,Assam
+3748,22-May-20,BR,179,2,58,Bihar
+3749,22-May-20,CH,1,0,0,Chandigarh
+3750,22-May-20,CT,44,0,3,Chhattisgarh
+3751,22-May-20,DD,0,0,0,Daman and Diu
+3752,22-May-20,DL,660,14,330,Delhi
+3753,22-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+3754,22-May-20,GA,2,0,9,Goa
+3755,22-May-20,GJ,363,29,392,Gujarat
+3756,22-May-20,HP,16,0,0,Himachal Pradesh
+3757,22-May-20,HR,37,2,25,Haryana
+3758,22-May-20,JH,20,0,0,Jharkhand
+3759,22-May-20,JK,40,0,36,Jammu and Kashmir
+3760,22-May-20,KA,138,0,26,Karnataka
+3761,22-May-20,KL,42,1,2,Kerala
+3762,22-May-20,LA,2,0,0,Ladakh
+3763,22-May-20,LD,0,0,0,Lakshadweep
+3764,22-May-20,MH,2940,63,857,Maharashtra
+3765,22-May-20,ML,0,0,0,Meghalaya
+3766,22-May-20,MN,1,0,0,Manipur
+3767,22-May-20,MP,189,1,245,Madhya Pradesh
+3768,22-May-20,MZ,0,0,0,Mizoram
+3769,22-May-20,NL,0,0,0,Nagaland
+3770,22-May-20,OR,86,0,43,Odisha
+3771,22-May-20,PB,1,0,28,Punjab
+3772,22-May-20,PY,3,0,0,Puducherry
+3773,22-May-20,RJ,267,2,195,Rajasthan
+3774,22-May-20,SK,0,0,0,Sikkim
+3775,22-May-20,TG,62,3,7,Telangana
+3776,22-May-20,TN,786,4,846,Tamil Nadu
+3777,22-May-20,TR,0,0,4,Tripura
+3778,22-May-20,TT,6536,142,3280,Total
+3779,22-May-20,UN,217,0,0,State Unassigned
+3780,22-May-20,UP,220,14,120,Uttar Pradesh
+3781,22-May-20,UT,8,0,0,Uttarakhand
+3782,22-May-20,WB,135,6,28,West Bengal
+3783,23-Apr-20,AN,4,0,0,Andaman and Nicobar Islands
+3784,23-Apr-20,AP,80,3,21,Andhra Pradesh
+3785,23-Apr-20,AR,0,0,0,Arunachal Pradesh
+3786,23-Apr-20,AS,1,0,0,Assam
+3787,23-Apr-20,BR,27,0,2,Bihar
+3788,23-Apr-20,CH,0,0,0,Chandigarh
+3789,23-Apr-20,CT,0,0,2,Chhattisgarh
+3790,23-Apr-20,DD,0,0,0,Daman and Diu
+3791,23-Apr-20,DL,128,2,84,Delhi
+3792,23-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+3793,23-Apr-20,GA,0,0,0,Goa
+3794,23-Apr-20,GJ,217,9,79,Gujarat
+3795,23-Apr-20,HP,1,0,2,Himachal Pradesh
+3796,23-Apr-20,HR,6,0,12,Haryana
+3797,23-Apr-20,JH,7,1,4,Jharkhand
+3798,23-Apr-20,JK,27,0,0,Jammu and Kashmir
+3799,23-Apr-20,KA,18,0,14,Karnataka
+3800,23-Apr-20,KL,10,0,8,Kerala
+3801,23-Apr-20,LA,0,0,2,Ladakh
+3802,23-Apr-20,LD,0,0,0,Lakshadweep
+3803,23-Apr-20,MH,778,14,51,Maharashtra
+3804,23-Apr-20,ML,0,0,0,Meghalaya
+3805,23-Apr-20,MN,0,0,0,Manipur
+3806,23-Apr-20,MP,100,3,51,Madhya Pradesh
+3807,23-Apr-20,MZ,0,0,0,Mizoram
+3808,23-Apr-20,NL,0,0,0,Nagaland
+3809,23-Apr-20,OR,6,0,1,Odisha
+3810,23-Apr-20,PB,5,1,13,Punjab
+3811,23-Apr-20,PY,0,0,0,Puducherry
+3812,23-Apr-20,RJ,76,1,107,Rajasthan
+3813,23-Apr-20,SK,0,0,0,Sikkim
+3814,23-Apr-20,TG,27,1,58,Telangana
+3815,23-Apr-20,TN,54,2,90,Tamil Nadu
+3816,23-Apr-20,TR,0,0,1,Tripura
+3817,23-Apr-20,TT,1667,40,642,Total
+3818,23-Apr-20,UN,0,0,0,State Unassigned
+3819,23-Apr-20,UP,61,3,33,Uttar Pradesh
+3820,23-Apr-20,UT,1,0,1,Uttarakhand
+3821,23-Apr-20,WB,33,0,6,West Bengal
+3822,23-Jul-20,AN,19,0,7,Andaman and Nicobar Islands
+3823,23-Jul-20,AP,7998,61,5428,Andhra Pradesh
+3824,23-Jul-20,AR,42,0,20,Arunachal Pradesh
+3825,23-Jul-20,AS,1047,4,1349,Assam
+3826,23-Jul-20,BR,1625,4,1083,Bihar
+3827,23-Jul-20,CH,20,0,5,Chandigarh
+3828,23-Jul-20,CT,371,5,157,Chhattisgarh
+3829,23-Jul-20,DD,0,0,0,Daman and Diu
+3830,23-Jul-20,DL,1041,26,1415,Delhi
+3831,23-Jul-20,DN,45,0,23,Dadra and Nagar Haveli and Daman and Diu
+3832,23-Jul-20,GA,174,1,114,Goa
+3833,23-Jul-20,GJ,1078,28,718,Gujarat
+3834,23-Jul-20,HP,109,0,31,Himachal Pradesh
+3835,23-Jul-20,HR,789,6,552,Haryana
+3836,23-Jul-20,JH,482,3,206,Jharkhand
+3837,23-Jul-20,JK,718,9,102,Jammu and Kashmir
+3838,23-Jul-20,KA,5030,97,2071,Karnataka
+3839,23-Jul-20,KL,1078,5,432,Kerala
+3840,23-Jul-20,LA,4,0,7,Ladakh
+3841,23-Jul-20,LD,0,0,0,Lakshadweep
+3842,23-Jul-20,MH,9895,298,6484,Maharashtra
+3843,23-Jul-20,ML,20,0,5,Meghalaya
+3844,23-Jul-20,MN,55,0,42,Manipur
+3845,23-Jul-20,MP,632,10,523,Madhya Pradesh
+3846,23-Jul-20,MZ,9,0,4,Mizoram
+3847,23-Jul-20,NL,90,0,44,Nagaland
+3848,23-Jul-20,OR,1264,6,643,Odisha
+3849,23-Jul-20,PB,438,8,100,Punjab
+3850,23-Jul-20,PY,120,3,31,Puducherry
+3851,23-Jul-20,RJ,886,11,451,Rajasthan
+3852,23-Jul-20,SK,22,0,10,Sikkim
+3853,23-Jul-20,TG,1567,9,1661,Telangana
+3854,23-Jul-20,TN,6472,88,5210,Tamil Nadu
+3855,23-Jul-20,TR,206,1,39,Tripura
+3856,23-Jul-20,TT,48443,755,33326,Total
+3857,23-Jul-20,UN,0,0,0,State Unassigned
+3858,23-Jul-20,UP,2516,35,2303,Uttar Pradesh
+3859,23-Jul-20,UT,145,3,50,Uttarakhand
+3860,23-Jul-20,WB,2436,34,2006,West Bengal
+3861,23-Jun-20,AN,2,0,3,Andaman and Nicobar Islands
+3862,23-Jun-20,AP,462,8,157,Andhra Pradesh
+3863,23-Jun-20,AR,10,0,16,Arunachal Pradesh
+3864,23-Jun-20,AS,203,0,197,Assam
+3865,23-Jun-20,BR,157,2,260,Bihar
+3866,23-Jun-20,CH,7,0,0,Chandigarh
+3867,23-Jun-20,CT,83,0,40,Chhattisgarh
+3868,23-Jun-20,DD,0,0,0,Daman and Diu
+3869,23-Jun-20,DL,3947,68,2711,Delhi
+3870,23-Jun-20,DN,9,0,0,Dadra and Nagar Haveli and Daman and Diu
+3871,23-Jun-20,GA,45,1,53,Goa
+3872,23-Jun-20,GJ,549,26,604,Gujarat
+3873,23-Jun-20,HP,48,0,3,Himachal Pradesh
+3874,23-Jun-20,HR,495,9,582,Haryana
+3875,23-Jun-20,JH,53,0,51,Jharkhand
+3876,23-Jun-20,JK,148,2,111,Jammu and Kashmir
+3877,23-Jun-20,KA,322,8,274,Karnataka
+3878,23-Jun-20,KL,141,1,60,Kerala
+3879,23-Jun-20,LA,85,0,12,Ladakh
+3880,23-Jun-20,LD,0,0,0,Lakshadweep
+3881,23-Jun-20,MH,3214,248,1925,Maharashtra
+3882,23-Jun-20,ML,1,0,4,Meghalaya
+3883,23-Jun-20,MN,23,0,8,Manipur
+3884,23-Jun-20,MP,183,4,120,Madhya Pradesh
+3885,23-Jun-20,MZ,0,0,7,Mizoram
+3886,23-Jun-20,NL,50,0,0,Nagaland
+3887,23-Jun-20,OR,167,3,125,Odisha
+3888,23-Jun-20,PB,162,4,222,Punjab
+3889,23-Jun-20,PY,19,1,16,Puducherry
+3890,23-Jun-20,RJ,395,9,303,Rajasthan
+3891,23-Jun-20,SK,1,0,0,Sikkim
+3892,23-Jun-20,TG,879,3,219,Telangana
+3893,23-Jun-20,TN,2516,39,1227,Tamil Nadu
+3894,23-Jun-20,TR,23,0,25,Tripura
+3895,23-Jun-20,TT,15656,468,10462,Total
+3896,23-Jun-20,UN,183,0,0,State Unassigned
+3897,23-Jun-20,UP,571,19,515,Uttar Pradesh
+3898,23-Jun-20,UT,133,2,81,Uttarakhand
+3899,23-Jun-20,WB,370,11,531,West Bengal
+3900,23-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
+3901,23-Mar-20,AP,1,0,0,Andhra Pradesh
+3902,23-Mar-20,AR,0,0,0,Arunachal Pradesh
+3903,23-Mar-20,AS,0,0,0,Assam
+3904,23-Mar-20,BR,1,0,0,Bihar
+3905,23-Mar-20,CH,1,0,0,Chandigarh
+3906,23-Mar-20,CT,0,0,0,Chhattisgarh
+3907,23-Mar-20,DD,0,0,0,Daman and Diu
+3908,23-Mar-20,DL,3,0,0,Delhi
+3909,23-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+3910,23-Mar-20,GA,0,0,0,Goa
+3911,23-Mar-20,GJ,12,0,0,Gujarat
+3912,23-Mar-20,HP,1,1,0,Himachal Pradesh
+3913,23-Mar-20,HR,7,0,11,Haryana
+3914,23-Mar-20,JH,0,0,0,Jharkhand
+3915,23-Mar-20,JK,0,0,0,Jammu and Kashmir
+3916,23-Mar-20,KA,7,0,1,Karnataka
+3917,23-Mar-20,KL,28,0,0,Kerala
+3918,23-Mar-20,LA,0,0,0,Ladakh
+3919,23-Mar-20,LD,0,0,0,Lakshadweep
+3920,23-Mar-20,MH,23,0,0,Maharashtra
+3921,23-Mar-20,ML,0,0,0,Meghalaya
+3922,23-Mar-20,MN,0,0,0,Manipur
+3923,23-Mar-20,MP,0,0,0,Madhya Pradesh
+3924,23-Mar-20,MZ,0,0,0,Mizoram
+3925,23-Mar-20,NL,0,0,0,Nagaland
+3926,23-Mar-20,OR,0,0,0,Odisha
+3927,23-Mar-20,PB,2,0,0,Punjab
+3928,23-Mar-20,PY,0,0,0,Puducherry
+3929,23-Mar-20,RJ,4,0,0,Rajasthan
+3930,23-Mar-20,SK,0,0,0,Sikkim
+3931,23-Mar-20,TG,6,0,0,Telangana
+3932,23-Mar-20,TN,3,0,0,Tamil Nadu
+3933,23-Mar-20,TR,0,0,0,Tripura
+3934,23-Mar-20,TT,102,2,12,Total
+3935,23-Mar-20,UN,0,0,0,State Unassigned
+3936,23-Mar-20,UP,2,0,0,Uttar Pradesh
+3937,23-Mar-20,UT,1,0,0,Uttarakhand
+3938,23-Mar-20,WB,0,1,0,West Bengal
+3939,23-May-20,AN,0,0,0,Andaman and Nicobar Islands
+3940,23-May-20,AP,47,1,48,Andhra Pradesh
+3941,23-May-20,AR,0,0,0,Arunachal Pradesh
+3942,23-May-20,AS,121,0,2,Assam
+3943,23-May-20,BR,228,0,24,Bihar
+3944,23-May-20,CH,6,0,1,Chandigarh
+3945,23-May-20,CT,42,0,2,Chhattisgarh
+3946,23-May-20,DD,0,0,0,Daman and Diu
+3947,23-May-20,DL,591,23,370,Delhi
+3948,23-May-20,DN,1,0,0,Dadra and Nagar Haveli and Daman and Diu
+3949,23-May-20,GA,1,0,0,Goa
+3950,23-May-20,GJ,396,27,289,Gujarat
+3951,23-May-20,HP,17,0,2,Himachal Pradesh
+3952,23-May-20,HR,64,0,44,Haryana
+3953,23-May-20,JH,27,0,5,Jharkhand
+3954,23-May-20,JK,80,1,54,Jammu and Kashmir
+3955,23-May-20,KA,216,1,11,Karnataka
+3956,23-May-20,KL,62,0,3,Kerala
+3957,23-May-20,LA,3,0,0,Ladakh
+3958,23-May-20,LD,0,0,0,Lakshadweep
+3959,23-May-20,MH,2608,60,821,Maharashtra
+3960,23-May-20,ML,0,0,0,Meghalaya
+3961,23-May-20,MN,3,0,0,Manipur
+3962,23-May-20,MP,201,9,178,Madhya Pradesh
+3963,23-May-20,MZ,0,0,0,Mizoram
+3964,23-May-20,NL,0,0,0,Nagaland
+3965,23-May-20,OR,80,0,61,Odisha
+3966,23-May-20,PB,16,0,23,Punjab
+3967,23-May-20,PY,0,0,0,Puducherry
+3968,23-May-20,RJ,248,7,106,Rajasthan
+3969,23-May-20,SK,1,0,0,Sikkim
+3970,23-May-20,TG,52,1,25,Telangana
+3971,23-May-20,TN,759,5,363,Tamil Nadu
+3972,23-May-20,TR,16,0,0,Tripura
+3973,23-May-20,TT,6663,142,2576,Total
+3974,23-May-20,UN,279,0,0,State Unassigned
+3975,23-May-20,UP,282,3,82,Uttar Pradesh
+3976,23-May-20,UT,91,0,2,Uttarakhand
+3977,23-May-20,WB,127,4,60,West Bengal
+3978,24-Apr-20,AN,7,0,0,Andaman and Nicobar Islands
+3979,24-Apr-20,AP,62,2,4,Andhra Pradesh
+3980,24-Apr-20,AR,0,0,0,Arunachal Pradesh
+3981,24-Apr-20,AS,0,0,0,Assam
+3982,24-Apr-20,BR,53,0,0,Bihar
+3983,24-Apr-20,CH,0,0,1,Chandigarh
+3984,24-Apr-20,CT,0,0,0,Chhattisgarh
+3985,24-Apr-20,DD,0,0,0,Daman and Diu
+3986,24-Apr-20,DL,138,3,49,Delhi
+3987,24-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+3988,24-Apr-20,GA,0,0,0,Goa
+3989,24-Apr-20,GJ,191,15,7,Gujarat
+3990,24-Apr-20,HP,0,0,0,Himachal Pradesh
+3991,24-Apr-20,HR,5,0,16,Haryana
+3992,24-Apr-20,JH,6,0,0,Jharkhand
+3993,24-Apr-20,JK,20,0,17,Jammu and Kashmir
+3994,24-Apr-20,KA,29,1,7,Karnataka
+3995,24-Apr-20,KL,3,1,15,Kerala
+3996,24-Apr-20,LA,0,0,0,Ladakh
+3997,24-Apr-20,LD,0,0,0,Lakshadweep
+3998,24-Apr-20,MH,390,18,117,Maharashtra
+3999,24-Apr-20,ML,0,0,0,Meghalaya
+4000,24-Apr-20,MN,0,0,0,Manipur
+4001,24-Apr-20,MP,159,9,7,Madhya Pradesh
+4002,24-Apr-20,MZ,0,0,0,Mizoram
+4003,24-Apr-20,NL,0,0,0,Nagaland
+4004,24-Apr-20,OR,5,0,0,Odisha
+4005,24-Apr-20,PB,15,0,4,Punjab
+4006,24-Apr-20,PY,0,0,0,Puducherry
+4007,24-Apr-20,RJ,70,4,42,Rajasthan
+4008,24-Apr-20,SK,0,0,0,Sikkim
+4009,24-Apr-20,TG,13,0,39,Telangana
+4010,24-Apr-20,TN,72,2,114,Tamil Nadu
+4011,24-Apr-20,TR,0,0,0,Tripura
+4012,24-Apr-20,TT,1408,59,484,Total
+4013,24-Apr-20,UN,0,0,0,State Unassigned
+4014,24-Apr-20,UP,111,1,20,Uttar Pradesh
+4015,24-Apr-20,UT,1,0,1,Uttarakhand
+4016,24-Apr-20,WB,58,3,24,West Bengal
+4017,24-Jun-20,AN,6,0,1,Andaman and Nicobar Islands
+4018,24-Jun-20,AP,497,10,187,Andhra Pradesh
+4019,24-Jun-20,AR,2,1,0,Arunachal Pradesh
+4020,24-Jun-20,AS,226,0,196,Assam
+4021,24-Jun-20,BR,223,1,79,Bihar
+4022,24-Jun-20,CH,2,0,0,Chandigarh
+4023,24-Jun-20,CT,34,0,74,Chhattisgarh
+4024,24-Jun-20,DD,0,0,0,Daman and Diu
+4025,24-Jun-20,DL,3788,64,2124,Delhi
+4026,24-Jun-20,DN,13,0,3,Dadra and Nagar Haveli and Daman and Diu
+4027,24-Jun-20,GA,42,0,84,Goa
+4028,24-Jun-20,GJ,572,25,575,Gujarat
+4029,24-Jun-20,HP,31,0,34,Himachal Pradesh
+4030,24-Jun-20,HR,490,10,427,Haryana
+4031,24-Jun-20,JH,26,1,55,Jharkhand
+4032,24-Jun-20,JK,186,1,176,Jammu and Kashmir
+4033,24-Jun-20,KA,397,14,149,Karnataka
+4034,24-Jun-20,KL,152,0,81,Kerala
+4035,24-Jun-20,LA,0,0,126,Ladakh
+4036,24-Jun-20,LD,0,0,0,Lakshadweep
+4037,24-Jun-20,MH,3889,208,4161,Maharashtra
+4038,24-Jun-20,ML,0,0,0,Meghalaya
+4039,24-Jun-20,MN,49,0,70,Manipur
+4040,24-Jun-20,MP,187,9,138,Madhya Pradesh
+4041,24-Jun-20,MZ,3,0,5,Mizoram
+4042,24-Jun-20,NL,17,0,7,Nagaland
+4043,24-Jun-20,OR,282,0,135,Odisha
+4044,24-Jun-20,PB,230,8,52,Punjab
+4045,24-Jun-20,PY,59,0,11,Puducherry
+4046,24-Jun-20,RJ,382,10,398,Rajasthan
+4047,24-Jun-20,SK,4,0,10,Sikkim
+4048,24-Jun-20,TG,891,5,137,Telangana
+4049,24-Jun-20,TN,2865,33,2424,Tamil Nadu
+4050,24-Jun-20,TR,0,0,97,Tripura
+4051,24-Jun-20,TT,16868,424,13089,Total
+4052,24-Jun-20,UN,126,0,0,State Unassigned
+4053,24-Jun-20,UP,664,8,470,Uttar Pradesh
+4054,24-Jun-20,UT,88,5,119,Uttarakhand
+4055,24-Jun-20,WB,445,11,484,West Bengal
+4056,24-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
+4057,24-Mar-20,AP,1,0,0,Andhra Pradesh
+4058,24-Mar-20,AR,0,0,0,Arunachal Pradesh
+4059,24-Mar-20,AS,0,0,0,Assam
+4060,24-Mar-20,BR,0,0,0,Bihar
+4061,24-Mar-20,CH,0,0,0,Chandigarh
+4062,24-Mar-20,CT,0,0,0,Chhattisgarh
+4063,24-Mar-20,DD,0,0,0,Daman and Diu
+4064,24-Mar-20,DL,0,0,1,Delhi
+4065,24-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4066,24-Mar-20,GA,0,0,0,Goa
+4067,24-Mar-20,GJ,4,0,0,Gujarat
+4068,24-Mar-20,HP,0,0,0,Himachal Pradesh
+4069,24-Mar-20,HR,2,0,0,Haryana
+4070,24-Mar-20,JH,0,0,0,Jharkhand
+4071,24-Mar-20,JK,2,0,0,Jammu and Kashmir
+4072,24-Mar-20,KA,8,0,1,Karnataka
+4073,24-Mar-20,KL,14,0,1,Kerala
+4074,24-Mar-20,LA,0,0,0,Ladakh
+4075,24-Mar-20,LD,0,0,0,Lakshadweep
+4076,24-Mar-20,MH,10,0,0,Maharashtra
+4077,24-Mar-20,ML,0,0,0,Meghalaya
+4078,24-Mar-20,MN,1,0,0,Manipur
+4079,24-Mar-20,MP,1,0,0,Madhya Pradesh
+4080,24-Mar-20,MZ,0,0,0,Mizoram
+4081,24-Mar-20,NL,0,0,0,Nagaland
+4082,24-Mar-20,OR,0,0,0,Odisha
+4083,24-Mar-20,PB,6,0,0,Punjab
+4084,24-Mar-20,PY,0,0,0,Puducherry
+4085,24-Mar-20,RJ,0,0,0,Rajasthan
+4086,24-Mar-20,SK,0,0,0,Sikkim
+4087,24-Mar-20,TG,4,0,0,Telangana
+4088,24-Mar-20,TN,6,1,0,Tamil Nadu
+4089,24-Mar-20,TR,0,0,0,Tripura
+4090,24-Mar-20,TT,64,1,5,Total
+4091,24-Mar-20,UN,0,0,0,State Unassigned
+4092,24-Mar-20,UP,3,0,2,Uttar Pradesh
+4093,24-Mar-20,UT,0,0,0,Uttarakhand
+4094,24-Mar-20,WB,2,0,0,West Bengal
+4095,24-May-20,AN,0,0,0,Andaman and Nicobar Islands
+4096,24-May-20,AP,66,0,62,Andhra Pradesh
+4097,24-May-20,AR,1,0,0,Arunachal Pradesh
+4098,24-May-20,AS,46,0,1,Assam
+4099,24-May-20,BR,180,0,49,Bihar
+4100,24-May-20,CH,37,1,0,Chandigarh
+4101,24-May-20,CT,38,0,0,Chhattisgarh
+4102,24-May-20,DD,0,0,0,Daman and Diu
+4103,24-May-20,DL,508,30,273,Delhi
+4104,24-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4105,24-May-20,GA,11,0,0,Goa
+4106,24-May-20,GJ,394,29,243,Gujarat
+4107,24-May-20,HP,18,0,2,Himachal Pradesh
+4108,24-May-20,HR,53,0,15,Haryana
+4109,24-May-20,JH,20,1,7,Jharkhand
+4110,24-May-20,JK,52,0,35,Jammu and Kashmir
+4111,24-May-20,KA,130,0,46,Karnataka
+4112,24-May-20,KL,53,1,5,Kerala
+4113,24-May-20,LA,3,0,0,Ladakh
+4114,24-May-20,LD,0,0,0,Lakshadweep
+4115,24-May-20,MH,3041,58,1196,Maharashtra
+4116,24-May-20,ML,0,0,0,Meghalaya
+4117,24-May-20,MN,3,0,2,Manipur
+4118,24-May-20,MP,294,9,141,Madhya Pradesh
+4119,24-May-20,MZ,0,0,0,Mizoram
+4120,24-May-20,NL,0,0,0,Nagaland
+4121,24-May-20,OR,67,0,53,Odisha
+4122,24-May-20,PB,15,1,28,Punjab
+4123,24-May-20,PY,15,0,2,Puducherry
+4124,24-May-20,RJ,286,3,62,Rajasthan
+4125,24-May-20,SK,0,0,0,Sikkim
+4126,24-May-20,TG,41,4,24,Telangana
+4127,24-May-20,TN,765,8,833,Tamil Nadu
+4128,24-May-20,TR,3,0,13,Tripura
+4129,24-May-20,TT,7111,156,3285,Total
+4130,24-May-20,UN,439,0,0,State Unassigned
+4131,24-May-20,UP,251,6,132,Uttar Pradesh
+4132,24-May-20,UT,73,2,3,Uttarakhand
+4133,24-May-20,WB,208,3,58,West Bengal
+4134,25-Apr-20,AN,4,0,0,Andaman and Nicobar Islands
+4135,25-Apr-20,AP,61,2,26,Andhra Pradesh
+4136,25-Apr-20,AR,0,0,0,Arunachal Pradesh
+4137,25-Apr-20,AS,0,0,0,Assam
+4138,25-Apr-20,BR,28,0,1,Bihar
+4139,25-Apr-20,CH,1,0,0,Chandigarh
+4140,25-Apr-20,CT,1,0,2,Chhattisgarh
+4141,25-Apr-20,DD,0,0,0,Daman and Diu
+4142,25-Apr-20,DL,111,1,12,Delhi
+4143,25-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4144,25-Apr-20,GA,0,0,0,Goa
+4145,25-Apr-20,GJ,256,6,17,Gujarat
+4146,25-Apr-20,HP,0,0,4,Himachal Pradesh
+4147,25-Apr-20,HR,12,0,5,Haryana
+4148,25-Apr-20,JH,8,0,0,Jharkhand
+4149,25-Apr-20,JK,40,1,3,Jammu and Kashmir
+4150,25-Apr-20,KA,26,0,6,Karnataka
+4151,25-Apr-20,KL,7,0,7,Kerala
+4152,25-Apr-20,LA,2,0,0,Ladakh
+4153,25-Apr-20,LD,0,0,0,Lakshadweep
+4154,25-Apr-20,MH,811,22,119,Maharashtra
+4155,25-Apr-20,ML,0,0,0,Meghalaya
+4156,25-Apr-20,MN,0,0,0,Manipur
+4157,25-Apr-20,MP,99,7,71,Madhya Pradesh
+4158,25-Apr-20,MZ,0,0,0,Mizoram
+4159,25-Apr-20,NL,0,0,0,Nagaland
+4160,25-Apr-20,OR,6,0,1,Odisha
+4161,25-Apr-20,PB,10,0,2,Punjab
+4162,25-Apr-20,PY,1,0,0,Puducherry
+4163,25-Apr-20,RJ,49,2,20,Rajasthan
+4164,25-Apr-20,SK,0,0,0,Sikkim
+4165,25-Apr-20,TG,7,0,16,Telangana
+4166,25-Apr-20,TN,66,1,94,Tamil Nadu
+4167,25-Apr-20,TR,0,0,0,Tripura
+4168,25-Apr-20,TT,1835,44,442,Total
+4169,25-Apr-20,UN,0,0,0,State Unassigned
+4170,25-Apr-20,UP,172,2,35,Uttar Pradesh
+4171,25-Apr-20,UT,0,0,1,Uttarakhand
+4172,25-Apr-20,WB,57,0,0,West Bengal
+4173,25-Jun-20,AN,2,0,0,Andaman and Nicobar Islands
+4174,25-Jun-20,AP,553,7,209,Andhra Pradesh
+4175,25-Jun-20,AR,12,0,4,Arunachal Pradesh
+4176,25-Jun-20,AS,364,0,75,Assam
+4177,25-Jun-20,BR,215,1,374,Bihar
+4178,25-Jun-20,CH,3,0,7,Chandigarh
+4179,25-Jun-20,CT,37,0,128,Chhattisgarh
+4180,25-Jun-20,DD,0,0,0,Daman and Diu
+4181,25-Jun-20,DL,3390,64,3328,Delhi
+4182,25-Jun-20,DN,20,0,8,Dadra and Nagar Haveli and Daman and Diu
+4183,25-Jun-20,GA,44,0,46,Goa
+4184,25-Jun-20,GJ,577,18,410,Gujarat
+4185,25-Jun-20,HP,33,1,8,Himachal Pradesh
+4186,25-Jun-20,HR,453,10,455,Haryana
+4187,25-Jun-20,JH,44,0,30,Jharkhand
+4188,25-Jun-20,JK,127,2,149,Jammu and Kashmir
+4189,25-Jun-20,KA,442,6,519,Karnataka
+4190,25-Jun-20,KL,123,0,53,Kerala
+4191,25-Jun-20,LA,9,0,84,Ladakh
+4192,25-Jun-20,LD,0,0,0,Lakshadweep
+4193,25-Jun-20,MH,4842,192,3661,Maharashtra
+4194,25-Jun-20,ML,0,0,1,Meghalaya
+4195,25-Jun-20,MN,86,0,26,Manipur
+4196,25-Jun-20,MP,147,8,146,Madhya Pradesh
+4197,25-Jun-20,MZ,0,0,6,Mizoram
+4198,25-Jun-20,NL,8,0,12,Nagaland
+4199,25-Jun-20,OR,210,0,168,Odisha
+4200,25-Jun-20,PB,142,7,93,Punjab
+4201,25-Jun-20,PY,41,0,11,Puducherry
+4202,25-Jun-20,RJ,287,4,229,Rajasthan
+4203,25-Jun-20,SK,2,0,0,Sikkim
+4204,25-Jun-20,TG,920,5,327,Telangana
+4205,25-Jun-20,TN,3509,45,2236,Tamil Nadu
+4206,25-Jun-20,TR,32,0,122,Tripura
+4207,25-Jun-20,TT,18205,401,13983,Total
+4208,25-Jun-20,UN,352,0,0,State Unassigned
+4209,25-Jun-20,UP,636,15,533,Uttar Pradesh
+4210,25-Jun-20,UT,68,1,37,Uttarakhand
+4211,25-Jun-20,WB,475,15,488,West Bengal
+4212,25-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
+4213,25-Mar-20,AP,2,0,1,Andhra Pradesh
+4214,25-Mar-20,AR,0,0,0,Arunachal Pradesh
+4215,25-Mar-20,AS,0,0,0,Assam
+4216,25-Mar-20,BR,1,0,0,Bihar
+4217,25-Mar-20,CH,0,0,0,Chandigarh
+4218,25-Mar-20,CT,2,0,0,Chhattisgarh
+4219,25-Mar-20,DD,0,0,0,Daman and Diu
+4220,25-Mar-20,DL,5,0,0,Delhi
+4221,25-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4222,25-Mar-20,GA,3,0,0,Goa
+4223,25-Mar-20,GJ,4,0,0,Gujarat
+4224,25-Mar-20,HP,0,0,0,Himachal Pradesh
+4225,25-Mar-20,HR,1,0,0,Haryana
+4226,25-Mar-20,JH,0,0,0,Jharkhand
+4227,25-Mar-20,JK,5,0,1,Jammu and Kashmir
+4228,25-Mar-20,KA,10,0,0,Karnataka
+4229,25-Mar-20,KL,9,0,0,Kerala
+4230,25-Mar-20,LA,0,0,0,Ladakh
+4231,25-Mar-20,LD,0,0,0,Lakshadweep
+4232,25-Mar-20,MH,15,0,1,Maharashtra
+4233,25-Mar-20,ML,0,0,0,Meghalaya
+4234,25-Mar-20,MN,0,0,0,Manipur
+4235,25-Mar-20,MP,8,1,0,Madhya Pradesh
+4236,25-Mar-20,MZ,1,0,0,Mizoram
+4237,25-Mar-20,NL,0,0,0,Nagaland
+4238,25-Mar-20,OR,0,0,0,Odisha
+4239,25-Mar-20,PB,2,0,0,Punjab
+4240,25-Mar-20,PY,0,0,0,Puducherry
+4241,25-Mar-20,RJ,6,0,0,Rajasthan
+4242,25-Mar-20,SK,0,0,0,Sikkim
+4243,25-Mar-20,TG,4,0,0,Telangana
+4244,25-Mar-20,TN,8,0,0,Tamil Nadu
+4245,25-Mar-20,TR,0,0,0,Tripura
+4246,25-Mar-20,TT,90,1,3,Total
+4247,25-Mar-20,UN,0,0,0,State Unassigned
+4248,25-Mar-20,UP,3,0,0,Uttar Pradesh
+4249,25-Mar-20,UT,1,0,0,Uttarakhand
+4250,25-Mar-20,WB,0,0,0,West Bengal
+4251,25-May-20,AN,0,0,0,Andaman and Nicobar Islands
+4252,25-May-20,AP,106,0,51,Andhra Pradesh
+4253,25-May-20,AR,0,0,0,Arunachal Pradesh
+4254,25-May-20,AS,156,0,5,Assam
+4255,25-May-20,BR,163,2,31,Bihar
+4256,25-May-20,CH,4,0,8,Chandigarh
+4257,25-May-20,CT,40,0,3,Chhattisgarh
+4258,25-May-20,DD,0,0,0,Daman and Diu
+4259,25-May-20,DL,635,15,231,Delhi
+4260,25-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4261,25-May-20,GA,1,0,3,Goa
+4262,25-May-20,GJ,405,30,224,Gujarat
+4263,25-May-20,HP,20,0,4,Himachal Pradesh
+4264,25-May-20,HR,29,0,37,Haryana
+4265,25-May-20,JH,35,0,0,Jharkhand
+4266,25-May-20,JK,47,2,0,Jammu and Kashmir
+4267,25-May-20,KA,93,2,51,Karnataka
+4268,25-May-20,KL,49,0,12,Kerala
+4269,25-May-20,LA,1,0,0,Ladakh
+4270,25-May-20,LD,0,0,0,Lakshadweep
+4271,25-May-20,MH,2436,60,1186,Maharashtra
+4272,25-May-20,ML,1,0,0,Meghalaya
+4273,25-May-20,MN,4,0,0,Manipur
+4274,25-May-20,MP,194,10,163,Madhya Pradesh
+4275,25-May-20,MZ,0,0,0,Mizoram
+4276,25-May-20,NL,3,0,0,Nagaland
+4277,25-May-20,OR,102,0,99,Odisha
+4278,25-May-20,PB,21,0,15,Punjab
+4279,25-May-20,PY,8,0,5,Puducherry
+4280,25-May-20,RJ,272,4,208,Rajasthan
+4281,25-May-20,SK,0,0,0,Sikkim
+4282,25-May-20,TG,66,3,72,Telangana
+4283,25-May-20,TN,805,7,407,Tamil Nadu
+4284,25-May-20,TR,4,0,0,Tripura
+4285,25-May-20,TT,6414,150,3012,Total
+4286,25-May-20,UN,304,0,0,State Unassigned
+4287,25-May-20,UP,229,8,122,Uttar Pradesh
+4288,25-May-20,UT,32,1,0,Uttarakhand
+4289,25-May-20,WB,149,6,75,West Bengal
+4290,26-Apr-20,AN,0,0,0,Andaman and Nicobar Islands
+4291,26-Apr-20,AP,81,0,60,Andhra Pradesh
+4292,26-Apr-20,AR,0,0,0,Arunachal Pradesh
+4293,26-Apr-20,AS,0,0,8,Assam
+4294,26-Apr-20,BR,26,0,11,Bihar
+4295,26-Apr-20,CH,8,0,2,Chandigarh
+4296,26-Apr-20,CT,0,0,0,Chhattisgarh
+4297,26-Apr-20,DD,0,0,0,Daman and Diu
+4298,26-Apr-20,DL,293,0,8,Delhi
+4299,26-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4300,26-Apr-20,GA,0,0,0,Goa
+4301,26-Apr-20,GJ,230,18,31,Gujarat
+4302,26-Apr-20,HP,0,0,0,Himachal Pradesh
+4303,26-Apr-20,HR,9,0,8,Haryana
+4304,26-Apr-20,JH,15,0,5,Jharkhand
+4305,26-Apr-20,JK,29,0,25,Jammu and Kashmir
+4306,26-Apr-20,KA,3,1,24,Karnataka
+4307,26-Apr-20,KL,11,0,4,Kerala
+4308,26-Apr-20,LA,0,0,0,Ladakh
+4309,26-Apr-20,LD,0,0,0,Lakshadweep
+4310,26-Apr-20,MH,440,19,112,Maharashtra
+4311,26-Apr-20,ML,0,0,0,Meghalaya
+4312,26-Apr-20,MN,0,0,0,Manipur
+4313,26-Apr-20,MP,145,4,21,Madhya Pradesh
+4314,26-Apr-20,MZ,0,0,0,Mizoram
+4315,26-Apr-20,NL,0,0,0,Nagaland
+4316,26-Apr-20,OR,3,0,1,Odisha
+4317,26-Apr-20,PB,14,1,12,Punjab
+4318,26-Apr-20,PY,0,0,0,Puducherry
+4319,26-Apr-20,RJ,102,7,116,Rajasthan
+4320,26-Apr-20,SK,0,0,0,Sikkim
+4321,26-Apr-20,TG,11,0,9,Telangana
+4322,26-Apr-20,TN,64,1,60,Tamil Nadu
+4323,26-Apr-20,TR,0,0,0,Tripura
+4324,26-Apr-20,TT,1607,56,585,Total
+4325,26-Apr-20,UN,0,0,0,State Unassigned
+4326,26-Apr-20,UP,80,3,66,Uttar Pradesh
+4327,26-Apr-20,UT,3,0,0,Uttarakhand
+4328,26-Apr-20,WB,40,2,2,West Bengal
+4329,26-Jun-20,AN,14,0,2,Andaman and Nicobar Islands
+4330,26-Jun-20,AP,605,10,208,Andhra Pradesh
+4331,26-Jun-20,AR,2,0,7,Arunachal Pradesh
+4332,26-Jun-20,AS,273,0,214,Assam
+4333,26-Jun-20,BR,190,0,189,Bihar
+4334,26-Jun-20,CH,2,0,6,Chandigarh
+4335,26-Jun-20,CT,89,1,156,Chhattisgarh
+4336,26-Jun-20,DD,0,0,0,Daman and Diu
+4337,26-Jun-20,DL,3460,63,2326,Delhi
+4338,26-Jun-20,DN,15,0,12,Dadra and Nagar Haveli and Daman and Diu
+4339,26-Jun-20,GA,44,0,35,Goa
+4340,26-Jun-20,GJ,580,18,532,Gujarat
+4341,26-Jun-20,HP,25,0,20,Himachal Pradesh
+4342,26-Jun-20,HR,421,13,636,Haryana
+4343,26-Jun-20,JH,31,0,42,Jharkhand
+4344,26-Jun-20,JK,213,1,113,Jammu and Kashmir
+4345,26-Jun-20,KA,445,10,246,Karnataka
+4346,26-Jun-20,KL,150,0,65,Kerala
+4347,26-Jun-20,LA,5,0,109,Ladakh
+4348,26-Jun-20,LD,0,0,0,Lakshadweep
+4349,26-Jun-20,MH,5024,175,2362,Maharashtra
+4350,26-Jun-20,ML,2,0,0,Meghalaya
+4351,26-Jun-20,MN,19,0,39,Manipur
+4352,26-Jun-20,MP,203,4,185,Madhya Pradesh
+4353,26-Jun-20,MZ,2,0,17,Mizoram
+4354,26-Jun-20,NL,16,0,2,Nagaland
+4355,26-Jun-20,OR,218,0,131,Odisha
+4356,26-Jun-20,PB,188,2,9,Punjab
+4357,26-Jun-20,PY,32,0,16,Puducherry
+4358,26-Jun-20,RJ,364,1,222,Rajasthan
+4359,26-Jun-20,SK,2,0,0,Sikkim
+4360,26-Jun-20,TG,985,7,78,Telangana
+4361,26-Jun-20,TN,3645,46,1358,Tamil Nadu
+4362,26-Jun-20,TR,35,0,36,Tripura
+4363,26-Jun-20,TT,18255,381,10246,Total
+4364,26-Jun-20,UN,-370,0,0,State Unassigned
+4365,26-Jun-20,UP,750,19,464,Uttar Pradesh
+4366,26-Jun-20,UT,34,1,64,Uttarakhand
+4367,26-Jun-20,WB,542,10,345,West Bengal
+4368,26-Mar-20,AN,1,0,0,Andaman and Nicobar Islands
+4369,26-Mar-20,AP,1,0,0,Andhra Pradesh
+4370,26-Mar-20,AR,0,0,0,Arunachal Pradesh
+4371,26-Mar-20,AS,0,0,0,Assam
+4372,26-Mar-20,BR,3,0,0,Bihar
+4373,26-Mar-20,CH,0,0,0,Chandigarh
+4374,26-Mar-20,CT,3,0,0,Chhattisgarh
+4375,26-Mar-20,DD,0,0,0,Daman and Diu
+4376,26-Mar-20,DL,1,0,0,Delhi
+4377,26-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4378,26-Mar-20,GA,0,0,0,Goa
+4379,26-Mar-20,GJ,5,2,0,Gujarat
+4380,26-Mar-20,HP,0,0,0,Himachal Pradesh
+4381,26-Mar-20,HR,1,0,0,Haryana
+4382,26-Mar-20,JH,0,0,0,Jharkhand
+4383,26-Mar-20,JK,3,1,0,Jammu and Kashmir
+4384,26-Mar-20,KA,4,1,0,Karnataka
+4385,26-Mar-20,KL,19,0,7,Kerala
+4386,26-Mar-20,LA,0,0,0,Ladakh
+4387,26-Mar-20,LD,0,0,0,Lakshadweep
+4388,26-Mar-20,MH,3,1,0,Maharashtra
+4389,26-Mar-20,ML,0,0,0,Meghalaya
+4390,26-Mar-20,MN,0,0,0,Manipur
+4391,26-Mar-20,MP,5,0,0,Madhya Pradesh
+4392,26-Mar-20,MZ,0,0,0,Mizoram
+4393,26-Mar-20,NL,0,0,0,Nagaland
+4394,26-Mar-20,OR,1,0,0,Odisha
+4395,26-Mar-20,PB,2,0,0,Punjab
+4396,26-Mar-20,PY,0,0,0,Puducherry
+4397,26-Mar-20,RJ,2,0,0,Rajasthan
+4398,26-Mar-20,SK,0,0,0,Sikkim
+4399,26-Mar-20,TG,3,0,0,Telangana
+4400,26-Mar-20,TN,3,0,0,Tamil Nadu
+4401,26-Mar-20,TR,0,0,0,Tripura
+4402,26-Mar-20,TT,65,5,7,Total
+4403,26-Mar-20,UN,0,0,0,State Unassigned
+4404,26-Mar-20,UP,4,0,0,Uttar Pradesh
+4405,26-Mar-20,UT,0,0,0,Uttarakhand
+4406,26-Mar-20,WB,1,0,0,West Bengal
+4407,26-May-20,AN,0,0,0,Andaman and Nicobar Islands
+4408,26-May-20,AP,97,1,125,Andhra Pradesh
+4409,26-May-20,AR,0,0,0,Arunachal Pradesh
+4410,26-May-20,AS,134,0,0,Assam
+4411,26-May-20,BR,231,1,67,Bihar
+4412,26-May-20,CH,12,0,0,Chandigarh
+4413,26-May-20,CT,68,0,12,Chhattisgarh
+4414,26-May-20,DD,0,0,0,Daman and Diu
+4415,26-May-20,DL,412,12,183,Delhi
+4416,26-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4417,26-May-20,GA,0,0,9,Goa
+4418,26-May-20,GJ,361,27,501,Gujarat
+4419,26-May-20,HP,24,0,0,Himachal Pradesh
+4420,26-May-20,HR,92,0,22,Haryana
+4421,26-May-20,JH,21,0,5,Jharkhand
+4422,26-May-20,JK,91,1,24,Jammu and Kashmir
+4423,26-May-20,KA,101,0,59,Karnataka
+4424,26-May-20,KL,67,1,10,Kerala
+4425,26-May-20,LA,0,0,0,Ladakh
+4426,26-May-20,LD,0,0,0,Lakshadweep
+4427,26-May-20,MH,2091,97,1168,Maharashtra
+4428,26-May-20,ML,5,0,0,Meghalaya
+4429,26-May-20,MN,3,0,0,Manipur
+4430,26-May-20,MP,165,5,118,Madhya Pradesh
+4431,26-May-20,MZ,0,0,0,Mizoram
+4432,26-May-20,NL,1,0,0,Nagaland
+4433,26-May-20,OR,79,0,84,Odisha
+4434,26-May-20,PB,25,0,5,Punjab
+4435,26-May-20,PY,0,0,0,Puducherry
+4436,26-May-20,RJ,236,3,220,Rajasthan
+4437,26-May-20,SK,0,0,0,Sikkim
+4438,26-May-20,TG,112,1,120,Telangana
+4439,26-May-20,TN,646,11,611,Tamil Nadu
+4440,26-May-20,TR,34,0,0,Tripura
+4441,26-May-20,TT,5907,173,3585,Total
+4442,26-May-20,UN,328,0,0,State Unassigned
+4443,26-May-20,UP,227,8,164,Uttar Pradesh
+4444,26-May-20,UT,51,0,6,Uttarakhand
+4445,26-May-20,WB,193,5,72,West Bengal
+4446,27-Apr-20,AN,0,0,0,Andaman and Nicobar Islands
+4447,27-Apr-20,AP,80,0,4,Andhra Pradesh
+4448,27-Apr-20,AR,0,0,0,Arunachal Pradesh
+4449,27-Apr-20,AS,0,0,0,Assam
+4450,27-Apr-20,BR,69,0,0,Bihar
+4451,27-Apr-20,CH,9,0,0,Chandigarh
+4452,27-Apr-20,CT,0,0,0,Chhattisgarh
+4453,27-Apr-20,DD,0,0,0,Daman and Diu
+4454,27-Apr-20,DL,190,0,0,Delhi
+4455,27-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4456,27-Apr-20,GA,0,0,0,Goa
+4457,27-Apr-20,GJ,247,11,81,Gujarat
+4458,27-Apr-20,HP,0,0,3,Himachal Pradesh
+4459,27-Apr-20,HR,5,0,14,Haryana
+4460,27-Apr-20,JH,21,0,4,Jharkhand
+4461,27-Apr-20,JK,23,1,27,Jammu and Kashmir
+4462,27-Apr-20,KA,9,1,11,Karnataka
+4463,27-Apr-20,KL,13,0,13,Kerala
+4464,27-Apr-20,LA,0,0,0,Ladakh
+4465,27-Apr-20,LD,0,0,0,Lakshadweep
+4466,27-Apr-20,MH,522,27,94,Maharashtra
+4467,27-Apr-20,ML,0,0,0,Meghalaya
+4468,27-Apr-20,MN,0,0,0,Manipur
+4469,27-Apr-20,MP,75,7,55,Madhya Pradesh
+4470,27-Apr-20,MZ,0,0,0,Mizoram
+4471,27-Apr-20,NL,0,0,0,Nagaland
+4472,27-Apr-20,OR,15,0,2,Odisha
+4473,27-Apr-20,PB,8,1,14,Punjab
+4474,27-Apr-20,PY,0,0,1,Puducherry
+4475,27-Apr-20,RJ,77,9,115,Rajasthan
+4476,27-Apr-20,SK,0,0,0,Sikkim
+4477,27-Apr-20,TG,2,0,16,Telangana
+4478,27-Apr-20,TN,52,0,54,Tamil Nadu
+4479,27-Apr-20,TR,0,0,0,Tripura
+4480,27-Apr-20,TT,1568,58,580,Total
+4481,27-Apr-20,UN,0,0,0,State Unassigned
+4482,27-Apr-20,UP,113,1,72,Uttar Pradesh
+4483,27-Apr-20,UT,0,0,0,Uttarakhand
+4484,27-Apr-20,WB,38,0,0,West Bengal
+4485,27-Jun-20,AN,0,0,0,Andaman and Nicobar Islands
+4486,27-Jun-20,AP,796,11,284,Andhra Pradesh
+4487,27-Jun-20,AR,3,0,5,Arunachal Pradesh
+4488,27-Jun-20,AS,246,1,567,Assam
+4489,27-Jun-20,BR,302,2,261,Bihar
+4490,27-Jun-20,CH,3,0,0,Chandigarh
+4491,27-Jun-20,CT,65,0,52,Chhattisgarh
+4492,27-Jun-20,DD,0,0,0,Daman and Diu
+4493,27-Jun-20,DL,2948,66,2210,Delhi
+4494,27-Jun-20,DN,15,0,6,Dadra and Nagar Haveli and Daman and Diu
+4495,27-Jun-20,GA,89,0,50,Goa
+4496,27-Jun-20,GJ,615,18,379,Gujarat
+4497,27-Jun-20,HP,30,0,7,Himachal Pradesh
+4498,27-Jun-20,HR,543,7,456,Haryana
+4499,27-Jun-20,JH,45,0,77,Jharkhand
+4500,27-Jun-20,JK,204,2,145,Jammu and Kashmir
+4501,27-Jun-20,KA,918,11,371,Karnataka
+4502,27-Jun-20,KL,195,0,102,Kerala
+4503,27-Jun-20,LA,14,0,87,Ladakh
+4504,27-Jun-20,LD,0,0,0,Lakshadweep
+4505,27-Jun-20,MH,6368,167,4430,Maharashtra
+4506,27-Jun-20,ML,0,0,0,Meghalaya
+4507,27-Jun-20,MN,17,0,39,Manipur
+4508,27-Jun-20,MP,167,4,167,Madhya Pradesh
+4509,27-Jun-20,MZ,3,0,8,Mizoram
+4510,27-Jun-20,NL,16,0,2,Nagaland
+4511,27-Jun-20,OR,170,1,184,Odisha
+4512,27-Jun-20,PB,99,6,119,Punjab
+4513,27-Jun-20,PY,85,1,18,Puducherry
+4514,27-Jun-20,RJ,284,11,305,Rajasthan
+4515,27-Jun-20,SK,0,0,10,Sikkim
+4516,27-Jun-20,TG,1087,6,162,Telangana
+4517,27-Jun-20,TN,3713,68,2737,Tamil Nadu
+4518,27-Jun-20,TR,9,0,16,Tripura
+4519,27-Jun-20,TT,20142,414,14229,Total
+4520,27-Jun-20,UN,-100,0,0,State Unassigned
+4521,27-Jun-20,UP,606,19,632,Uttar Pradesh
+4522,27-Jun-20,UT,66,0,87,Uttarakhand
+4523,27-Jun-20,WB,521,13,254,West Bengal
+4524,27-Mar-20,AN,5,0,0,Andaman and Nicobar Islands
+4525,27-Mar-20,AP,2,0,0,Andhra Pradesh
+4526,27-Mar-20,AR,0,0,0,Arunachal Pradesh
+4527,27-Mar-20,AS,0,0,0,Assam
+4528,27-Mar-20,BR,2,0,0,Bihar
+4529,27-Mar-20,CH,1,0,0,Chandigarh
+4530,27-Mar-20,CT,0,0,0,Chhattisgarh
+4531,27-Mar-20,DD,0,0,0,Daman and Diu
+4532,27-Mar-20,DL,4,0,0,Delhi
+4533,27-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4534,27-Mar-20,GA,0,0,0,Goa
+4535,27-Mar-20,GJ,4,0,0,Gujarat
+4536,27-Mar-20,HP,0,0,1,Himachal Pradesh
+4537,27-Mar-20,HR,1,0,0,Haryana
+4538,27-Mar-20,JH,0,0,0,Jharkhand
+4539,27-Mar-20,JK,6,0,0,Jammu and Kashmir
+4540,27-Mar-20,KA,9,1,2,Karnataka
+4541,27-Mar-20,KL,39,0,0,Kerala
+4542,27-Mar-20,LA,0,0,3,Ladakh
+4543,27-Mar-20,LD,0,0,0,Lakshadweep
+4544,27-Mar-20,MH,31,1,18,Maharashtra
+4545,27-Mar-20,ML,0,0,0,Meghalaya
+4546,27-Mar-20,MN,0,0,0,Manipur
+4547,27-Mar-20,MP,9,1,0,Madhya Pradesh
+4548,27-Mar-20,MZ,0,0,0,Mizoram
+4549,27-Mar-20,NL,0,0,0,Nagaland
+4550,27-Mar-20,OR,0,0,0,Odisha
+4551,27-Mar-20,PB,5,0,1,Punjab
+4552,27-Mar-20,PY,0,0,0,Puducherry
+4553,27-Mar-20,RJ,10,0,0,Rajasthan
+4554,27-Mar-20,SK,0,0,0,Sikkim
+4555,27-Mar-20,TG,15,0,0,Telangana
+4556,27-Mar-20,TN,9,0,1,Tamil Nadu
+4557,27-Mar-20,TR,0,0,0,Tripura
+4558,27-Mar-20,TT,164,3,26,Total
+4559,27-Mar-20,UN,0,0,0,State Unassigned
+4560,27-Mar-20,UP,7,0,0,Uttar Pradesh
+4561,27-Mar-20,UT,0,0,0,Uttarakhand
+4562,27-Mar-20,WB,5,0,0,West Bengal
+4563,27-May-20,AN,0,0,0,Andaman and Nicobar Islands
+4564,27-May-20,AP,134,1,48,Andhra Pradesh
+4565,27-May-20,AR,0,0,0,Arunachal Pradesh
+4566,27-May-20,AS,101,0,25,Assam
+4567,27-May-20,BR,68,1,118,Bihar
+4568,27-May-20,CH,1,0,0,Chandigarh
+4569,27-May-20,CT,4,0,4,Chhattisgarh
+4570,27-May-20,DD,0,0,0,Daman and Diu
+4571,27-May-20,DL,792,15,310,Delhi
+4572,27-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4573,27-May-20,GA,1,0,9,Goa
+4574,27-May-20,GJ,376,23,410,Gujarat
+4575,27-May-20,HP,26,2,3,Himachal Pradesh
+4576,27-May-20,HR,76,2,14,Haryana
+4577,27-May-20,JH,7,0,0,Jharkhand
+4578,27-May-20,JK,162,2,21,Jammu and Kashmir
+4579,27-May-20,KA,135,3,17,Karnataka
+4580,27-May-20,KL,40,0,10,Kerala
+4581,27-May-20,LA,1,0,0,Ladakh
+4582,27-May-20,LD,0,0,0,Lakshadweep
+4583,27-May-20,MH,2190,105,964,Maharashtra
+4584,27-May-20,ML,0,0,0,Meghalaya
+4585,27-May-20,MN,5,0,0,Manipur
+4586,27-May-20,MP,237,8,238,Madhya Pradesh
+4587,27-May-20,MZ,0,0,0,Mizoram
+4588,27-May-20,NL,5,0,0,Nagaland
+4589,27-May-20,OR,76,0,79,Odisha
+4590,27-May-20,PB,33,0,0,Punjab
+4591,27-May-20,PY,0,0,0,Puducherry
+4592,27-May-20,RJ,280,3,286,Rajasthan
+4593,27-May-20,SK,0,0,0,Sikkim
+4594,27-May-20,TG,107,6,37,Telangana
+4595,27-May-20,TN,817,6,567,Tamil Nadu
+4596,27-May-20,TR,10,0,0,Tripura
+4597,27-May-20,TT,7246,188,3434,Total
+4598,27-May-20,UN,1043,0,0,State Unassigned
+4599,27-May-20,UP,267,5,167,Uttar Pradesh
+4600,27-May-20,UT,69,0,15,Uttarakhand
+4601,27-May-20,WB,183,6,92,West Bengal
+4602,28-Apr-20,AN,0,0,4,Andaman and Nicobar Islands
+4603,28-Apr-20,AP,82,0,23,Andhra Pradesh
+4604,28-Apr-20,AR,0,0,0,Arunachal Pradesh
+4605,28-Apr-20,AS,2,0,0,Assam
+4606,28-Apr-20,BR,20,0,8,Bihar
+4607,28-Apr-20,CH,11,0,0,Chandigarh
+4608,28-Apr-20,CT,1,0,2,Chhattisgarh
+4609,28-Apr-20,DD,0,0,0,Daman and Diu
+4610,28-Apr-20,DL,206,0,201,Delhi
+4611,28-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4612,28-Apr-20,GA,0,0,0,Goa
+4613,28-Apr-20,GJ,226,19,40,Gujarat
+4614,28-Apr-20,HP,0,0,0,Himachal Pradesh
+4615,28-Apr-20,HR,7,0,11,Haryana
+4616,28-Apr-20,JH,2,0,2,Jharkhand
+4617,28-Apr-20,JK,19,1,12,Jammu and Kashmir
+4618,28-Apr-20,KA,11,0,14,Karnataka
+4619,28-Apr-20,KL,4,0,4,Kerala
+4620,28-Apr-20,LA,2,0,0,Ladakh
+4621,28-Apr-20,LD,0,0,0,Lakshadweep
+4622,28-Apr-20,MH,728,31,106,Maharashtra
+4623,28-Apr-20,ML,0,0,0,Meghalaya
+4624,28-Apr-20,MN,0,0,0,Manipur
+4625,28-Apr-20,MP,222,10,16,Madhya Pradesh
+4626,28-Apr-20,MZ,0,0,0,Mizoram
+4627,28-Apr-20,NL,0,0,0,Nagaland
+4628,28-Apr-20,OR,0,0,1,Odisha
+4629,28-Apr-20,PB,12,0,3,Punjab
+4630,28-Apr-20,PY,0,0,0,Puducherry
+4631,28-Apr-20,RJ,102,2,26,Rajasthan
+4632,28-Apr-20,SK,0,0,0,Sikkim
+4633,28-Apr-20,TG,6,0,42,Telangana
+4634,28-Apr-20,TN,121,1,54,Tamil Nadu
+4635,28-Apr-20,TR,0,0,0,Tripura
+4636,28-Apr-20,TT,1902,69,636,Total
+4637,28-Apr-20,UN,0,0,0,State Unassigned
+4638,28-Apr-20,UP,67,3,63,Uttar Pradesh
+4639,28-Apr-20,UT,3,0,0,Uttarakhand
+4640,28-Apr-20,WB,48,2,4,West Bengal
+4641,28-Jun-20,AN,11,0,2,Andaman and Nicobar Islands
+4642,28-Jun-20,AP,813,12,428,Andhra Pradesh
+4643,28-Jun-20,AR,5,0,6,Arunachal Pradesh
+4644,28-Jun-20,AS,327,1,274,Assam
+4645,28-Jun-20,BR,244,4,226,Bihar
+4646,28-Jun-20,CH,3,0,1,Chandigarh
+4647,28-Jun-20,CT,84,0,125,Chhattisgarh
+4648,28-Jun-20,DD,0,0,0,Daman and Diu
+4649,28-Jun-20,DL,2889,65,3306,Delhi
+4650,28-Jun-20,DN,4,0,13,Dadra and Nagar Haveli and Daman and Diu
+4651,28-Jun-20,GA,70,1,58,Goa
+4652,28-Jun-20,GJ,624,19,391,Gujarat
+4653,28-Jun-20,HP,22,0,17,Himachal Pradesh
+4654,28-Jun-20,HR,402,5,445,Haryana
+4655,28-Jun-20,JH,25,0,69,Jharkhand
+4656,28-Jun-20,JK,127,1,91,Jammu and Kashmir
+4657,28-Jun-20,KA,1267,16,220,Karnataka
+4658,28-Jun-20,KL,118,0,42,Kerala
+4659,28-Jun-20,LA,3,0,32,Ladakh
+4660,28-Jun-20,LD,0,0,0,Lakshadweep
+4661,28-Jun-20,MH,5493,156,2330,Maharashtra
+4662,28-Jun-20,ML,2,0,0,Meghalaya
+4663,28-Jun-20,MN,93,0,23,Manipur
+4664,28-Jun-20,MP,221,7,113,Madhya Pradesh
+4665,28-Jun-20,MZ,1,0,0,Mizoram
+4666,28-Jun-20,NL,28,0,0,Nagaland
+4667,28-Jun-20,OR,264,3,137,Odisha
+4668,28-Jun-20,PB,160,5,206,Punjab
+4669,28-Jun-20,PY,29,1,31,Puducherry
+4670,28-Jun-20,RJ,327,8,244,Rajasthan
+4671,28-Jun-20,SK,1,0,0,Sikkim
+4672,28-Jun-20,TG,983,4,244,Telangana
+4673,28-Jun-20,TN,3940,54,1443,Tamil Nadu
+4674,28-Jun-20,TR,12,0,8,Tripura
+4675,28-Jun-20,TT,19610,384,11631,Total
+4676,28-Jun-20,UN,-184,0,0,State Unassigned
+4677,28-Jun-20,UP,598,11,593,Uttar Pradesh
+4678,28-Jun-20,UT,32,1,109,Uttarakhand
+4679,28-Jun-20,WB,572,10,404,West Bengal
+4680,28-Mar-20,AN,3,0,0,Andaman and Nicobar Islands
+4681,28-Mar-20,AP,6,0,0,Andhra Pradesh
+4682,28-Mar-20,AR,0,0,0,Arunachal Pradesh
+4683,28-Mar-20,AS,0,0,0,Assam
+4684,28-Mar-20,BR,2,0,0,Bihar
+4685,28-Mar-20,CH,0,0,0,Chandigarh
+4686,28-Mar-20,CT,1,0,0,Chhattisgarh
+4687,28-Mar-20,DD,0,0,0,Daman and Diu
+4688,28-Mar-20,DL,9,0,0,Delhi
+4689,28-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4690,28-Mar-20,GA,0,0,0,Goa
+4691,28-Mar-20,GJ,8,1,0,Gujarat
+4692,28-Mar-20,HP,0,0,1,Himachal Pradesh
+4693,28-Mar-20,HR,2,0,0,Haryana
+4694,28-Mar-20,JH,0,0,0,Jharkhand
+4695,28-Mar-20,JK,13,0,0,Jammu and Kashmir
+4696,28-Mar-20,KA,17,0,0,Karnataka
+4697,28-Mar-20,KL,6,1,1,Kerala
+4698,28-Mar-20,LA,0,0,0,Ladakh
+4699,28-Mar-20,LD,0,0,0,Lakshadweep
+4700,28-Mar-20,MH,30,2,6,Maharashtra
+4701,28-Mar-20,ML,0,0,0,Meghalaya
+4702,28-Mar-20,MN,0,0,0,Manipur
+4703,28-Mar-20,MP,10,0,0,Madhya Pradesh
+4704,28-Mar-20,MZ,0,0,0,Mizoram
+4705,28-Mar-20,NL,0,0,0,Nagaland
+4706,28-Mar-20,OR,0,0,0,Odisha
+4707,28-Mar-20,PB,0,0,0,Punjab
+4708,28-Mar-20,PY,0,0,0,Puducherry
+4709,28-Mar-20,RJ,4,0,0,Rajasthan
+4710,28-Mar-20,SK,0,0,0,Sikkim
+4711,28-Mar-20,TG,8,1,0,Telangana
+4712,28-Mar-20,TN,4,0,0,Tamil Nadu
+4713,28-Mar-20,TR,0,0,0,Tripura
+4714,28-Mar-20,TT,143,5,9,Total
+4715,28-Mar-20,UN,0,0,0,State Unassigned
+4716,28-Mar-20,UP,16,0,0,Uttar Pradesh
+4717,28-Mar-20,UT,1,0,1,Uttarakhand
+4718,28-Mar-20,WB,3,0,0,West Bengal
+4719,28-May-20,AN,0,0,0,Andaman and Nicobar Islands
+4720,28-May-20,AP,128,1,68,Andhra Pradesh
+4721,28-May-20,AR,1,0,0,Arunachal Pradesh
+4722,28-May-20,AS,97,0,16,Assam
+4723,28-May-20,BR,149,0,132,Bihar
+4724,28-May-20,CH,10,0,2,Chandigarh
+4725,28-May-20,CT,34,0,0,Chhattisgarh
+4726,28-May-20,DD,0,0,0,Daman and Diu
+4727,28-May-20,DL,1024,13,231,Delhi
+4728,28-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4729,28-May-20,GA,1,0,1,Goa
+4730,28-May-20,GJ,367,22,454,Gujarat
+4731,28-May-20,HP,8,0,7,Himachal Pradesh
+4732,28-May-20,HR,123,1,43,Haryana
+4733,28-May-20,JH,6,0,0,Jharkhand
+4734,28-May-20,JK,115,1,5,Jammu and Kashmir
+4735,28-May-20,KA,115,0,53,Karnataka
+4736,28-May-20,KL,85,1,3,Kerala
+4737,28-May-20,LA,20,0,0,Ladakh
+4738,28-May-20,LD,0,0,0,Lakshadweep
+4739,28-May-20,MH,2598,85,698,Maharashtra
+4740,28-May-20,ML,1,0,0,Meghalaya
+4741,28-May-20,MN,11,0,0,Manipur
+4742,28-May-20,MP,192,8,123,Madhya Pradesh
+4743,28-May-20,MZ,0,0,0,Mizoram
+4744,28-May-20,NL,9,0,0,Nagaland
+4745,28-May-20,OR,67,0,75,Odisha
+4746,28-May-20,PB,19,0,28,Punjab
+4747,28-May-20,PY,4,0,0,Puducherry
+4748,28-May-20,RJ,251,7,253,Rajasthan
+4749,28-May-20,SK,0,0,0,Sikkim
+4750,28-May-20,TG,117,4,24,Telangana
+4751,28-May-20,TN,827,12,639,Tamil Nadu
+4752,28-May-20,TR,2,0,2,Tripura
+4753,28-May-20,TT,7254,176,3171,Total
+4754,28-May-20,UN,319,0,0,State Unassigned
+4755,28-May-20,UP,179,15,224,Uttar Pradesh
+4756,28-May-20,UT,31,0,0,Uttarakhand
+4757,28-May-20,WB,344,6,90,West Bengal
+4758,29-Apr-20,AN,0,0,0,Andaman and Nicobar Islands
+4759,29-Apr-20,AP,73,0,29,Andhra Pradesh
+4760,29-Apr-20,AR,0,0,0,Arunachal Pradesh
+4761,29-Apr-20,AS,0,0,2,Assam
+4762,29-Apr-20,BR,37,0,0,Bihar
+4763,29-Apr-20,CH,12,0,0,Chandigarh
+4764,29-Apr-20,CT,0,0,0,Chhattisgarh
+4765,29-Apr-20,DD,0,0,0,Daman and Diu
+4766,29-Apr-20,DL,125,2,14,Delhi
+4767,29-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4768,29-Apr-20,GA,0,0,0,Goa
+4769,29-Apr-20,GJ,308,16,93,Gujarat
+4770,29-Apr-20,HP,0,0,0,Himachal Pradesh
+4771,29-Apr-20,HR,3,0,1,Haryana
+4772,29-Apr-20,JH,2,0,0,Jharkhand
+4773,29-Apr-20,JK,16,0,16,Jammu and Kashmir
+4774,29-Apr-20,KA,12,1,9,Karnataka
+4775,29-Apr-20,KL,10,0,10,Kerala
+4776,29-Apr-20,LA,0,0,1,Ladakh
+4777,29-Apr-20,LD,0,0,0,Lakshadweep
+4778,29-Apr-20,MH,597,32,205,Maharashtra
+4779,29-Apr-20,ML,0,0,0,Meghalaya
+4780,29-Apr-20,MN,0,0,0,Manipur
+4781,29-Apr-20,MP,173,10,88,Madhya Pradesh
+4782,29-Apr-20,MZ,0,0,0,Mizoram
+4783,29-Apr-20,NL,0,0,0,Nagaland
+4784,29-Apr-20,OR,7,0,1,Odisha
+4785,29-Apr-20,PB,33,0,0,Punjab
+4786,29-Apr-20,PY,0,0,0,Puducherry
+4787,29-Apr-20,RJ,76,3,44,Rajasthan
+4788,29-Apr-20,SK,0,0,0,Sikkim
+4789,29-Apr-20,TG,7,0,35,Telangana
+4790,29-Apr-20,TN,104,2,82,Tamil Nadu
+4791,29-Apr-20,TR,0,0,0,Tripura
+4792,29-Apr-20,TT,1705,71,690,Total
+4793,29-Apr-20,UN,0,0,0,State Unassigned
+4794,29-Apr-20,UP,81,5,48,Uttar Pradesh
+4795,29-Apr-20,UT,1,0,2,Uttarakhand
+4796,29-Apr-20,WB,28,0,10,West Bengal
+4797,29-Jun-20,AN,7,0,0,Andaman and Nicobar Islands
+4798,29-Jun-20,AP,793,11,324,Andhra Pradesh
+4799,29-Jun-20,AR,5,0,1,Arunachal Pradesh
+4800,29-Jun-20,AS,302,0,245,Assam
+4801,29-Jun-20,BR,394,1,218,Bihar
+4802,29-Jun-20,CH,3,0,13,Chandigarh
+4803,29-Jun-20,CT,101,0,88,Chhattisgarh
+4804,29-Jun-20,DD,0,0,0,Daman and Diu
+4805,29-Jun-20,DL,2084,57,3628,Delhi
+4806,29-Jun-20,DN,15,0,6,Dadra and Nagar Haveli and Daman and Diu
+4807,29-Jun-20,GA,53,0,46,Goa
+4808,29-Jun-20,GJ,626,19,440,Gujarat
+4809,29-Jun-20,HP,26,0,38,Himachal Pradesh
+4810,29-Jun-20,HR,381,9,585,Haryana
+4811,29-Jun-20,JH,62,3,56,Jharkhand
+4812,29-Jun-20,JK,144,1,269,Jammu and Kashmir
+4813,29-Jun-20,KA,1105,19,176,Karnataka
+4814,29-Jun-20,KL,122,1,79,Kerala
+4815,29-Jun-20,LA,1,0,30,Ladakh
+4816,29-Jun-20,LD,0,0,0,Lakshadweep
+4817,29-Jun-20,MH,5257,181,2385,Maharashtra
+4818,29-Jun-20,ML,1,0,0,Meghalaya
+4819,29-Jun-20,MN,42,0,39,Manipur
+4820,29-Jun-20,MP,184,7,115,Madhya Pradesh
+4821,29-Jun-20,MZ,0,0,6,Mizoram
+4822,29-Jun-20,NL,36,0,4,Nagaland
+4823,29-Jun-20,OR,245,2,203,Odisha
+4824,29-Jun-20,PB,202,5,238,Punjab
+4825,29-Jun-20,PY,42,0,10,Puducherry
+4826,29-Jun-20,RJ,389,6,310,Rajasthan
+4827,29-Jun-20,SK,0,0,0,Sikkim
+4828,29-Jun-20,TG,975,6,410,Telangana
+4829,29-Jun-20,TN,3949,62,2212,Tamil Nadu
+4830,29-Jun-20,TR,34,0,6,Tripura
+4831,29-Jun-20,TT,18339,417,13497,Total
+4832,29-Jun-20,UN,-554,0,0,State Unassigned
+4833,29-Jun-20,UP,681,12,698,Uttar Pradesh
+4834,29-Jun-20,UT,8,1,93,Uttarakhand
+4835,29-Jun-20,WB,624,14,526,West Bengal
+4836,29-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
+4837,29-Mar-20,AP,2,0,0,Andhra Pradesh
+4838,29-Mar-20,AR,0,0,0,Arunachal Pradesh
+4839,29-Mar-20,AS,0,0,0,Assam
+4840,29-Mar-20,BR,4,0,0,Bihar
+4841,29-Mar-20,CH,0,0,0,Chandigarh
+4842,29-Mar-20,CT,0,0,0,Chhattisgarh
+4843,29-Mar-20,DD,0,0,0,Daman and Diu
+4844,29-Mar-20,DL,23,1,0,Delhi
+4845,29-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4846,29-Mar-20,GA,2,0,0,Goa
+4847,29-Mar-20,GJ,8,1,1,Gujarat
+4848,29-Mar-20,HP,0,0,0,Himachal Pradesh
+4849,29-Mar-20,HR,0,0,0,Haryana
+4850,29-Mar-20,JH,0,0,0,Jharkhand
+4851,29-Mar-20,JK,5,0,0,Jammu and Kashmir
+4852,29-Mar-20,KA,2,0,0,Karnataka
+4853,29-Mar-20,KL,20,0,4,Kerala
+4854,29-Mar-20,LA,0,0,0,Ladakh
+4855,29-Mar-20,LD,0,0,0,Lakshadweep
+4856,29-Mar-20,MH,17,1,0,Maharashtra
+4857,29-Mar-20,ML,0,0,0,Meghalaya
+4858,29-Mar-20,MN,0,0,0,Manipur
+4859,29-Mar-20,MP,0,0,0,Madhya Pradesh
+4860,29-Mar-20,MZ,0,0,0,Mizoram
+4861,29-Mar-20,NL,0,0,0,Nagaland
+4862,29-Mar-20,OR,0,0,0,Odisha
+4863,29-Mar-20,PB,0,0,0,Punjab
+4864,29-Mar-20,PY,0,0,0,Puducherry
+4865,29-Mar-20,RJ,5,0,0,Rajasthan
+4866,29-Mar-20,SK,0,0,0,Sikkim
+4867,29-Mar-20,TG,3,0,0,Telangana
+4868,29-Mar-20,TN,8,0,0,Tamil Nadu
+4869,29-Mar-20,TR,0,0,0,Tripura
+4870,29-Mar-20,TT,110,3,5,Total
+4871,29-Mar-20,UN,0,0,0,State Unassigned
+4872,29-Mar-20,UP,7,0,0,Uttar Pradesh
+4873,29-Mar-20,UT,1,0,0,Uttarakhand
+4874,29-Mar-20,WB,3,0,0,West Bengal
+4875,29-May-20,AN,0,0,0,Andaman and Nicobar Islands
+4876,29-May-20,AP,85,1,101,Andhra Pradesh
+4877,29-May-20,AR,0,0,0,Arunachal Pradesh
+4878,29-May-20,AS,177,0,22,Assam
+4879,29-May-20,BR,174,0,159,Bihar
+4880,29-May-20,CH,0,0,0,Chandigarh
+4881,29-May-20,CT,17,1,17,Chhattisgarh
+4882,29-May-20,DD,0,0,0,Daman and Diu
+4883,29-May-20,DL,1105,82,351,Delhi
+4884,29-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4885,29-May-20,GA,0,0,3,Goa
+4886,29-May-20,GJ,372,20,608,Gujarat
+4887,29-May-20,HP,14,0,10,Himachal Pradesh
+4888,29-May-20,HR,217,0,59,Haryana
+4889,29-May-20,JH,82,1,63,Jharkhand
+4890,29-May-20,JK,128,1,16,Jammu and Kashmir
+4891,29-May-20,KA,248,1,60,Karnataka
+4892,29-May-20,KL,62,1,10,Kerala
+4893,29-May-20,LA,0,0,0,Ladakh
+4894,29-May-20,LD,0,0,0,Lakshadweep
+4895,29-May-20,MH,2682,116,8381,Maharashtra
+4896,29-May-20,ML,6,0,0,Meghalaya
+4897,29-May-20,MN,4,0,2,Manipur
+4898,29-May-20,MP,192,13,219,Madhya Pradesh
+4899,29-May-20,MZ,0,0,0,Mizoram
+4900,29-May-20,NL,7,0,0,Nagaland
+4901,29-May-20,OR,63,2,90,Odisha
+4902,29-May-20,PB,39,2,3,Punjab
+4903,29-May-20,PY,4,0,6,Puducherry
+4904,29-May-20,RJ,298,4,429,Rajasthan
+4905,29-May-20,SK,0,0,0,Sikkim
+4906,29-May-20,TG,169,4,36,Telangana
+4907,29-May-20,TN,874,9,765,Tamil Nadu
+4908,29-May-20,TR,10,0,0,Tripura
+4909,29-May-20,TT,8138,269,11735,Total
+4910,29-May-20,UN,341,0,0,State Unassigned
+4911,29-May-20,UP,275,4,195,Uttar Pradesh
+4912,29-May-20,UT,216,0,23,Uttarakhand
+4913,29-May-20,WB,277,7,107,West Bengal
+4914,30-Apr-20,AN,0,0,1,Andaman and Nicobar Islands
+4915,30-Apr-20,AP,71,0,34,Andhra Pradesh
+4916,30-Apr-20,AR,0,0,0,Arunachal Pradesh
+4917,30-Apr-20,AS,5,0,0,Assam
+4918,30-Apr-20,BR,22,0,20,Bihar
+4919,30-Apr-20,CH,6,0,1,Chandigarh
+4920,30-Apr-20,CT,2,0,2,Chhattisgarh
+4921,30-Apr-20,DD,0,0,0,Daman and Diu
+4922,30-Apr-20,DL,76,3,2,Delhi
+4923,30-Apr-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+4924,30-Apr-20,GA,0,0,0,Goa
+4925,30-Apr-20,GJ,313,17,86,Gujarat
+4926,30-Apr-20,HP,0,0,3,Himachal Pradesh
+4927,30-Apr-20,HR,28,1,10,Haryana
+4928,30-Apr-20,JH,3,0,0,Jharkhand
+4929,30-Apr-20,JK,33,0,24,Jammu and Kashmir
+4930,30-Apr-20,KA,30,1,13,Karnataka
+4931,30-Apr-20,KL,2,0,14,Kerala
+4932,30-Apr-20,LA,0,0,0,Ladakh
+4933,30-Apr-20,LD,0,0,0,Lakshadweep
+4934,30-Apr-20,MH,583,27,180,Maharashtra
+4935,30-Apr-20,ML,0,0,0,Meghalaya
+4936,30-Apr-20,MN,0,0,0,Manipur
+4937,30-Apr-20,MP,65,7,21,Madhya Pradesh
+4938,30-Apr-20,MZ,0,0,0,Mizoram
+4939,30-Apr-20,NL,0,0,0,Nagaland
+4940,30-Apr-20,OR,18,0,2,Odisha
+4941,30-Apr-20,PB,105,1,3,Punjab
+4942,30-Apr-20,PY,0,0,0,Puducherry
+4943,30-Apr-20,RJ,144,3,79,Rajasthan
+4944,30-Apr-20,SK,0,0,0,Sikkim
+4945,30-Apr-20,TG,22,3,33,Telangana
+4946,30-Apr-20,TN,161,0,48,Tamil Nadu
+4947,30-Apr-20,TR,1,0,0,Tripura
+4948,30-Apr-20,TT,1802,75,630,Total
+4949,30-Apr-20,UN,0,0,0,State Unassigned
+4950,30-Apr-20,UP,77,1,41,Uttar Pradesh
+4951,30-Apr-20,UT,2,0,8,Uttarakhand
+4952,30-Apr-20,WB,33,11,5,West Bengal
+4953,30-Jun-20,AN,7,0,0,Andaman and Nicobar Islands
+4954,30-Jun-20,AP,704,7,279,Andhra Pradesh
+4955,30-Jun-20,AR,4,0,1,Arunachal Pradesh
+4956,30-Jun-20,AS,613,1,314,Assam
+4957,30-Jun-20,BR,370,5,170,Bihar
+4958,30-Jun-20,CH,6,0,15,Chandigarh
+4959,30-Jun-20,CT,63,0,100,Chhattisgarh
+4960,30-Jun-20,DD,0,0,0,Daman and Diu
+4961,30-Jun-20,DL,2199,62,2113,Delhi
+4962,30-Jun-20,DN,10,0,7,Dadra and Nagar Haveli and Daman and Diu
+4963,30-Jun-20,GA,64,0,72,Goa
+4964,30-Jun-20,GJ,620,20,422,Gujarat
+4965,30-Jun-20,HP,11,1,19,Himachal Pradesh
+4966,30-Jun-20,HR,338,4,470,Haryana
+4967,30-Jun-20,JH,64,0,35,Jharkhand
+4968,30-Jun-20,JK,260,6,137,Jammu and Kashmir
+4969,30-Jun-20,KA,947,20,235,Karnataka
+4970,30-Jun-20,KL,131,1,75,Kerala
+4971,30-Jun-20,LA,9,0,32,Ladakh
+4972,30-Jun-20,LD,0,0,0,Lakshadweep
+4973,30-Jun-20,MH,4878,245,1951,Maharashtra
+4974,30-Jun-20,ML,2,0,0,Meghalaya
+4975,30-Jun-20,MN,7,0,59,Manipur
+4976,30-Jun-20,MP,223,8,196,Madhya Pradesh
+4977,30-Jun-20,MZ,9,0,61,Mizoram
+4978,30-Jun-20,NL,8,0,0,Nagaland
+4979,30-Jun-20,OR,206,2,243,Odisha
+4980,30-Jun-20,PB,150,6,103,Punjab
+4981,30-Jun-20,PY,24,1,10,Puducherry
+4982,30-Jun-20,RJ,348,8,299,Rajasthan
+4983,30-Jun-20,SK,0,0,1,Sikkim
+4984,30-Jun-20,TG,945,7,1712,Telangana
+4985,30-Jun-20,TN,3943,60,2325,Tamil Nadu
+4986,30-Jun-20,TR,8,0,0,Tripura
+4987,30-Jun-20,TT,18256,506,12565,Total
+4988,30-Jun-20,UN,-281,0,0,State Unassigned
+4989,30-Jun-20,UP,664,25,578,Uttar Pradesh
+4990,30-Jun-20,UT,50,2,120,Uttarakhand
+4991,30-Jun-20,WB,652,15,411,West Bengal
+4992,30-Mar-20,AN,1,0,0,Andaman and Nicobar Islands
+4993,30-Mar-20,AP,2,0,0,Andhra Pradesh
+4994,30-Mar-20,AR,0,0,0,Arunachal Pradesh
+4995,30-Mar-20,AS,0,0,0,Assam
+4996,30-Mar-20,BR,0,0,0,Bihar
+4997,30-Mar-20,CH,5,0,0,Chandigarh
+4998,30-Mar-20,CT,1,0,0,Chhattisgarh
+4999,30-Mar-20,DD,0,0,0,Daman and Diu
+5000,30-Mar-20,DL,25,0,0,Delhi
+5001,30-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+5002,30-Mar-20,GA,0,0,0,Goa
+5003,30-Mar-20,GJ,7,1,2,Gujarat
+5004,30-Mar-20,HP,0,0,0,Himachal Pradesh
+5005,30-Mar-20,HR,1,0,6,Haryana
+5006,30-Mar-20,JH,0,0,0,Jharkhand
+5007,30-Mar-20,JK,11,0,0,Jammu and Kashmir
+5008,30-Mar-20,KA,5,0,1,Karnataka
+5009,30-Mar-20,KL,32,0,4,Kerala
+5010,30-Mar-20,LA,0,0,0,Ladakh
+5011,30-Mar-20,LD,0,0,0,Lakshadweep
+5012,30-Mar-20,MH,17,2,14,Maharashtra
+5013,30-Mar-20,ML,0,0,0,Meghalaya
+5014,30-Mar-20,MN,0,0,0,Manipur
+5015,30-Mar-20,MP,8,2,0,Madhya Pradesh
+5016,30-Mar-20,MZ,0,0,0,Mizoram
+5017,30-Mar-20,NL,0,0,0,Nagaland
+5018,30-Mar-20,OR,0,0,0,Odisha
+5019,30-Mar-20,PB,3,2,0,Punjab
+5020,30-Mar-20,PY,0,0,0,Puducherry
+5021,30-Mar-20,RJ,20,0,0,Rajasthan
+5022,30-Mar-20,SK,0,0,0,Sikkim
+5023,30-Mar-20,TG,7,5,13,Telangana
+5024,30-Mar-20,TN,17,0,2,Tamil Nadu
+5025,30-Mar-20,TR,0,0,0,Tripura
+5026,30-Mar-20,TT,187,13,49,Total
+5027,30-Mar-20,UN,0,0,0,State Unassigned
+5028,30-Mar-20,UP,24,0,6,Uttar Pradesh
+5029,30-Mar-20,UT,0,0,1,Uttarakhand
+5030,30-Mar-20,WB,1,1,0,West Bengal
+5031,30-May-20,AN,0,0,0,Andaman and Nicobar Islands
+5032,30-May-20,AP,131,0,55,Andhra Pradesh
+5033,30-May-20,AR,1,0,0,Arunachal Pradesh
+5034,30-May-20,AS,159,0,38,Assam
+5035,30-May-20,BR,206,6,102,Bihar
+5036,30-May-20,CH,0,0,10,Chandigarh
+5037,30-May-20,CT,32,0,2,Chhattisgarh
+5038,30-May-20,DD,0,0,0,Daman and Diu
+5039,30-May-20,DL,1163,18,229,Delhi
+5040,30-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+5041,30-May-20,GA,1,0,1,Goa
+5042,30-May-20,GJ,412,27,621,Gujarat
+5043,30-May-20,HP,18,0,24,Himachal Pradesh
+5044,30-May-20,HR,202,1,31,Haryana
+5045,30-May-20,JH,73,0,40,Jharkhand
+5046,30-May-20,JK,177,0,33,Jammu and Kashmir
+5047,30-May-20,KA,141,1,103,Karnataka
+5048,30-May-20,KL,58,1,10,Kerala
+5049,30-May-20,LA,3,0,0,Ladakh
+5050,30-May-20,LD,0,0,0,Lakshadweep
+5051,30-May-20,MH,2940,99,1084,Maharashtra
+5052,30-May-20,ML,0,0,0,Meghalaya
+5053,30-May-20,MN,1,0,0,Manipur
+5054,30-May-20,MP,246,9,175,Madhya Pradesh
+5055,30-May-20,MZ,0,0,0,Mizoram
+5056,30-May-20,NL,11,0,0,Nagaland
+5057,30-May-20,OR,96,0,73,Odisha
+5058,30-May-20,PB,36,2,18,Punjab
+5059,30-May-20,PY,0,0,0,Puducherry
+5060,30-May-20,RJ,252,9,495,Rajasthan
+5061,30-May-20,SK,0,0,0,Sikkim
+5062,30-May-20,TG,74,6,31,Telangana
+5063,30-May-20,TN,938,6,687,Tamil Nadu
+5064,30-May-20,TR,17,0,5,Tripura
+5065,30-May-20,TT,8364,205,4303,Total
+5066,30-May-20,UN,370,0,0,State Unassigned
+5067,30-May-20,UP,256,12,241,Uttar Pradesh
+5068,30-May-20,UT,33,1,0,Uttarakhand
+5069,30-May-20,WB,317,7,195,West Bengal
+5070,31-Mar-20,AN,0,0,0,Andaman and Nicobar Islands
+5071,31-Mar-20,AP,21,0,0,Andhra Pradesh
+5072,31-Mar-20,AR,0,0,0,Arunachal Pradesh
+5073,31-Mar-20,AS,1,0,0,Assam
+5074,31-Mar-20,BR,6,0,0,Bihar
+5075,31-Mar-20,CH,2,0,0,Chandigarh
+5076,31-Mar-20,CT,1,0,2,Chhattisgarh
+5077,31-Mar-20,DD,0,0,0,Daman and Diu
+5078,31-Mar-20,DL,23,0,0,Delhi
+5079,31-Mar-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+5080,31-Mar-20,GA,0,0,0,Goa
+5081,31-Mar-20,GJ,4,0,2,Gujarat
+5082,31-Mar-20,HP,0,0,0,Himachal Pradesh
+5083,31-Mar-20,HR,7,0,0,Haryana
+5084,31-Mar-20,JH,1,0,0,Jharkhand
+5085,31-Mar-20,JK,6,1,0,Jammu and Kashmir
+5086,31-Mar-20,KA,13,0,2,Karnataka
+5087,31-Mar-20,KL,7,1,4,Kerala
+5088,31-Mar-20,LA,0,0,0,Ladakh
+5089,31-Mar-20,LD,0,0,0,Lakshadweep
+5090,31-Mar-20,MH,82,1,0,Maharashtra
+5091,31-Mar-20,ML,0,0,0,Meghalaya
+5092,31-Mar-20,MN,0,0,0,Manipur
+5093,31-Mar-20,MP,19,1,0,Madhya Pradesh
+5094,31-Mar-20,MZ,0,0,0,Mizoram
+5095,31-Mar-20,NL,0,0,0,Nagaland
+5096,31-Mar-20,OR,1,0,0,Odisha
+5097,31-Mar-20,PB,1,1,0,Punjab
+5098,31-Mar-20,PY,0,0,0,Puducherry
+5099,31-Mar-20,RJ,14,0,0,Rajasthan
+5100,31-Mar-20,SK,0,0,0,Sikkim
+5101,31-Mar-20,TG,20,0,0,Telangana
+5102,31-Mar-20,TN,57,0,2,Tamil Nadu
+5103,31-Mar-20,TR,0,0,0,Tripura
+5104,31-Mar-20,TT,309,6,15,Total
+5105,31-Mar-20,UN,0,0,0,State Unassigned
+5106,31-Mar-20,UP,8,0,0,Uttar Pradesh
+5107,31-Mar-20,UT,0,0,0,Uttarakhand
+5108,31-Mar-20,WB,15,1,3,West Bengal
+5109,31-May-20,AN,0,0,0,Andaman and Nicobar Islands
+5110,31-May-20,AP,110,2,51,Andhra Pradesh
+5111,31-May-20,AR,0,0,0,Arunachal Pradesh
+5112,31-May-20,AS,123,0,22,Assam
+5113,31-May-20,BR,242,2,209,Bihar
+5114,31-May-20,CH,4,0,0,Chandigarh
+5115,31-May-20,CT,51,0,12,Chhattisgarh
+5116,31-May-20,DD,0,0,0,Daman and Diu
+5117,31-May-20,DL,1295,57,403,Delhi
+5118,31-May-20,DN,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+5119,31-May-20,GA,1,0,2,Goa
+5120,31-May-20,GJ,438,31,689,Gujarat
+5121,31-May-20,HP,18,0,9,Himachal Pradesh
+5122,31-May-20,HR,168,0,77,Haryana
+5123,31-May-20,JH,41,0,0,Jharkhand
+5124,31-May-20,JK,105,0,19,Jammu and Kashmir
+5125,31-May-20,KA,299,2,221,Karnataka
+5126,31-May-20,KL,61,0,15,Kerala
+5127,31-May-20,LA,0,0,4,Ladakh
+5128,31-May-20,LD,0,0,0,Lakshadweep
+5129,31-May-20,MH,2487,89,1248,Maharashtra
+5130,31-May-20,ML,0,0,0,Meghalaya
+5131,31-May-20,MN,11,0,5,Manipur
+5132,31-May-20,MP,198,7,398,Madhya Pradesh
+5133,31-May-20,MZ,0,0,0,Mizoram
+5134,31-May-20,NL,7,0,0,Nagaland
+5135,31-May-20,OR,129,0,76,Odisha
+5136,31-May-20,PB,30,1,20,Punjab
+5137,31-May-20,PY,13,0,2,Puducherry
+5138,31-May-20,RJ,214,1,293,Rajasthan
+5139,31-May-20,SK,0,0,0,Sikkim
+5140,31-May-20,TG,199,5,16,Telangana
+5141,31-May-20,TN,1149,13,757,Tamil Nadu
+5142,31-May-20,TR,45,0,1,Tripura
+5143,31-May-20,TT,8789,222,4928,Total
+5144,31-May-20,UN,448,0,0,State Unassigned
+5145,31-May-20,UP,374,4,192,Uttar Pradesh
+5146,31-May-20,UT,158,0,0,Uttarakhand
+5147,31-May-20,WB,371,8,187,West Bengal
